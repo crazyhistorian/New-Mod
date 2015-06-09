@@ -1,0 +1,16 @@
+colonial = 2
+owner = ITA
+controller = ITA
+add_core = ETH
+trade_goods = coffee
+life_rating = 30
+
+1949.1.1 = {
+
+owner = ETH
+controller = ETH
+add_core = ETH
+trade_goods = coffee
+life_rating = 30
+
+}

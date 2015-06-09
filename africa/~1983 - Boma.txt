@@ -1,0 +1,6 @@
+colonial = yes
+owner = BEL
+controller = BEL
+add_core = BEL
+trade_goods = timber
+life_rating = 15

@@ -1,0 +1,20 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+trade_goods = grain
+life_rating = 35
+railroad = 3
+
+1949.1.1 = {
+
+colonial = no
+remove_core = ENG
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = grain
+life_rating = 35
+railroad = 3
+
+}

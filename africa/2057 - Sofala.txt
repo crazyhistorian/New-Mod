@@ -1,0 +1,6 @@
+colonial = 2
+owner = POR
+controller = POR
+
+trade_goods = tobacco
+life_rating = 35

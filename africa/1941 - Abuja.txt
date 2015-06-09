@@ -1,0 +1,6 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+trade_goods = cotton
+life_rating = 35

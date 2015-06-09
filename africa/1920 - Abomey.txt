@@ -1,0 +1,7 @@
+colonial = 2
+owner = FRA
+controller = FRA
+
+trade_goods = grain
+life_rating = 15
+railroad = 1

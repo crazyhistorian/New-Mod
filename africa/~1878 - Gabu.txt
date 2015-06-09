@@ -1,0 +1,5 @@
+colonial = yes
+owner = POR
+controller = POR
+trade_goods = grain
+life_rating = 15

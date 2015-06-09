@@ -1,0 +1,5 @@
+colonial = yes
+owner = ENG
+controller = ENG
+trade_goods = cattle
+life_rating = 15

@@ -1,0 +1,5 @@
+colonial = yes
+owner = ENG
+controller = ENG
+trade_goods = wool
+life_rating = 15
