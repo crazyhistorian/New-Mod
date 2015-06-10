@@ -1,0 +1,11 @@
+owner = LUA
+controller = LUA
+add_core = LUA
+trade_goods = tobacco
+life_rating = 30
+
+1914.7.28 = {
+owner = FRA
+controller = FRA
+colonial = 2
+}

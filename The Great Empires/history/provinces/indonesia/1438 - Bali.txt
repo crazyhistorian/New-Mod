@@ -1,0 +1,11 @@
+owner = BAL
+controller = BAL
+add_core = BAL
+trade_goods = fish
+life_rating = 30
+
+1914.7.28 = {
+owner = NET
+controller = NET
+colonial = 2
+}

@@ -1,0 +1,11 @@
+owner = KAL
+controller = KAL
+add_core = KAL
+trade_goods = wool
+life_rating = 35
+
+1914.7.28 = {
+owner = ENG
+controller = ENG
+colonial = 2
+}

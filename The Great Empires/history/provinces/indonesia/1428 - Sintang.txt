@@ -1,0 +1,8 @@
+trade_goods = coffee
+life_rating = 15
+
+1914.7.28 = {
+owner = NET
+controller = NET
+colonial = 2
+}

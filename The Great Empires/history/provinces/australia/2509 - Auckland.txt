@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = NZL
+trade_goods = cattle
+life_rating = 30
+colonial = 2
+
+1914.7.28 = {
+owner = NZL
+controller = NZL
+colonial = no
+}

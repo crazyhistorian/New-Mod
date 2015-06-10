@@ -1,0 +1,25 @@
+####################
+# The Great Empires Songs
+####################
+song = {
+	name = "GermanWWIMusic.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = GER
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = GER }
+		}
+
+		
+	}
+}
+
+
+

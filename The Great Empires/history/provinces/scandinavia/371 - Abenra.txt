@@ -1,0 +1,15 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCH
+add_core = GER
+add_core = SCA
+trade_goods = cattle
+life_rating = 35
+
+1914.7.28 = {
+owner = GER
+controller = GER
+remove_core = DEN
+remove_core = SCA
+}

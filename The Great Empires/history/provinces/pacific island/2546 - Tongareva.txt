@@ -1,0 +1,9 @@
+trade_goods = fish
+life_rating = 15
+terrain = plains
+
+1914.7.28 = {
+owner = NZL
+controller = NZL
+colonial = 2
+}

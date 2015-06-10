@@ -1,0 +1,110 @@
+alliance=
+	{
+		first="BOL"
+		second="PEU"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+	
+alliance=
+	{
+		first="CHI"
+		second="KOR"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+
+####### WWI Central Powers
+
+alliance=
+	{
+		first="GER"
+		second="TUR"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="GER"
+		second="KUK"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="TUR"
+		second="KUK"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+
+
+####### WWI Entente
+
+alliance=
+	{
+		first="RUS"
+		second="SER"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="RUS"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="ENG"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="RUS"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+
+
+####### WWI British Empire
+
+alliance=
+	{
+		first="ENG"
+		second="AST"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="CAN"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="YEM"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="OMA"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="NZL"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}

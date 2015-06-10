@@ -1,0 +1,9 @@
+add_core = RUS
+add_core = JAP
+trade_goods = coal
+life_rating = 35
+
+1914.7.28 = {
+owner = JAP
+controller = JAP
+}

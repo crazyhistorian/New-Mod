@@ -1,0 +1,10 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = CHL
+trade_goods = wool
+life_rating = 35
+
+1914.7.28 = {
+owner = CHL
+controller = CHL }

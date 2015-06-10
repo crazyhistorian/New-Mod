@@ -1,0 +1,26 @@
+bookmark =
+{
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "A House Divided"
+	desc = "GC_DESC"
+	date = 1861.7.1
+	cameraX = 1270 
+	cameraY = 1450
+}
+
+bookmark = 
+{	
+	name = "World War I"
+	desc = "WWONE_DESC"
+	date = 1914.7.28
+	cameraX = 2950 
+	cameraY = 1550
+}

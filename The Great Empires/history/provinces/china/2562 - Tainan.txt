@@ -1,0 +1,11 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+
+
+1914.7.28 = {
+owner = JAP
+controller = JAP
+}

@@ -1,0 +1,12 @@
+add_core = CHI
+add_core = GXI
+trade_goods = tea
+life_rating = 32
+
+owner = GXI
+controller = GXI
+
+1914.7.28 = {
+owner = CHI
+controller = CHI
+}

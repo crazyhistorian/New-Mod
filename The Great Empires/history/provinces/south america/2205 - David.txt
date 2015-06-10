@@ -1,0 +1,12 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = PNM
+add_core = GCO
+trade_goods = coffee
+life_rating = 30
+
+1914.7.28 = {
+owner = PNM
+controller = PNM
+remove_core = CLM }

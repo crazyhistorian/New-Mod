@@ -1,0 +1,42 @@
+####################
+# The Great Empires Songs
+####################
+song = {
+	name = "thecoronation_titletheme.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = ENG
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = ENG }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "BestBritishMarches(1500-1912).mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = ENG
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = ENG }
+		}
+
+		
+	}
+}
