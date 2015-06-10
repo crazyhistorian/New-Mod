@@ -8994,6 +8994,7 @@ REB 	= 	"countries/rebels.txt"
 # New Countries
 WGR		= "countries/West Germany.txt"
 EGR		= "countries/East Germany.txt"
+SAU 		= "countries/Saudi.txt"
 
 
 # Common Great Powers
