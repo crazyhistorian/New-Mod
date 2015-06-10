@@ -36,6 +36,8 @@ state_building = {
 
 owner = USA
 controller = USA
+add_core = WGR
 add_core = EGR
+
 
 }

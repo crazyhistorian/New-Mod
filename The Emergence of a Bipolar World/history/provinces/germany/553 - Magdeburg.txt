@@ -30,5 +30,6 @@ state_building = {
 owner = RUS
 controller = RUS
 add_core = EGR
+add_core = WGR
 
 }

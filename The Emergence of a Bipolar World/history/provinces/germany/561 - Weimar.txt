@@ -11,5 +11,6 @@ railroad = 3
 owner = RUS
 controller = RUS
 add_core = EGR
+add_core = WGR
 
 }

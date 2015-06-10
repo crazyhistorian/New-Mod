@@ -10,6 +10,8 @@ railroad = 3
 
 owner = FRA
 controller = FRA
+add_core = WGR
 add_core = EGR
+
 
 }

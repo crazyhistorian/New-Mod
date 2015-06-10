@@ -55,6 +55,8 @@ state_building = {
 
 owner = ENG
 controller = ENG
+add_core = WGR
 add_core = EGR
+
 
 }

@@ -9,6 +9,7 @@ life_rating = 35
 
 owner = USA
 controller = USA
+add_core = WGR
 add_core = EGR
 
 }

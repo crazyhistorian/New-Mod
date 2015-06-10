@@ -10,6 +10,7 @@ railroad = 3
 
 owner = USA
 controller = USA
+add_core = WGR
 add_core = EGR
 
 }

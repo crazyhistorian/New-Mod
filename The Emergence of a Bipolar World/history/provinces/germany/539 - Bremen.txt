@@ -11,6 +11,8 @@ railroad = 3
 
 owner = ENG
 controller = ENG
+add_core = WGR
 add_core = EGR
+
 
 }
