@@ -1,0 +1,138 @@
+army = {
+	name = "Hungarian People's First Army"
+	location = 642
+	regiment = {
+		name= "1. Armoured Division 1. Tank Regiment"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 3. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "Hungarian People's Second Army"
+	location = 641
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Hungarian People's Third Army"
+	location = 640
+	regiment = {
+		name= "4. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Hungarian People's Fourth Army"
+	location = 649
+	regiment = {
+		name= "5. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+
+}
+
+army = {
+	name = "Hungarian People's First Air Group"
+	location = 642
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}

@@ -1,0 +1,16 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = HND
+trade_goods = cattle
+life_rating = 30
+
+1949.1.1 = {
+
+owner = HND
+controller = HND
+add_core = TIB
+add_core = CHC
+
+}
+

@@ -1,0 +1,39 @@
+army = {
+	name = "Syrian Second Army"
+	location = 902
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Syrian Second Army"
+	location = 897
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}

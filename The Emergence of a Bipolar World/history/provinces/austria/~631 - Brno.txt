@@ -1,0 +1,8 @@
+owner = CZH
+controller = CZH
+add_core = KUK
+add_core = BOH
+add_core = CZH
+trade_goods = coal
+life_rating = 35
+railroad = 3

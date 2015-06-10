@@ -1,0 +1,12 @@
+owner = JAP
+controller = JAP
+add_core = USA
+trade_goods = fish
+life_rating = 30
+
+1949.1.1 = {
+
+owner = USA
+controller = USA
+
+}

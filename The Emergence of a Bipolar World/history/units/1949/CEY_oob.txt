@@ -1,0 +1,19 @@
+army = {
+	name = "Ceylon First Army"
+	location = 1321
+	regiment = {
+		name= "1. Infantry Division 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 1st Artillery Brigade"
+		type = artillery
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3rd Engineer Brigade"
+		type = engineer
+	}
+	
+}

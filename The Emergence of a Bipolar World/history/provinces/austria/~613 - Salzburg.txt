@@ -1,0 +1,11 @@
+owner = GER
+controller = GER
+add_core = AUS
+trade_goods = grain
+life_rating = 35
+railroad = 2
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}

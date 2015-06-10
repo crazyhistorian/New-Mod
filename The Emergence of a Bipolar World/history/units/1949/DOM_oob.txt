@@ -1,0 +1,97 @@
+army = {
+	name = "Dominican First Army"
+	location = 2214
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "2. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "3. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "3. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "3. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+}
+
+army = {
+	name = "Dominican First Air Group"
+	location = 2214
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Dominican First Fleet"
+	location = 2214
+	ship = {
+		name= "Cambiaso Frigate Squadron"
+		type = frigate_squadron
+	}
+}

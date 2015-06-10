@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+railroad = 3
+state_building = {
+	level = 3
+	building = lumber_mill
+	upgrade = yes
+}

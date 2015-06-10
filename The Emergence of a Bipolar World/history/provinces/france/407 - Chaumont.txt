@@ -1,0 +1,11 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = iron
+life_rating = 35
+railroad = 3
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

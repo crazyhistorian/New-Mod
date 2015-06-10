@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+
+
+trade_goods = tea
+life_rating = 25

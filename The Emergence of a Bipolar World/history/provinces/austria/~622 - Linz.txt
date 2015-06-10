@@ -1,0 +1,5 @@
+owner = GER
+controller = GER
+add_core = AUS
+trade_goods = sulphur
+life_rating = 35

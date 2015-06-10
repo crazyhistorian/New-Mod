@@ -1,0 +1,516 @@
+army = {
+	name = "Turkish First Army"
+	location = 860
+	regiment = {
+		name= "1. Armoured Division 1. Tank Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Tank Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Turkish First Air Group"
+	location = 860
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Turkish Second Army"
+	location = 869
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Turkish Second Air Group"
+	location = 869
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Turkish Third Army"
+	location = 885
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Engineer Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Turkish Third Air Group"
+	location = 885
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Turkish Fourth Army"
+	location = 890
+	regiment = {
+		name= "7. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "7. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "4. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Turkish Fifth Army"
+	location = 876
+	regiment = {
+		name= "10. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "10. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "12. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "12. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Turkish Fourth Air Group"
+	location = 876
+	regiment = {
+		name= "4th Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Turkish Sixth Army"
+	location = 882
+	regiment = {
+		name= "13. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "13. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "13. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "14. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "14. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "15. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "15. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Turkish Fifth Air Group"
+	location = 882
+	regiment = {
+		name= "5th Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Turkish Seventh Army"
+	location = 893
+	regiment = {
+		name= "16. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "16. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "16. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "17. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "17. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "17. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "18. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "18. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. AA Brigade"
+		type = artillery
+	}
+	
+}
+
+navy = {
+	name = "Turkish First Fleet"
+	location = 869
+	ship = {
+		name= "Yavuz Sultan Selim"
+		type = heavy_cruiser
+	}
+
+	ship = {
+		name= "Demirhisar Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Gaziantep Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Sakaraya Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+	
+	ship = {
+		name= "Dumlupinar Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}
+
+navy = {
+	name = "Turkish Second Fleet"
+	location = 860
+	ship = {
+		name= "Adatepe Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Saldiray Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}
+
+navy = {
+	name = "Turkish Third Fleet"
+	location = 881
+	ship = {
+		name= "Tinaztepe Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Orucreis Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}

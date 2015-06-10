@@ -1,0 +1,15 @@
+owner = GER
+controller = GER
+add_core = HAN
+add_core = GER
+trade_goods = grain
+life_rating = 35
+railroad = 3
+
+1949.1.1 = {
+
+owner = ENG
+controller = ENG
+add_core = EGR
+
+}

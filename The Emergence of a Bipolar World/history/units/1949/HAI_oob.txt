@@ -1,0 +1,33 @@
+army = {
+	name = "First Haitian Army"
+	location = 2213
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "2. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+}

@@ -1,0 +1,293 @@
+army = {
+	name = "Czechoslovak People's First Army"
+	location = 625
+	regiment = {
+		name= "1. Armoured Division 1. Tank Regiment"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 3. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Second Army"
+	location = 631
+	regiment = {
+		name= "2. Armoured Division 1. Tank Regiment"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "2. Armoured Division 2. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "2. Armoured Division 3. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "2. Armoured Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Third Army"
+	location = 629
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Fourth Army"
+	location = 627
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Fifth Army"
+	location = 636
+	regiment = {
+		name= "4. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. Engineer Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Sixth Army"
+	location = 689
+	regiment = {
+		name= "5. Motorised Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Motorised Division 2. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Motorised Division 3. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Seventh Army"
+	location = 630
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. AT Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Eight Army"
+	location = 633
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Ninth Army"
+	location = 634
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Czechoslovak People's First Air Group"
+	location = 625
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Czechoslovak People's Second Air Group"
+	location = 631
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+}

@@ -1,0 +1,18 @@
+owner = ENG
+controller = ENG
+add_core = HND
+trade_goods = opium
+life_rating = 35
+colonial = 2
+railroad = 3
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = HND
+controller = HND
+add_core = HND
+railroad = 3
+colonial = no
+
+}

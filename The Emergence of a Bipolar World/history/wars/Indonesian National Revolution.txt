@@ -1,0 +1,18 @@
+name = "Indonesian National Revolution"
+
+1949.1.1 = {
+	add_attacker = NET
+	add_defender = IDO
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = NET
+		receiver = IDO
+	}
+
+}

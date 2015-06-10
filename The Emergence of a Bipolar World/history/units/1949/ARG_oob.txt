@@ -1,0 +1,194 @@
+army = {
+	name = "Argentine First Infantry Division"
+	location = 2348
+	regiment = {
+		name= "First Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "First Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "First Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine Second Infantry Division"
+	location = 2391
+	regiment = {
+		name= "Second Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Second Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Second Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine Third Infantry Division"
+	location = 2373
+	regiment = {
+		name= "Third Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Third Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Third Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine Fourth Infantry Division"
+	location = 2372
+	regiment = {
+		name= "Fourth Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Fourth Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Fourth Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine Fifth Infantry Division"
+	location = 2399
+	regiment = {
+		name= "Fifth Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Fifth Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Fifth Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine Sixth Infantry Division"
+	location = 2376
+	regiment = {
+		name= "Sixth Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Sixth Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "Sixth Infantry 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Argentine First Armoured Division"
+	location = 2356
+	regiment = {
+		name= "First Armoured 1st Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "First Armoured 2nd Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "First Armoured 1st Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 2348
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Second Air Group"
+	location = 2391
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Third Air Group"
+	location = 2356
+	regiment = {
+		name= "1st Bomber Unit"
+		type = bomber
+	}
+	
+}
+
+navy = {
+	name = "Argentine First Fleet"
+	location = 2348
+	ship = {
+		name= "Almirante Brown"
+		type = light_cruiser
+	}
+
+	ship = {
+		name= "Vienticino de Mayo"
+		type = light_cruiser
+	}
+
+	ship = {
+		name= "Cervantes Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Santa Fe Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}

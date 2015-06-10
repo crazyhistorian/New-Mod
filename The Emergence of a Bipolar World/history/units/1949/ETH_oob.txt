@@ -1,0 +1,110 @@
+army = {
+	name = "First Ethiopian Army"
+	location = 1859
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "Second Ethiopian Army"
+	location = 1848	
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "2. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+}
+
+army = {
+	name = "Third Ethiopian Army"
+	location = 1853
+	regiment = {
+		name= "3. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "3. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "3. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	regiment = {
+		name= "4. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "4. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "4. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+}
+
+army = {
+	name = "First Ethiopian Air Group"
+	location = 1859
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}

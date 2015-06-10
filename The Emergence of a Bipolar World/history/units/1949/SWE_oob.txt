@@ -1,0 +1,299 @@
+army = {
+	name = "First Swedish Army"
+	location = 329
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Second Swedish Army"
+	location = 322
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Third Swedish Army"
+	location = 334
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "Fourth Swedish Army"
+	location = 331
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "Fifth Swedish Army"
+	location = 321
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Sixth Swedish Army"
+	location = 318
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "Seventh Swedish Army"
+	location = 329
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "First Air Group"
+	location = 322
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Second Air Group"
+	location = 334
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st CAS Unit"
+		type = close_air_support
+	}
+
+}
+	
+army = {
+	name = "Third Air Group"
+	location = 325
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Fourth Air Group"
+	location = 321
+	regiment = {
+		name= "4th Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Fifth Air Group"
+	location = 329
+	regiment = {
+		name= "5th Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Sixth Air Group"
+	location = 329
+	regiment = {
+		name= "6th Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Swedish First Fleet"
+	location = 322
+	ship = {
+		name= "HMS Drottning Victoria"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "HMS Gustav V"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "HMS Sverige"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "HMS Gota Lejon"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HMS Tre Kronor"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HMS Fylgia"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HMS Gotland"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HMS Uppland Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+}
+
+navy = {
+	name = "Swedish Second Fleet"
+	location = 335
+	ship = {
+		name= "HMS Helsingborg Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "HMS Gavle Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "HMS Romulus Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "HMS U1 Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+	
+	ship = {
+		name= "HMS U4 Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+	
+	ship = {
+		name= "HMS U7 Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+	
+}
+
+navy = {
+	name = "Swedish Third Fleet"
+	location = 329
+	ship = {
+		name= "HMS Norrkoping Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "HMS Magne Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "HMS Klas Horn Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "HMS Neptun Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+	
+}

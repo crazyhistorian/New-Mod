@@ -1,0 +1,13 @@
+owner = POL
+controller = POL
+add_core = RUS
+add_core = POL
+trade_goods = cattle
+life_rating = 35
+railroad = 2
+fort = 1
+state_building = {
+	level = 2
+	building = fabric_factory
+	upgrade = yes
+}

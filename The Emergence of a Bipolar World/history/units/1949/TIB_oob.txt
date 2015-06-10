@@ -1,0 +1,30 @@
+XBI = {
+	value = -200
+} 
+
+CHI = {
+	value = -150
+} 
+
+army = {
+	name = "Tibetan Army"
+	location = 1588
+	regiment = {
+		name= "Tibetan Army 1st Militia Brigade"
+		type = irregular
+
+	}
+
+	regiment = {
+		name= "Tibetan Army 2nd Militia Brigade"
+		type = irregular
+
+	}
+
+	regiment = {
+		name= "Tibetan Army 3rd Militia Brigade"
+		type = irregular
+
+	}
+	
+}

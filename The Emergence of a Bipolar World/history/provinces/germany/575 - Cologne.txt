@@ -1,0 +1,60 @@
+owner = GER
+controller = GER
+
+add_core = GER
+trade_goods = coal
+life_rating = 35
+railroad = 5
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = electric_gear_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = automobile_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = barrel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = automobile_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = aeroplane_factory
+	upgrade = yes
+}
+
+1949.1.1 = {
+
+owner = ENG
+controller = ENG
+add_core = EGR
+
+}

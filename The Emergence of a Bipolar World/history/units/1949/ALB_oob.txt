@@ -1,0 +1,39 @@
+army = {
+	name = "Albanian First Army"
+	location = 849
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Albanian Second Army"
+	location = 852
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}

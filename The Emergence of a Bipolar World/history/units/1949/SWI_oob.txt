@@ -1,0 +1,94 @@
+army = {
+	name = "First Swiss Army"
+	location = 607
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Swiss Second Army"
+	location = 611
+	regiment = {
+		name= "2. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Swiss Third Army"
+	location = 605
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Swiss Fourth Army"
+	location = 603
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+}

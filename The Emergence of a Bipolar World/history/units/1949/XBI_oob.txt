@@ -1,0 +1,246 @@
+CHC = {
+	value = -200
+} 
+
+CHI = {
+	value = 160
+} 
+
+TIB = {
+	value = -200
+} 
+
+leader = {
+	name = "Ma Jiyuan"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+leader = {
+	name = "Ma Hongkui"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+army = {
+	name = "Shaanxi-Gansu Corps"
+	location = 1490
+	regiment = {
+		name= "82nd Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "82nd Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "82nd Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "82nd Army 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "82nd Army 5th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "129th Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "129th Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "129th Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "129th Army 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "129th Army 5th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "8th Cavalry Division 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "8th Cavalry Division 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "8th Cavalry Division 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "14th Cavalry Division 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "14th Cavalry Division 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "14th Cavalry Division 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "1st Security Brigade"
+		type = irregular
+
+	}
+
+}
+
+army = {
+	name = "Yinchuan Corps"
+	location = 1491
+	regiment = {
+		name= "81st Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "81st Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "81st Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "81st Army 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "91st Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "91st Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "91st Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "120th Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "120th Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "120th Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+
+}
+
+army = {
+	name = "1st Cavalry Army"
+	location = 1489
+	regiment = {
+		name= "1st Cavalry Army 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "1st Cavalry Army 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "1st Cavalry Army 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "1st Cavalry Army 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "1st Cavalry Army 5th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "1st Cavalry Army 6th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "1st Cavalry Army 7th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+}

@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = TUR
+trade_goods = grain
+life_rating = 35
+fort = 3
+railroad = 3
+

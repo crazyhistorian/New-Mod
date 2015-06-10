@@ -1,0 +1,994 @@
+PER = {
+	value = 50
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 50
+
+}
+
+army = {
+	name = "British First Army"
+	location = 303
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Second Army"
+	location = 534
+	regiment = {
+		name= "2. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "2. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "2. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "3. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "3. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "British Third Army"
+	location = 539
+	regiment = {
+		name= "4. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "4. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "4. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "5. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "5. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "British Fourth Army"
+	location = 580
+	regiment = {
+		name= "6. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "6. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "6. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "7. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "7. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "7. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Fifth Army"
+	location = 1751
+	regiment = {
+		name= "8. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "8. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "8. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "9. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "9. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "9. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "British Sixth Army"
+	location = 1731
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "British Seventh Army"
+	location = 1755
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "British Eighth Army"
+	location = 1387
+	regiment = {
+		name= "4. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "6. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Ninth Army"
+	location = 300
+	regiment = {
+		name= "1. Paratrooper Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Paratrooper Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Paratrooper Division 2. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "4. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "British Tenth Army"
+	location = 284
+	regiment = {
+		name= "2. Paratrooper Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Paratrooper Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Paratrooper Division 2. Engineer Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "British Eleventh Army"
+	location = 1496
+	regiment = {
+		name= "1. Mountain Brigade 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Brigade 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Brigade 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "7. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Twelth Army"
+	location = 269
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "British Thirteenth Army"
+	location = 254
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "British Fourteenth Army"
+	location = 301
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Fifteenth Army"
+	location = 517
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "British Sixteenth Army"
+	location = 854
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "British Seventeenth Army"
+	location = 736
+	regiment = {
+		name= "7. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "7. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "British Eighteenth Army"
+	location = 1384
+	regiment = {
+		name= "8. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+}
+
+navy = {
+	name = "British First Fleet"
+	location = 267
+	ship = {
+		name= "HMS Eagle"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Unicorn"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Ark Royal"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Hercules"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Leviathan"
+		type = fleet_carrier
+	}	
+	ship = {
+		name= "HMS Duke of York"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Anson"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Howe"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Cumberland"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Australia"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Bellona"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Black Prince"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Diadem"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Royalist"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Ontario"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Swiftsure"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Blake"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Lion"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Superb"
+		type = light_cruiser
+	}	
+	ship = {
+		name= "HMS Daring destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Teazer destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Tumult destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Cambrian destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Caprice destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Cavalier destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Chequers destroyer squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "British Second Fleet"
+	location = 303
+	ship = {
+		name= "HMS Magnificent"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Majestic"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Powerful"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Albion"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Vanguard"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS King George V"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "HMS Argonaut"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Cleopatra"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Dido"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Euryalus"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Phoebe"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Grenville destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Undine destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Venus destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Volage destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Comet destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Contest destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Creole destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Statesman destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Sentinel destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Sturdy destroyer squadron"
+		type = destroyer_squadron
+	}	
+}
+
+navy = {
+	name = "British Third Fleet"
+	location = 854
+	ship = {
+		name= "HMS Bulwark"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Centaur"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Implacable"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Indefatigable"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "HMS Bermuda"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Ceylon"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Gambia"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Jamaica"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Kenya"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Mauritius"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Zambesi destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Zest destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Tavy destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Towy destroyer squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "British Fourth Fleet"
+	location = 1384
+	ship = {
+		name= "HMS Triumph"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Warrior"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Newcastle"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Sheffield"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS St. James destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Solebay destroyer squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "British Fourth Fleet"
+	location = 1496
+	ship = {
+		name= "HMS Illustrious"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Victorious"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Scylla"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Sirius"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Matapan destroyer squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "British Fifth Fleet"
+	location = 203
+	ship = {
+		name= "HMS Formidable"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Indomitable"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Liverpool"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Edinburgh"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Agincourt destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Barossa destroyer squadron"
+		type = destroyer_squadron
+	}	
+}
+
+navy = {
+	name = "British Sixth Fleet"
+	location = 517
+	ship = {
+		name= "HMS Glory"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Ocean"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Vengeance"
+		type = light_carrier
+	}
+	ship = {
+		name= "HMS Theseus"
+		type = light_carrier
+	}	
+	ship = {
+		name= "HMS Newfoundland"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Nigeria"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Uganda"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Birmingham"
+		type = light_cruiser
+	}
+	ship = {
+		name= "HMS Glasgow"
+		type = light_cruiser
+	}	
+	ship = {
+		name= "HMS Kempenfelt destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Whelp destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Myngs destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Cadiz destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Gravelines destroyer squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "British Seventh Fleet"
+	location = 271
+	ship = {
+		name= "HMS Marne destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Templar submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Tabard submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Tudor submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Totem submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Truncheon submarine squadron"
+		type = attack_submarine_squadron
+	}
+}
+
+navy = {
+	name = "British Eighth Fleet"
+	location = 296
+	ship = {
+		name= "HMS Napier destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Norman destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Acheron submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Alcide submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Anchorite submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "HMS Artful submarine squadron"
+		type = attack_submarine_squadron
+	}
+}
+
+navy = {
+	name = "British Eighth Fleet"
+	location = 280
+	ship = {
+		name= "HMS Opportune destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Rapid destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "HMS Ballinderry frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "HMS Exe frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "HMS Lochy frigate squadron"
+		type = frigate_squadron
+	}
+}
+
+navy = {
+	name = "British Ninth Fleet"
+	location = 2131
+	ship = {
+		name= "HMS Bigbury Bay frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "HMS Enard Bay frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "HMS Porlock Bay frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "HMS Veryan Bay frigate squadron"
+		type = frigate_squadron
+	}
+}

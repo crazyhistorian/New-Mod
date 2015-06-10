@@ -1,0 +1,10 @@
+army = {
+	name = "Provincial Army of Bhutan"
+	location = 1329
+	regiment = {
+		name= "1. Militia"
+		type = irregular
+		home = 1329
+	}
+}
+

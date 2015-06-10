@@ -1,0 +1,18 @@
+owner = ENG
+controller = ENG
+
+add_core = TML
+add_core = HND
+trade_goods = tea
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = CEY
+controller = CEY
+add_core = CEY
+add_core = TML
+colonial = no
+
+}

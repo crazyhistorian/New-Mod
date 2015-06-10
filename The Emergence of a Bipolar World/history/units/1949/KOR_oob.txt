@@ -1,0 +1,169 @@
+army = {
+	name = "Korean First Army"
+	location = 1630
+	regiment = {
+		name= "1. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "1. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "1. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Korean Second Army"
+	location = 1632
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Korean Third Army"
+	location = 1637
+	regiment = {
+		name= "7. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Korean Fourth Army"
+	location = 3250
+	regiment = {
+		name= "8. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}

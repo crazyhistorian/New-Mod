@@ -1,0 +1,16 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+trade_goods = grain
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = BUR
+controller = BUR
+add_core = BUR
+colonial = no
+
+}

@@ -1,0 +1,29 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = coal
+life_rating = 35
+railroad = 3
+
+state_building = {
+	level = 4
+	building = steamer_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 6
+	building = fabric_factory
+	upgrade = yes
+}
+
+

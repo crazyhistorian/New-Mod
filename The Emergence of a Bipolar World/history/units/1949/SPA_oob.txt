@@ -1,0 +1,569 @@
+army = {
+	name = "Spanish First Army"
+	location = 487
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}	
+
+	regiment = {
+		name= "1. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Second Army"
+	location = 498
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}	
+
+	regiment = {
+		name= "2. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Third Army"
+	location = 509
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "7. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Fourth Army"
+	location = 474	
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "10. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Fifth Army"
+	location = 480
+	regiment = {
+		name= "12. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "13. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "13. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "13. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Sixth Army"
+	location = 513
+	regiment = {
+		name= "14. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "15. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Seventh Army"
+	location = 3274
+	regiment = {
+		name= "16. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "16. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "16. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Eight Army"
+	location = 2136
+	regiment = {
+		name= "17. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "17. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "17. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Ninth Army"
+	location = 502
+	regiment = {
+		name= "18. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Spanish Tenth Army"
+	location = 492
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "4. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Spanish Eleventh Army"
+	location = 479
+	regiment = {
+		name= "2. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "5. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Spanish First Air Group"
+	location = 487
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Tactical Bomber Unit"
+		type = bomber
+	}
+	
+}
+
+army = {
+	name = "Spanish Second Air Group"
+	location = 509
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Spanish Third Air Group"
+	location = 498
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Spanish Fourth Air Group"
+	location = 474
+	regiment = {
+		name= "4th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Spanish Fifth Air Group"
+	location = 3274
+	regiment = {
+		name= "5th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "Spanish First Fleet"
+	location = 474
+	ship = {
+		name= "Baleares"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "Canarias"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "Mendez Nunez"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Principe Alfonso"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Almirante Cervera"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Miguel de Cervantes"
+		type = light_cruiser
+	}
+	
+}
+
+navy = {
+	name = "Spanish Second Fleet"
+	location = 514
+	ship = {
+		name= "Alava Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Velasco Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Alcala Galiano Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Churruca Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Ulloa Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+}

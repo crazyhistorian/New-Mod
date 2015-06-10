@@ -1,0 +1,14 @@
+owner = NET
+controller = NET
+
+trade_goods = tea
+life_rating = 30
+colonial = 2
+
+1949.1.1 = {
+
+owner = IDO
+controller = IDO
+add_core = IDO
+
+}

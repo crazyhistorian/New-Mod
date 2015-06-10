@@ -1,0 +1,17 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+add_core = HND
+trade_goods = cotton
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = HND
+controller = HND
+add_core = HND
+colonial = no
+
+}

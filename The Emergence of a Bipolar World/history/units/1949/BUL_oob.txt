@@ -1,0 +1,104 @@
+army = {
+	name = "First Army"
+	location = 809
+	regiment = {
+		name= "1. Armoured Division 1. Tank Regiment"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 3. Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Rifles Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Second Army"
+	location = 814
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "Third Army"
+	location = 815
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "First Air Group"
+	location = 809
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Second Air Group"
+	location = 814
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+}

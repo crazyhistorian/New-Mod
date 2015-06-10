@@ -1,0 +1,936 @@
+army = {
+	name = "French First Army"
+	location = 425
+	regiment = {
+		name= "1. Armoured Division 1. Tank Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Tank Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "French Second Army"
+	location = 461
+	regiment = {
+		name= "2. Armoured Division 1. Tank Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "2. Armoured Division 2. Tank Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "2. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Engineer Brigade"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "French Third Army"
+	location = 1380
+	regiment = {
+		name= "3. Armoured Division 1. Tank Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "3. Armoured Division 2. Tank Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "3. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Arillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. AA Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Fourth Army"
+	location = 432
+	regiment = {
+		name= "1. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "1. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "1. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Arillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Fifth Army"
+	location = 576
+	regiment = {
+		name= "2. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "2. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "2. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "French Sixth Army"
+	location = 587
+	regiment = {
+		name= "3. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "3. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "3. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Seventh Army"
+	location = 573
+	regiment = {
+		name= "4. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "4. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "4. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "7. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. AA Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "4. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Seventh Army"
+	location = 441
+	regiment = {
+		name= "8. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Eight Army"
+	location = 1369
+	regiment = {
+		name= "10. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Ninth Army"
+	location = 1700
+	regiment = {
+		name= "12. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "13. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "13. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "13. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "5. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Tenth Army"
+	location = 409
+	regiment = {
+		name= "4. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "6. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Eleventh Army"
+	location = 412
+	regiment = {
+		name= "5. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "French Twelth Army"
+	location = 402
+	regiment = {
+		name= "14. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. AA Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "French Thirteenth Army"
+	location = 399
+	regiment = {
+		name= "15. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "French Fourteenth Army"
+	location = 445
+	regiment = {
+		name= "16. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "16. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "16. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Fifteenth Army"
+	location = 473
+	regiment = {
+		name= "17. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "17. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "17. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Sixteenth Army"
+	location = 408
+	regiment = {
+		name= "18. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Seventeenth Army"
+	location = 454
+	regiment = {
+		name= "19. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "19. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "19. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Eighteenth Army"
+	location = 467
+	regiment = {
+		name= "20. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "20. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "20. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Nineteenth Army"
+	location = 1725
+	regiment = {
+		name= "21. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "21. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "21. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Twentieth Army"
+	location = 1783
+	regiment = {
+		name= "22. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "22. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "22. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Twenty-first Army"
+	location = 1691
+	regiment = {
+		name= "23. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "23. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "23. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Twenty-second Army"
+	location = 1370
+	regiment = {
+		name= "24. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "24. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "24. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French Twenty-third Army"
+	location = 1377
+	regiment = {
+		name= "25. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "25. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "25. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "French First Air Group"
+	location = 425
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Second Air Group"
+	location = 428
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Third Air Group"
+	location = 410
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Fourth Air Group"
+	location = 411
+	regiment = {
+		name= "4th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Fifth Air Group"
+	location = 467
+	regiment = {
+		name= "5th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Sixth Air Group"
+	location = 1700
+	regiment = {
+		name= "6th Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Tactical Bomber Unit"
+		type = bomber
+	}
+	
+}
+
+army = {
+	name = "French Seventh Air Group"
+	location = 1725
+	regiment = {
+		name= "7th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Eighth Air Group"
+	location = 1380
+	regiment = {
+		name= "8th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "French Ninth Air Group"
+	location = 451
+	regiment = {
+		name= "2nd Tactical Bomber Unit"
+		type = bomber
+	}
+	
+	regiment = {
+		name= "3rd Tactical Bomber Unit"
+		type = bomber
+	}
+	
+}
+
+army = {
+	name = "French Tenth Air Group"
+	location = 399
+	regiment = {
+		name= "4th Tactical Bomber Unit"
+		type = bomber
+	}
+	
+}
+
+navy = {
+	name = "French First Fleet"
+	location = 420
+	ship = {
+		name= "Dixmude"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "Duquesne"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "Tourville"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "Montcalm"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Georges Leygues"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Tigre destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "Blaison submarine squadron"
+		type = attack_submarine_squadron
+	}
+}
+
+navy = {
+	name = "French Second Fleet"
+	location = 470
+	ship = {
+		name= "Jean Bart"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "Duguay Trouin"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Jeanne d'Arc"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Chateaurenault destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "Archimede submarine squadron"
+		type = attack_submarine_squadron
+	}
+}
+
+navy = {
+	name = "French Third Fleet"
+	location = 1380
+	ship = {
+		name= "Richelieu"
+		type = heavy_cruiser
+	}
+	ship = {
+		name= "Arromanches"
+		type = fleet_carrier
+	}
+	ship = {
+		name= "Gloire"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Emile-Bertin"
+		type = light_cruiser
+	}
+	ship = {
+		name= "Hoche destroyer squadron"
+		type = destroyer_squadron
+	}
+	ship = {
+		name= "La Surprise frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "Croix de Lorraine frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "La Creole submarine squadron"
+		type = attack_submarine_squadron
+	}
+	ship = {
+		name= "1. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "2. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "3. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "4. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "5. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "6. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "7. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "8. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "9. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "10. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "11. troop transport"
+		type = troop_transport
+	}
+	ship = {
+		name= "12. troop transport"
+		type = troop_transport
+	}
+}

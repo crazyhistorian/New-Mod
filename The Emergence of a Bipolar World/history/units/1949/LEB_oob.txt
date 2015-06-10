@@ -1,0 +1,19 @@
+army = {
+	name = "Lebanese First Army"
+	location = 913
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}

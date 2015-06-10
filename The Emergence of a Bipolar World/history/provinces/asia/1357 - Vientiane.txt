@@ -1,0 +1,15 @@
+owner = FRA
+controller = JAP
+
+add_core = WIA
+add_core = LUA
+trade_goods = grain
+life_rating = 30
+colonial = 2
+
+1949.1.1 = {
+
+owner = FRA
+controller = FRA
+
+}

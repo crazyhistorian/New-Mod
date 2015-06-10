@@ -1,0 +1,13 @@
+owner = CZH
+controller = CZH
+add_core = KUK
+add_core = BOH
+add_core = CZH
+trade_goods = iron
+life_rating = 35
+railroad = 
+state_building = {
+	level = 3
+	building = steel_factory
+	upgrade = yes
+}

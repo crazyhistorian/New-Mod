@@ -1,0 +1,969 @@
+
+
+######### WWII Axis Powers
+
+alliance=
+	{
+		first="GER"
+		second="ITA"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="GER"
+		second="JAP"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="JAP"
+		second="ITA"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+
+
+######### WWII Allied Powers
+
+alliance=
+	{
+		first="ENG"
+		second="POL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="POL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="ENG"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="NET"
+		second="BEL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="BEL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="LUX"
+		second="FRA"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="BEL"
+		second="LUX"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="LUX"
+		second="NET"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="NET"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="BEL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FRA"
+		second="NET"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+
+
+######### WWII The Eastern Defence
+
+alliance=
+	{
+		first="YUG"
+		second="HUN"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="YUG"
+		second="CZH"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="YUG"
+		second="ROM"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="YUG"
+		second="BUL"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="YUG"
+		second="ALB"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="YUG"
+		second="GRE"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="HUN"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="YUG"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="CZH"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="ROM"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="LIT"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="EST"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="POL"
+		second="LAT"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FIN"
+		second="EST"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FIN"
+		second="LAT"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+alliance=
+	{
+		first="FIN"
+		second="LIT"
+		end_date="1946.1.1"
+		start_date="1936.1.1"
+	}
+
+
+######### WWII British Empire
+
+alliance=
+	{
+		first="ENG"
+		second="AST"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="CAN"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="OMA"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+alliance=
+	{
+		first="ENG"
+		second="NZL"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+
+
+###Special Relationship
+alliance = {
+	first = USA
+	second = ENG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+###Treaty of Brussels
+##France-Other
+#France-UK
+alliance = {
+	first = FRA
+	second = ENG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#France-Belgium
+alliance = {
+	first = FRA
+	second = BEL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#France-Netherlands
+alliance = {
+	first = FRA
+	second = NET
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#France-Luxembourg
+alliance = {
+	first = FRA
+	second = LUX
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+##UK-Other
+#UK-France
+alliance = {
+	first = ENG
+	second = FRA
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#UK-Belgium
+alliance = {
+	first = ENG
+	second = BEL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#UK-Netherlands
+alliance = {
+	first = ENG
+	second = NET
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#UK-Luxembourg
+alliance = {
+	first = ENG
+	second = LUX
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+##Belgium-Other
+#Belgium-Netherlands
+alliance = {
+	first = BEL
+	second = NET
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Belgium-Luxembourg
+alliance = {
+	first = BEL
+	second = LUX
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Belgium-France
+alliance = {
+	first = BEL
+	second = FRA
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Belgium-UK
+alliance = {
+	first = BEL
+	second = ENG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+##Netherlands-Other
+#Netherlands-Luxembourg
+alliance = {
+	first = NET
+	second = LUX
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Netherlands-Belgium
+alliance = {
+	first = NET
+	second = BEL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Netherlands-UK
+alliance = {
+	first = NET
+	second = ENG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Netherlands-France
+alliance = {
+	first = NET
+	second = FRA
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+###COMMUNIST ALLIANCES
+#Soviet Union-Poland
+alliance = {
+	first = RUS
+	second = POL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Romania
+alliance = {
+	first = RUS
+	second = ROM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-East Germany
+alliance = {
+	first = RUS
+	second = DDR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Hungary
+alliance = {
+	first = RUS
+	second = HUN
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Bulgaria
+alliance = {
+	first = RUS
+	second = BUL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Czechoslovakia
+alliance = {
+	first = RUS
+	second = CZH
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Mongolia
+alliance = {
+	first = RUS
+	second = MGL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Albania
+alliance = {
+	first = RUS
+	second = ALB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-North Korea
+alliance = {
+	first = RUS
+	second = NKR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Communist China-North Korea
+alliance = {
+	first = CHC
+	second = NKR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#India
+alliance = {
+	first = HND
+	second = SIK
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = HND
+	second = BHU
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = HND
+	second = NEP
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#Arab League
+alliance = {
+	first = IRQ
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = IRQ
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = IRQ
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = IRQ
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = IRQ
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = IRQ
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = SYR
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = SYR
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = SYR
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = SYR
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = SYR
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = SYR
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = LEB
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = LEB
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = LEB
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = LEB
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = LEB
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = LEB
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = JOR
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = JOR
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = JOR
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = JOR
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = JOR
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = JOR
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = EGY
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = EGY
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = EGY
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = EGY
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = EGY
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = EGY
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = NEJ
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = NEJ
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = NEJ
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = NEJ
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = NEJ
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = NEJ
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#
+alliance = {
+	first = YEM
+	second = IRQ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YEM
+	second = SYR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YEM
+	second = LEB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YEM
+	second = JOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YEM
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YEM
+	second = NEJ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+##Other
+#USA-South Korea
+alliance = {
+	first = USA
+	second = KOR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#Australia-New Zealand
+alliance = {
+	first = AST
+	second = NZL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#Britain Colonial
+alliance = {
+	first = ENG
+	second = CEY
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = ENG
+	second = SAF
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = ENG
+	second = NZL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = ENG
+	second = AST
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = ENG
+	second = CAN
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#Rio Pact
+alliance = {
+	first = USA
+	second = MEX
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = GUA
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = ELS
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = HON
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = NIC
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = COS
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = PNM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = CLM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = VNZ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = ARG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = BOL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = BRZ
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = CHL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = ECU
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = PEU
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = PRG
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = URU
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = CAN
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = USA
+	second = LIB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = ITA
+	second = TRE
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+alliance = {
+	first = YUG
+	second = TRE
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}

@@ -1,0 +1,46 @@
+capital = 549
+primary_culture = north_german
+culture = south_german
+culture = french
+religion = catholic
+government = democracy
+plurality = 0.0
+nationalvalue = nv_equality
+literacy = 0.99
+civilized = yes
+
+prestige = 25
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = universal_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = low_minimum_wage
+work_hours = twelve_hours
+safety_regulations = good_safety
+health_care = good_health_care
+unemployment_subsidies = low_subsidies
+pensions = good_pensions
+public_schooling = no_public_schooling
+child_labour = unregulated_child_labour
+
+ruling_party = SRL_socialist
+last_election = 1948.1.1
+upper_house = {
+	fascist = 0
+	liberal = 55
+	conservative = 25
+	reactionary = 5
+	anarcho_liberal = 5
+	socialist = 5
+	communist = 5
+}
+
+schools = army_tech_school

@@ -1,0 +1,14 @@
+owner = FRA
+add_core = HYD
+add_core = HND
+trade_goods = grain
+life_rating = 35
+colonial = 2
+
+1949.1.1 = {
+
+owner = HND
+controller = HND
+colonial = no
+
+}

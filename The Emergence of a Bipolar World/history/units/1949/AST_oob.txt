@@ -1,0 +1,144 @@
+army = {
+	name = "Australian First Infantry Division"
+	location = 1638
+	regiment = {
+		name= "First Infantry 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "First Infantry 2nd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Australian First Motorised Infantry Division"
+	location = 2476
+	regiment = {
+		name= "First Motorised Infantry 1st Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "First Motorised Infantry 2nd Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "Australian First Artillery"
+	location = 2476
+	regiment = {
+		name= "First Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Australian Second Motorised Infantry Division"
+	location = 2348
+	regiment = {
+		name= "First Infantry 1st Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "First Infantry 2nd Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 1666
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Second Air Group"
+	location = 2391
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Third Air Group"
+	location = 2505
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Bomber Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "Australian First Fleet"
+	location = 1666
+	ship = {
+		name= "HMAS Australia"
+		type = heavy_cruiser
+	}
+
+	ship = {
+		name= "HMAS Shropshire"
+		type = heavy_cruiser
+	}
+
+	ship = {
+		name= "HMAS Arunta Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}
+
+navy = {
+	name = "Australian Second Fleet"
+	location = 2468
+	ship = {
+		name= "HMAS Sydney"
+		type = light_carrier
+	}
+
+	ship = {
+		name= "HMAS Barcoo Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "HMAS Culgoa Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}
+
+navy = {
+	name = "Australian Third Fleet"
+	location = 2497
+	ship = {
+		name= "HMAS Barcoo Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "HMAS Tarakan Transport Squadron"
+		type = troop_transport
+	}
+
+}

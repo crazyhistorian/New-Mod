@@ -1,0 +1,50 @@
+owner = GER
+controller = GER
+add_core = HES
+add_core = GER
+trade_goods = sulphur
+life_rating = 35
+railroad = 3
+state_building = {
+	level = 4
+	building = electric_gear_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = automobile_factory
+	upgrade = yes
+}
+state_building = {
+	level = 5
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = radio_factory 
+	upgrade = yes
+}
+state_building = {
+	level = 5
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 4
+	building = regular_clothes_factory
+	upgrade = yes
+}
+
+1949.1.1 = {
+
+owner = FRA
+controller = FRA
+add_core = EGR
+
+}

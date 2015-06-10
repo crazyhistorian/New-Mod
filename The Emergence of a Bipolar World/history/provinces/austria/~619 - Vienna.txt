@@ -1,0 +1,17 @@
+owner = GER
+controller = GER
+add_core = AUS
+trade_goods = grain
+life_rating = 35
+fort = 2
+railroad = 5
+state_building = {
+	level = 2
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = small_arms_factory
+	upgrade = yes
+}

@@ -1,0 +1,8 @@
+owner = CZH
+controller = CZH
+add_core = KUK
+add_core = RUT
+add_core = SLV
+add_core = HUN
+trade_goods = coal
+life_rating = 35

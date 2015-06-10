@@ -1,0 +1,15 @@
+owner = ENG
+controller = ENG
+colonial = 2
+trade_goods = grain
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = ABU
+controller = ABU
+add_core = ABU
+colonial = no
+
+}

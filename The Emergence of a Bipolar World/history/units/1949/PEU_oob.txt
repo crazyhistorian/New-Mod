@@ -1,0 +1,137 @@
+army = {
+	name = "First Peruvian Army"
+	location = 2292
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "Second Peruvian Army"
+	location = 2295
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "Third Peruvian Army"
+	location = 2286
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "Fourth Peruvian Army"
+	location = 2304
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "Fifth Peruvian Army"
+	location = 2302
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Engineers"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Peruvian First Air Group"
+	location = 2295
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Peruvian First Fleet"
+	location = 2295
+	ship = {
+		name= "Almirante Grau"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Coronel Bolognesi"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Guise Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Casma Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}

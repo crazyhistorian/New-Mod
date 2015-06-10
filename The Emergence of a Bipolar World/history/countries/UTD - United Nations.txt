@@ -1,0 +1,40 @@
+capital = 3281
+primary_culture = yankee
+religion = protestant
+government = democracy
+plurality = 0.0
+nationalvalue = nv_liberty
+literacy = 0.97
+civilized = yes
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = gerrymandering
+
+# Social Reforms
+wage_reform = low_minimum_wage
+work_hours = eight_hours
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = trinket_pensions
+public_schooling = no_public_schooling
+child_labour = unregulated_child_labour
+
+ruling_party = UTD_democratic_party
+last_election = 1948.11.2
+upper_house = {
+	fascist = 0
+	liberal = 56
+	conservative = 44
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

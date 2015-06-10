@@ -1,0 +1,80 @@
+CHI = {
+	value = -200
+} 
+
+army = {
+	name = "Jiulianshan Guerillas"
+	location = 1550
+	regiment = {
+		name= "3rd, 4th, 5th and 7th Guerilla Battalions"
+		type = irregular
+	}
+}
+
+army = {
+	name = "East River Column"
+	location = 1497
+	regiment = {
+		name= "1st East River Guerilla Regiment"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "2nd East River Guerilla Regiment"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "3rd East River Guerilla Regiment"
+		type = irregular
+	}
+}
+	
+navy = {
+	name = "1st PLA Navy Fleet"
+	location = 1480
+	ship = {
+		name= "1st Gunboat Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "1st Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "2nd Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "3rd Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "4th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "5th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "6th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "7th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "8th Transport Junks Squadron"
+		type = troop_transport
+	}
+}

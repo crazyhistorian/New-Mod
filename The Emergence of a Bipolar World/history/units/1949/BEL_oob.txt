@@ -1,0 +1,123 @@
+army = {
+	name = "1e Infanterie Divisie"
+	location = 390
+	regiment = {
+		name= "1e Infanterie Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2e Infanterie Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3e Infanterie Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "2eme Division d'Infanterie"
+	location = 395 #Spa
+	regiment = {
+		name= "4e Infanterie Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "3eme Division d'Infanterie"
+	location = 392
+	regiment = {
+		name= "7eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "4eme Division d'Infanterie"
+	location = 398
+	regiment = {
+		name= "10eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11eme Brigade d'Infanterie"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12eme Brigade d'Infanterie"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1er Brigade d'Artillerie"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "First Air Group"
+	location = 387
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Second Air Group"
+	location = 392
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Third Air Group"
+	location = 390
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "Belgische Marine"
+	location = 388
+	ship = {
+		name= "Buttercup Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}

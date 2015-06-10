@@ -1,0 +1,74 @@
+army = {
+	name = "Iraqi First Army"
+	location = 926
+	regiment = {
+		name= "1. Cavalry Division 1. Cavalry Brigade"
+		type = cavalry
+	}
+
+	regiment = {
+		name= "1. Cavalry Division 2. Cavalry Brigade"
+		type = cavalry
+	}
+
+	regiment = {
+		name= "1. Cavalry Division 3. Cavalry Brigade"
+		type = cavalry
+	}
+	
+		regiment = {
+		name= "1. Military Police Brigade"
+		type = irregular
+	}
+
+}
+
+army = {
+	name = "Iraqi Second Army"
+	location = 923
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "Iraqi Third Army"
+	location = 932
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+army = {
+	name = "Iraqi First Air Group"
+	location = 926
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}

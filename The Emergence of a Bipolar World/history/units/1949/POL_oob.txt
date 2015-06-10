@@ -1,0 +1,538 @@
+army = {
+	name = "12th Infanty Division"
+	location = 546
+	regiment = {
+		name= "12th Infantry Division 41st Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "12th Infantry Division 43rd Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "12th Infantry Division 2nd Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "8th Motorised Infanty Division"
+	location = 680
+	regiment = {
+		name= "8th Motorised Infantry Division 32nd Motorised Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8th Motorised Infantry Division 34th Motorised Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8th Motorised Infantry Division 39th Motorised Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8th Motorised Infantry Division 9th Sorbian Medium Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "8th Motorised Infantry Division 34th Kolobrzeg Light Artillery Regiment"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "8th Motorised Infantry Division 91st Anti-Tank Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "13th Heavy Artillery Brigade"
+	location = 694
+	regiment = {
+		name= "13th Heavy Artillery Brigade"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "Pomeranian Military District HQ"
+	location = 694
+	regiment = {
+		name= "Pomeranian Military District HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "16th Kashubian Armoured Division"
+	location = 693
+	regiment = {
+		name= "16th Kashubian Armoured Division 1st Medium Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "16th Kashubian Armoured Division 4th Heavy Tank Regiment"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "16th Kashubian Armoured Division 13th Warsaw Armoured Artillery Regiment"
+		type = mechanised_artillery
+	}
+
+}
+
+army = {
+	name = "11th Infanty Division"
+	location = 3277
+	regiment = {
+		name= "11th Infantry Division 38th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11th Infantry Division 40th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "11th Infantry Division 42nd Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "11th Infantry Division 33rd Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "6th Heavy Tank Brigade"
+	location = 682
+	regiment = {
+		name= "6th Heavy Tank Brigade"
+		type = main_battle_tank
+	}
+
+}
+
+army = {
+	name = "Silesian Military District HQ"
+	location = 682
+	regiment = {
+		name= "Silesian Military District HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "2nd Territorial Infantry Division"
+	location = 716
+	regiment = {
+		name= "2nd Territorial Infantry Division 4th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2nd Territorial Infantry Division 5th Kolobrzeg Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2nd Territorial Infantry Division 6th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Territorial Infantry Division 2nd Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "4th Pomeranian Infanty Division"
+	location = 717
+	regiment = {
+		name= "4th Pomeranian Infanty Division 10th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4th Pomeranian Infanty Division 11th Kolobrzeg Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4th Pomeranian Infanty Division 12th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4th Pomeranian Infanty Division 6th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "1st Motorised Infantry Brigade"
+	location = 717
+	regiment = {
+		name= "1st Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+}
+
+army = {
+	name = "5th Saxon Infanty Division"
+	location = 681
+	regiment = {
+		name= "5th Saxon Infanty Division 13th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5th Saxon Infanty Division 15th Kolobrzeg Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "5th Saxon Infanty Division 17th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5th Saxon Infanty Division 22nd Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "10th Sudeten Infanty Division"
+	location = 683
+	regiment = {
+		name= "10th Sudeten Infanty Division 25th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "10th Sudeten Infanty Division 27th Kolobrzeg Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "10th Sudeten Infanty Division 29th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10th Sudeten Infanty Division 39th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "25th Armoured Artillery Brigade"
+	location = 3277
+	regiment = {
+		name= "25th Armoured Artillery Brigade"
+		type = mechanised_artillery
+	}
+
+}
+
+army = {
+	name = "2nd Sudeten Tank Brigade"
+	location = 701
+	regiment = {
+		name= "2nd Sudeten Tank Brigade"
+		type = main_battle_tank
+	}
+
+}
+
+army = {
+	name = "Krakow Military District HQ"
+	location = 703
+	regiment = {
+		name= "Krakow Military District HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "6th Territorial Infantry Division"
+	location = 703
+	regiment = {
+		name= "6th Territorial Infantry Division 14th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6th Territorial Infantry Division 16th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6th Territorial Infantry Division 18th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6th Territorial Infantry Division 23rd Kolobrzeg Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "9th Dresden Infantry Division"
+	location = 705
+	regiment = {
+		name= "9th Dresden Infantry Division 26th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9th Dresden Infantry Division 28th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "9th Dresden Infantry Division 30th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9th Dresden Infantry Division 40th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "7th Sorbian Infantry Division"
+	location = 685
+	regiment = {
+		name= "7th Sorbian Infantry Division 33rd Nysa Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "7th Sorbian Infantry Division 35th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "7th Sorbian Infantry Division 37th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7th Sorbian Infantry Division 38th Sorbian Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "8th Dresden Tank Brigade"
+	location = 714
+	regiment = {
+		name= "8th Dresden Tank Brigade"
+		type = main_battle_tank
+	}
+
+}
+
+army = {
+	name = "Warsaw Military District HQ"
+	location = 706
+	regiment = {
+		name= "Warsaw Military District HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "15th Infantry Division"
+	location = 696
+	regiment = {
+		name= "15th Infantry Division 50th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "15th Infantry Division 53rd Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "15th Infantry Division 54th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "15th Infantry Division 55th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "1st Warsaw Infantry Division"
+	location = 711
+	regiment = {
+		name= "1st Warsaw Infantry Division 1st Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1st Warsaw Infantry Division 2nd Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1st Warsaw Infantry Division 3rd Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1st Warsaw Infantry Division 1st Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "3rd Pomeranian Infantry Division"
+	location = 715
+	regiment = {
+		name= "3rd Pomeranian Infantry Division 7th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3rd Pomeranian Infantry Division 8th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3rd Pomeranian Infantry Division 9th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Pomeranian Infantry Division 5th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "18th Infantry Division"
+	location = 719
+	regiment = {
+		name= "18th Infantry Division 57th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "18th Infantry Division 62nd Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "18th Infantry Division 65th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "18th Infantry Division 54th Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "14th Infantry Division"
+	location = 692
+	regiment = {
+		name= "14th Infantry Division 45th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "14th Infantry Division 47th Infantry Regiment"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "14th Infantry Division 49th Infantry Regiment"
+		type = infantry
+	}
+
+	regiment = {
+		name= "14th Infantry Division 132nd Light Artillery Regiment"
+		type = artillery
+	}
+
+}
+
+army = {
+	name = "Polish People's First Air Group"
+	location = 706
+	regiment = {
+		name= "3rd Fighter Aviation Division"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Bomber Aviation Division"
+		type = bomber
+	}
+	
+}
+
+army = {
+	name = "Polish People's Second Air Group"
+	location = 683
+	regiment = {
+		name= "4th Mixed Aviation Division"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "2nd Air Assault Division "
+		type = bomber
+	}
+	
+}
+
+navy = {
+	name = "Polish First Fleet"
+	location = 690
+	ship = {
+		name= "ORP Blyskawica Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}

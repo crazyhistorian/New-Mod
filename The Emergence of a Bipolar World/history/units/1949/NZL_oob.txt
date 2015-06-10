@@ -1,0 +1,54 @@
+army = {
+	name = "New Zealand First Army"
+	location = 2512
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "New Zealand First Air Group"
+	location = 2512
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Close Air Support Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "New Zealand First Fleet"
+	location = 2512
+	ship = {
+		name= "Hawea Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "Rotoiti Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "Loch Achanalt Frigate Squadron"
+		type = frigate_squadron
+	}
+
+}

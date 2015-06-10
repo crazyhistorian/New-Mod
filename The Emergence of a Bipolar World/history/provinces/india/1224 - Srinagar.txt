@@ -1,0 +1,20 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+add_core = KAS
+add_core = HND
+trade_goods = grain
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = HND
+controller = HND
+add_core = PAK
+add_core = HND
+add_core = KAS
+colonial = no
+
+}

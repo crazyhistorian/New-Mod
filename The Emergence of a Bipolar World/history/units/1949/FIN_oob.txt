@@ -1,0 +1,99 @@
+army = {
+	name = "Finnish First Army"
+	location = 343
+	regiment = {
+		name= "1. Infantry Division 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Finnish Second Army"
+	location = 338
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Finnish Third Army"
+	location = 345
+	regiment = {
+		name= "2. Infantry Division 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Finnish Fourth Army"
+	location = 341
+	regiment = {
+		name= "3. Infantry Division 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3rd Infantry Brigade"
+		type = infantry
+	}
+
+	
+}
+
+army = {
+	name = "First Finnish Air Group"
+	location = 347
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+}

@@ -1,0 +1,14 @@
+owner = JAP
+controller = JAP
+trade_goods = fruit
+life_rating = 30
+colonial = 2
+
+1949.1.1 = {
+
+remove_core = JAP
+owner = USA
+controller = USA
+add_core = USA
+
+}

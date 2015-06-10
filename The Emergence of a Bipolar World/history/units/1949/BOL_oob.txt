@@ -1,0 +1,18 @@
+army = {
+	name = "1st Infantry Division"
+	location = 2310 #La Paz
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = infantry
+	}
+}

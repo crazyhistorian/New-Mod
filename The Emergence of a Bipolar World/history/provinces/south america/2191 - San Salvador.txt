@@ -1,0 +1,6 @@
+owner = ELS
+controller = ELS
+add_core = UCA
+add_core = ELS
+trade_goods = coffee
+life_rating = 30

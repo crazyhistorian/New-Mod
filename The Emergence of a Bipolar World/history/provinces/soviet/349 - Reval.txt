@@ -1,0 +1,15 @@
+owner = EST
+controller = EST
+add_core = RUS
+add_core = EST
+trade_goods = grain
+life_rating = 35
+fort = 2
+railroad = 3
+
+1949.1.1 = {
+
+owner = RUS
+controller = RUS
+
+}

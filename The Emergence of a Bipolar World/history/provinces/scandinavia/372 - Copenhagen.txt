@@ -1,0 +1,14 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = SCA
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+fort = 2
+railroad = 3
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}

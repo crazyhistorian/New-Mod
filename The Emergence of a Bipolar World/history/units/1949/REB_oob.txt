@@ -1,0 +1,55 @@
+army = {
+	name = "DSE VIII Democratic Division"
+	location = 824
+	regiment = {
+		name= "DSE 1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "DSE 2nd Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "DSE 3rd Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "DSE 107th Volunteers & Women Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "DSE IX Democratic Division"
+	location = 819
+	regiment = {
+		name= "DSE 4th Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "DSE 5th Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "DSE 6th Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "Independent Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "Independent Engineer Brigade"
+		type = engineer
+	}
+	
+}
+

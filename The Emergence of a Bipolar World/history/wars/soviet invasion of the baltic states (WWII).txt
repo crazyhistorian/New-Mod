@@ -1,0 +1,41 @@
+name = "The Soviet Invasion of the Baltic States"
+
+1939.9.1 = {
+	add_attacker = RUS
+	add_defender = FIN
+	add_defender = EST
+	add_defender = LAT
+	add_defender = LIT
+	
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = RUS
+		receiver = EST
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = RUS
+		receiver = LAT
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = RUS
+		receiver = LIT
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = RUS
+		receiver = FIN
+	}
+}
+
+1946.1.1 = {
+	rem_attacker = RUS
+	rem_defender = FIN
+	rem_defender = EST
+	rem_defender = LAT
+	rem_defender = LIT
+}
+
+

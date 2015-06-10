@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = CHI
+trade_goods = tea
+life_rating = 40
+railroad = 4
+

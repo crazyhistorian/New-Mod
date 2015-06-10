@@ -1,0 +1,15 @@
+owner = GER
+controller = GER
+
+add_core = GER
+add_core = LIT
+trade_goods = fish
+life_rating = 35
+
+1949.1.1 = {
+
+owner = RUS
+controller = RUS
+add_core = RUS
+
+}

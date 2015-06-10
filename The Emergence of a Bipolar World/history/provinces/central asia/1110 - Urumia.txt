@@ -1,0 +1,15 @@
+owner = AZB
+controller = AZB
+add_core = PER
+add_core = AZB
+trade_goods = wool
+life_rating = 35
+
+1949.1.1 = {
+
+owner = PER
+controller = PER
+add_core = PER
+add_core = KRD
+
+}

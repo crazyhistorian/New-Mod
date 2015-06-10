@@ -1,0 +1,14 @@
+owner = LAT
+controller = LAT
+add_core = RUS
+add_core = LAT
+trade_goods = fish
+life_rating = 35
+naval_base = 3
+railroad = 3
+
+state_building = {
+	level = 2
+	building = glass_factory
+	upgrade = yes
+}

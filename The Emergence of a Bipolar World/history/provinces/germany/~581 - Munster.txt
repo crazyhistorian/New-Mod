@@ -1,0 +1,12 @@
+owner = GER
+controller = GER
+add_core = PRU
+add_core = GER
+trade_goods = coal
+life_rating = 35
+railroad = 3
+state_building = {
+	level = 3
+	building = regular_clothes_factory
+	upgrade = yes
+}

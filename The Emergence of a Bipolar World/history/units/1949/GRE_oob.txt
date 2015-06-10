@@ -1,0 +1,239 @@
+army = {
+	name = "Greek First Army"
+	location = 805
+	regiment = {
+		name= "1. Mechanised Division 1. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+
+	regiment = {
+		name= "1. Mechanised Division 2. Mechanised Brigade"
+		type = mechanised_infantry
+	}
+	
+	regiment = {
+		name= "1. Mechanised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+}
+
+army = {
+	name = "Greek Second Army"
+	location = 834
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Greek Third Army"
+	location = 831
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Greek Fourth Army"
+	location = 840
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "Greek Fifth Army"
+	location = 848
+	regiment = {
+		name= "6. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 834
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "1st Close Air Support Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Second Air Group"
+	location = 805
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Third Air Group"
+	location = 831
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "Greek Navy"
+	location = 834
+	ship = {
+		name= "Salamis Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Armatolos Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+}

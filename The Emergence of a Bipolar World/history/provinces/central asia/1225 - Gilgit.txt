@@ -1,0 +1,19 @@
+colonial = 2
+owner = ENG
+controller = ENG
+
+add_core = KAS
+trade_goods = tea
+life_rating = 35
+
+1949.1.1 = {
+
+remove_core = ENG
+owner = PAK
+controller = PAK
+add_core = PAK
+add_core = HND
+add_core = KAS
+colonial = no
+
+}

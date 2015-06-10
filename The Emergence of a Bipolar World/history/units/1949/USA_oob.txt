@@ -1,0 +1,1170 @@
+NEJ = {
+	value = 50
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 50
+
+}
+
+VNZ = {
+	value = 50
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 50
+
+}
+
+JAP = {
+	value = 150
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 50
+
+}
+
+LIB = {
+	value = 150
+		#relation
+
+	level = 5
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 50
+
+}
+
+army = {
+	name = "FMFWestPacific"
+	location = 1566
+	regiment = {
+		name= "1st marines brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd marines brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9th marines brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "US 1st Army"
+	location = 232
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "US 2nd Army"
+	location = 1649
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "US 3rd Army"
+	location = 1661
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "US 4th Army"
+	location = 1661
+	regiment = {
+		name= "4. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "4. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "4. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "4. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 5th Army"
+	location = 1665
+	regiment = {
+		name= "5. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "5. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "5. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "United States Constabulary"
+	location = 589
+	regiment = {
+		name= "United States Constabulary 1. Motorised Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "United States Constabulary 4. Motorised Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 5. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 6. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "United States Constabulary 7. Motorised Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 8. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "United States Constabulary 9. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "United States Constabulary Austria Detachment"
+	location = 622
+	regiment = {
+		name= "United States Constabulary 10. Motorised Regiment"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 7th Army"
+	location = 89
+	regiment = {
+		name= "7. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "7. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "7. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "7. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+}
+
+army = {
+	name = "US 8th Army"
+	location = 78
+	regiment = {
+		name= "8. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "8. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "8. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "8. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+
+}
+
+army = {
+	name = "US 9th Army"
+	location = 129
+	regiment = {
+		name= "9. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "9. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "9. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "9. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 10th Army"
+	location = 243
+	regiment = {
+		name= "10. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "10. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "10. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "10. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 11th Army"
+	location = 229
+	regiment = {
+		name= "11. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "11. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "11. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "11. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 12th Army"
+	location = 189
+	regiment = {
+		name= "12. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "12. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "12. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "12. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 13th Army"
+	location = 223
+	regiment = {
+		name= "13. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "13. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "13. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "13. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "US 14th Army"
+	location = 151
+	regiment = {
+		name= "14. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "14. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "14. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "14. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "5. Artillery Brigade"
+		type = artillery
+	}
+	
+}
+
+army = {
+	name = "US 6th Army"
+	location = 150
+	regiment = {
+		name= "6. Motorised Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "6. Motorised Division 2. Motorised Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "6. Motorised Division 3. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "6. Motorised Division 4. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+}
+
+army = {
+	name = "USA 15th Army"
+	location = 132
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Motorised Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "6. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "4. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "USA 16th Army"
+	location = 209
+	regiment = {
+		name= "1. Paratrooper Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Paratrooper Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "1. Paratrooper Division 2. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "USA 17th Army"
+	location = 179
+	regiment = {
+		name= "2. Paratrooper Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Paratrooper Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Paratrooper Division 2. Engineer Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "USA 18th Army"
+	location = 106
+	regiment = {
+		name= "2. Light Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+}
+
+navy = {
+	name = "USA 1st Fleet"
+	location = 214
+	ship = {
+		name= "USS Essex"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Ticonderoga"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Randolph"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Tarawa"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Valley Forge"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Corregidor"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "USS Mississippi"
+		type = heavy_cruiser #battleship
+	}
+	
+	ship = {
+		name= "USS New Jersey"
+		type = heavy_cruiser #battleship
+	}
+	
+	ship = {
+		name= "USS Wisconsin"
+		type = heavy_cruiser #battleship
+	}
+	
+	ship = {
+		name= "USS Canberra"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Boston"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Albany"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Columbus"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Macon"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Roanoke"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "USS Sperry Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Leary Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Daly Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Murray Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Knapp Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Lewis Hancock Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Irwin Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Ingraham Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Haynsworth Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Borie Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Harlan R. Dickson Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Purdy Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Henley Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Massey Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Monrovia"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "USS Rockbridge"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "USS Capricornus"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "USS Upshur II"
+		type = troop_transport
+	}
+}
+
+navy = {
+	name = "USA 2nd Fleet"
+	location = 200
+	ship = {
+		name= "USS Franklin D. Roosevelt"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS McCaffery Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Bearss Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Stockham Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "USA 3rd Fleet"
+	location = 1661
+	ship = {
+		name= "USS Leyte"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Anitietam"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Bache Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Potter Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 1st Frigate squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 2nd Frigate squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 3rd Frigate squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 4th Frigate squadron"
+		type = frigate_squadron
+	}
+}
+
+navy = {
+	name = "USA 6th Fleet"
+	location = 762
+	ship = {
+		name= "USS Voral Sea"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Lake Champlain"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Intrepid"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Iowa"
+		type = heavy_cruiser #battleship
+	}
+	
+	ship = {
+		name= "USS Newport News"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Des Moines"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Worchester"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "USS Keith Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Eaton Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Hailey Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Hickox Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Porterfield Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "USA 4th Fleet"
+	location = 90
+	ship = {
+		name= "USS Boxer"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Hancock"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Kearsarge"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Princeton"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Shangri-La"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Oriskany"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Lexington"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Wasp"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Bennington"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Sicily"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "USS Point Cruz"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "USS Thetis Bay"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "USS Bremerton"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Walker Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Trathen Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Boyd Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Stoddard Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Cogswell Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Marshall Hancock Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Mansfield Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Samuel N. Moore Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 9th Frigate squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "USS Tacoma Class 10th Frigate squadron"
+		type = frigate_squadron
+	}
+}
+
+navy = {
+	name = "USA 7th Fleet"
+	location = 1649
+	ship = {
+		name= "USS Midway"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Philippine Sea"
+		type = fleet_carrier
+	}
+
+	ship = {
+		name= "USS Yorktown"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Hornet"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Bon Homme Richard"
+		type = fleet_carrier
+	}
+	
+	ship = {
+		name= "USS Baltimore"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Pittsburgh"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Saint Paul"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Helena"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Toledo"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Los Angeles"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Fletcher Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Erben Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Gregory Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Collett Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "USA 5th Fleet"
+	location = 658
+	ship = {
+		name= "USS Radford Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Taylor Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Pritchett Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "USA 6th Fleet"
+	location = 197
+	ship = {
+		name= "USS Monterey"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "USS Saufley Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "USA 8th Fleet"
+	location = 2222
+	ship = {
+		name= "USS Salem"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "USS Jeffers Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "USS Waller Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
+
+navy = {
+	name = "US 9th Fleet"
+	location = 3
+	ship = {
+		name= "USS Tacoma Class 5th Frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "USS Tacoma Class 6th Frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "USS Tacoma Class 7th Frigate squadron"
+		type = frigate_squadron
+	}
+	ship = {
+		name= "USS Tacoma Class 8th Frigate squadron"
+		type = frigate_squadron
+	}
+}

@@ -1,0 +1,29 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = coal
+life_rating = 35
+railroad = 5
+
+state_building = {
+	level = 2
+	building = winery
+	upgrade = yes
+}
+
+state_building = {
+	level = 2
+	building = liquor_distillery
+	upgrade = yes
+}
+
+state_building = {
+	level = 2
+	building = dye_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = aeroplane_factory
+	upgrade = yes
+}

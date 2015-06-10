@@ -1,0 +1,108 @@
+army = {
+	name = "First Army"
+	location = 2247
+	regiment = {
+		name= "1. Division 1. Brigada de Infantería"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "1. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Brigada de Artillery"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "3. Brigada de HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Second Army"
+	location = 2252
+	regiment = {
+		name= "1. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Third Army"
+	location = 2255
+	regiment = {
+		name= "1. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Fourth Army"
+	location = 2251
+	regiment = {
+		name= "4. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 2247
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Colombian First Fleet"
+	location = 2255
+	ship = {
+		name= "Almirante Padila Frigate Squadron"
+		type = frigate_squadron
+	}
+}

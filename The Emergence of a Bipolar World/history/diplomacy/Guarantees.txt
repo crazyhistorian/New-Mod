@@ -1,0 +1,21 @@
+gaurantee=
+	{
+		first="GER"
+		second="ITA"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+gaurantee=
+	{
+		first="GER"
+		second="JAP"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}
+gaurantee=
+	{
+		first="JAP"
+		second="ITA"
+		end_date="2000.1.1"
+		start_date="1914.1.1"
+	}

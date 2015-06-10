@@ -1,0 +1,8 @@
+owner = GER
+controller = GER
+add_core = PRU
+add_core = GER
+trade_goods = coal
+life_rating = 35
+fort = 3
+railroad = 5

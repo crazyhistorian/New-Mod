@@ -1,0 +1,13 @@
+owner = LAT
+controller = LAT
+add_core = RUS
+add_core = LAT
+trade_goods = fish
+life_rating = 35
+
+1949.1.1 = {
+
+owner = RUS
+controller = RUS
+
+}

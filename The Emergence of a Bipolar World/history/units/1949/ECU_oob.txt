@@ -1,0 +1,46 @@
+army = {
+	name = "First Army"
+	location = 2279
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "Second Army"
+	location = 2280
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+}
+
+navy = {
+	name = "Ecuador First Fleet"
+	location = 2280
+	ship = {
+		name= "Cotopaxi Frigate Squadron"
+		type = frigate_squadron
+	}
+}

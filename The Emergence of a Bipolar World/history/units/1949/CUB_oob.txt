@@ -1,0 +1,166 @@
+army = {
+	name = "First Army"
+	location = 2209
+	regiment = {
+		name= "1. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Division 1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Division 2. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Division 3. Brigada de Infanteria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Brigada de Artillery"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. Brigada de HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Second Army"
+	location = 2212
+	regiment = {
+		name= "3. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Division 1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Division 2. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Division 3. Brigada de Infanteria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Brigada de Artillery"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. Brigada de HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Third Army"
+	location = 2211
+	regiment = {
+		name= "5. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Division 1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Division 2. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Division 3. Brigada de Infanteria"
+		type = infantry
+	}
+}
+
+army = {
+	name = "Fourth Army"
+	location = 2210
+	regiment = {
+		name= "7. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Division 1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Division 2. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Division 3. Brigada de Infanteria"
+		type = infantry
+	}
+}
+
+army = {
+	name = "First Air Group"
+	location = 2209
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}

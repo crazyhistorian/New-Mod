@@ -1,0 +1,56 @@
+RUS = {
+	value = 160
+} 
+
+CHI = {
+	value = -150
+} 
+
+XBI = {
+	value = -150
+} 
+
+army = {
+	name = "East Turkestan National Army"
+	location = 1595
+	regiment = {
+		name= "National Army Suidan Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "National Army Ghulja Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "National Army Kensai Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "National Army Tungan Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "National Army Mongol Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 1595
+	regiment = {
+		name= "1st Soviet Bomber Unit"
+		type = bomber
+	}
+	
+}

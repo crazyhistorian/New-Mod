@@ -1,0 +1,25 @@
+name = "India-Pakistan War of 1947-48"
+
+1947.10.21 = {
+	add_attacker = PAK
+	add_defender = HND
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 1224
+		actor = PAK
+		receiver = HND
+	}
+
+}
+
+1949.1.1 = {	
+	rem_attacker = PAK
+	rem_defender = HND
+
+}

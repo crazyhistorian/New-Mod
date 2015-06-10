@@ -1,0 +1,29 @@
+army = {
+	name = "Irish First Army"
+	location = 263
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+
+}
+
+navy = {
+	name = "Irish Navy"
+	location = 260
+	ship = {
+		name= "Cliona Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+}

@@ -1,0 +1,14 @@
+owner = GER
+controller = GER
+add_core = LIP
+add_core = GER
+trade_goods = coal
+life_rating = 35
+
+1949.1.1 = {
+
+owner = ENG
+controller = ENG
+add_core = EGR
+
+}

@@ -1,0 +1,39 @@
+army = {
+	name = "Afghan Royal Army"
+	location = 1209
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Afghan Royal Militia"
+	location = 1215
+	regiment = {
+		name= "1st Irregular Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2nd Irregular Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "3rd Irregular Brigade"
+		type = irregular
+	}
+	
+}

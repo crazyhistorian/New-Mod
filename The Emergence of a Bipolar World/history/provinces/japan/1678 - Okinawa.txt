@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+trade_goods = grain
+life_rating = 35
+railroad = 3
+
+1949.1.1 = {
+
+owner = USA
+controller = USA
+
+}

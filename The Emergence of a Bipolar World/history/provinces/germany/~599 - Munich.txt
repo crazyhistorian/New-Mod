@@ -1,0 +1,17 @@
+owner = GER
+controller = GER
+add_core = BAV
+add_core = GER
+trade_goods = cattle
+life_rating = 35
+railroad = 5
+state_building = {
+	level = 3
+	building = glass_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = winery
+	upgrade = yes
+}

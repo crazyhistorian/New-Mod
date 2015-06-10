@@ -1,0 +1,9 @@
+army = {
+	name = "Grand Ducal Guard Corps"
+	location = 572
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+	
+}

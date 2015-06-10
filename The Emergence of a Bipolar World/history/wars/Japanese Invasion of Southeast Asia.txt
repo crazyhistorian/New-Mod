@@ -1,0 +1,45 @@
+name = "The Japanese Invasion of Southeast Asia"
+
+1939.9.1 = {
+	add_attacker = JAP
+	add_defender = FRA
+	add_defender = ENG
+	
+	
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = JAP
+		receiver = FRA
+	}
+	war_goal = {
+		casus_belli = humiliate
+		actor = JAP
+		reciever = FRA
+	}
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = JAP
+		receiver = ENG
+	}
+	war_goal = {
+		casus_belli = humiliate
+		actor = JAP
+		reciever = ENG
+	}
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = FRA
+		reciever = JAP
+	}
+	war_goal = {
+		casus_belli = great_war_install_democracy
+		actor = ENG
+		reciever = JAP
+	}
+}
+
+1946.1.1 = {
+	rem_attacker = JAP
+	rem_defender = FRA
+	rem_defender = ENG
+}

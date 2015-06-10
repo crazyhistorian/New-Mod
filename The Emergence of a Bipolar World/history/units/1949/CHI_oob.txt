@@ -1,0 +1,1597 @@
+CHC = {
+	value = -200
+} 
+
+XBI = {
+	value = 160
+} 
+
+TIB = {
+	value = -150
+} 
+
+leader = {
+	name = "Chen Changjie"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+leader = {
+	name = "Fu Zuoyi"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+leader = {
+	name = "Du Yuming"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+leader = {
+	name = "Yan Xishan"
+	type = land
+	date="1949.1.1"
+	personality = implacable
+	background = incompetent
+}
+
+army = {
+	name = "62nd NRA Army"
+	location = 1617
+	regiment = {
+		name= "62nd Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "62nd Army 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "62nd Army 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "62nd Army 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "62nd Army 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "62nd Army 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "62nd Army 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "62nd Army 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "62nd Army 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "62nd Army 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "62nd Army 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "62nd Army 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}
+
+army = {
+	name = "North China Pacification Command"
+	location = 1612
+	regiment = {
+		name= "North China 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "North China 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "North China 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "North China 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "North China 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "North China 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "North China 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "North China 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "North China 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "North China 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "North China 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "North China 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "33rd Corps 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "33rd Corps 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "33rd Corps 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "34th Corps 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "34th Corps 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "34th Corps 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "34th Corps 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "34th Corps 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "34th Corps 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "34th Corps 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "35th Corps 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "35th Corps 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "35th Corps 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "35th Corps 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "35th Corps 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "35th Corps 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "35th Corps 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}
+
+army = {
+	name = "86th NRA Army"
+	location = 1617
+	regiment = {
+		name= "86th Army 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "86th Army 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "86th Army 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "86th Army 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "86th Army 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 14th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "86th Army 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "86th Army 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "86th Army 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "86th Army 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "86th Army 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "86th Army 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "86th Army 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}
+
+army = {
+	name = "Xuzhou Bandit Suppresion Command"
+	location = 1542
+	regiment = {
+		name= "200th Armoured Brigade"
+		type = main_battle_tank
+
+	}
+	
+		regiment = {
+		name= "200th Mechanised Brigade"
+		type = mechanised_infantry
+
+	}
+}
+
+army = {
+	name = "2nd NRA Army Group"
+	location = 1542
+	regiment = {
+		name= "2nd Army Group 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 14th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 15th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 16th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 17th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 18th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "2nd Army Group 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "2nd Army Group 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}
+
+army = {
+	name = "13th NRA Army Group"
+	location = 1542
+	regiment = {
+		name= "13th Army Group 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 14th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 15th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 16th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 17th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 18th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "13th Army Group 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "13th Army Group 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "13th Army Group 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}
+
+army = {
+	name = "16th NRA Army Group"
+	location = 1542
+	regiment = {
+		name= "16th Army Group 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 8th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 9th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 10th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 11th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 12th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 13th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 14th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 15th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 16th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 17th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 18th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 3rd Artillery Brigade"
+		type = artillery
+
+	}
+
+	regiment = {
+		name= "16th Army Group 1st Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 2nd Cavalry Brigade"
+		type = cavalry
+
+	}
+	
+	regiment = {
+		name= "16th Army Group 3rd Cavalry Brigade"
+		type = cavalry
+
+	}
+
+	regiment = {
+		name= "16th Army Group 4th Cavalry Brigade"
+		type = cavalry
+
+	}
+}	
+
+army = {
+	name = "Taiyuan Garrison"
+	location = 1572
+	regiment = {
+		name= "X Corps 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "X Corps 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "X Corps 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "X Corps 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "X Corps 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "X Corps 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "X Corps 7th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "XV Corps 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "XV Corps 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "XV Corps 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "XV Corps 4th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "XV Corps 5th Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "XV Corps 6th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "XV Corps 7th Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "X Corps 1st Irregular Brigade"
+		type = irregular
+
+	}
+
+	regiment = {
+		name= "X Corps 2nd Irregular Brigade"
+		type = irregular
+
+	}
+	
+	regiment = {
+		name= "X Corps 3rd Irregular Brigade"
+		type = irregular
+
+	}
+	
+	regiment = {
+		name= "XV Corps 1st Irregular Brigade"
+		type = irregular
+
+	}
+
+	regiment = {
+		name= "XV Corps 2nd Irregular Brigade"
+		type = irregular
+
+	}
+	
+	regiment = {
+		name= "XV Corps 3rd Irregular Brigade"
+		type = irregular
+
+	}
+
+	regiment = {
+		name= "X Corps 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "X Corps 2nd Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "XV Corps 1st Artillery Brigade"
+		type = artillery
+
+	}
+	
+	regiment = {
+		name= "XV Corps 2nd Artillery Brigade"
+		type = artillery
+
+	}
+}
+
+army = {
+	name = "Datong Garrison"
+	location = 1576
+	regiment = {
+		name= "Datong 1st Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "Datong 2nd Infantry Brigade"
+		type = infantry
+
+	}
+
+	regiment = {
+		name= "Datong 3rd Infantry Brigade"
+		type = infantry
+
+	}
+	
+	regiment = {
+		name= "Datong 4th Infantry Brigade"
+		type = infantry
+
+	}
+}
+
+navy = {
+	name = "3rd ROC Fleet"
+	location = 1538
+	ship = {
+		name= "1st Taipinghao Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "1st Taihe frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "2nd frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "3rd frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "4th frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "5th frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "1st Gunboat Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "2nd Gunboat Squadron"
+		type = frigate_squadron
+	}
+}
+
+navy = {
+	name = "2nd ROC Fleet"
+	location = 1617
+	ship = {
+		name= "1st frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "2nd frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "1st Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "2nd Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "3rd frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "4th frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "3rd Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "4th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "5th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "6th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "7th Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "8th Transport Junks Squadron"
+		type = troop_transport
+	}
+}
+
+navy = {
+	name = "1st ROC Fleet"
+	location = 1493
+	ship = {
+		name= "1st frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+
+	ship = {
+		name= "2nd frigate_squadron Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "1st Transport Junks Squadron"
+		type = troop_transport
+	}
+	
+	ship = {
+		name= "2nd Transport Junks Squadron"
+		type = troop_transport
+	}
+}

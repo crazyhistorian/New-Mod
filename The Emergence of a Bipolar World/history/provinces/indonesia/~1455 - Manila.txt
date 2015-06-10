@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+add_core = PHI
+trade_goods = fruit
+life_rating = 30
+colonial = yes
+fort = 3
+naval_base = 3
+railroad = 3

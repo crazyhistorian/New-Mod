@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = IRE
+trade_goods = cattle
+life_rating = 35
+railroad = 3
+state_building = {
+	level = 2
+	building = fabric_factory
+	upgrade = yes
+}

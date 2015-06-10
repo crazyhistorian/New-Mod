@@ -1,0 +1,173 @@
+army = {
+	name = "First Army"
+	location = 2324
+	regiment = {
+		name= "1. Division 1. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 2. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Division 3. Brigada de Infantería"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Division 1. Brigada de Infanteria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Division 2. Brigada de Infanteria"
+		type = infantry
+		home = 2330
+	}
+
+	regiment = {
+		name= "2. Division 3. Brigada de Infanteria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Brigada de Artillery"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. Brigada de HQ"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Second Army"
+	location = 2305
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Engineers"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Third Army"
+	location = 2332
+	regiment = {
+		name= "3. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Fourth Army"
+	location = 2333
+	regiment = {
+		name= "4. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Fifth Army"
+	location = 2334
+	regiment = {
+		name= "5. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "First Air Group"
+	location = 2324
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Second Air Group"
+	location = 2305
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Chilean First Fleet"
+	location = 2326
+	ship = {
+		name= "Almirante Latorre"
+		type = heavy_cruiser
+	}
+	
+	ship = {
+		name= "Capitan Prat"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "Capitan OHiggins"
+		type = light_cruiser
+	}
+
+	ship = {
+		name= "Cochrane Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "Zenteno Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}

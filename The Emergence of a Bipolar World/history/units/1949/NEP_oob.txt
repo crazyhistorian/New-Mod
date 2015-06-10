@@ -1,0 +1,49 @@
+army = {
+	name = "Nepalese First Army"
+	location = 1326
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "3. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Mountain Division 2. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+}

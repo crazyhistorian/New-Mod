@@ -1,0 +1,379 @@
+
+
+#British Empire 1939
+
+
+vassal = {
+	first = ENG
+	second = AST
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = CAN
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = YEM
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = OMA
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = SAF
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = NZL
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = USA
+	second = CUB
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+vassal = {
+	first = ENG
+	second = IRQ
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+}
+
+#######################
+#        INDIA        #
+#######################
+
+# United Kingdom-Awadh
+vassal = {
+	first = ENG
+	second = AWA
+	start_date = 1801.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Bastar
+vassal = {
+	first = ENG
+	second = BAS
+	start_date = 1836.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Beroda
+vassal = {
+	first = ENG
+	second = BER
+	start_date = 1802.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Bikaner
+vassal = {
+	first = ENG
+	second = BIK
+	start_date = 1818.5.9
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Bhopal
+vassal = {
+	first = ENG
+	second = BHO
+	start_date = 1818.2.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Bundelkhand
+vassal = {
+	first = ENG
+	second = BUN
+	start_date = 1817.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Hyderabad
+vassal = {
+	first = ENG
+	second = HYD
+	start_date = 1798.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Indore
+vassal = {
+	first = ENG
+	second = IND
+	start_date = 1818.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Jaipur
+vassal = {
+	first = ENG
+	second = JAI
+	start_date = 1818.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Jaisalmer
+vassal = {
+	first = ENG
+	second = JAS
+	start_date = 1818.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Jodhpur
+vassal = {
+	first = ENG
+	second = JOD
+	start_date = 1818.1.1
+	end_date = 1913.12.31
+}
+
+#vassal = {
+#	first = PAN
+#	second = KAS
+#	start_date = 1780.1.1
+#	end_date = 1913.12.31
+#}
+
+# United Kingdom-Mewar
+vassal = {
+	first = ENG
+	second = MEW
+	start_date = 1818.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Mysore
+vassal = {
+	first = ENG
+	second = MYS
+	start_date = 1799.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Nagpur
+vassal = {
+	first = ENG
+	second = NAG
+	start_date = 1816.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Orissa
+vassal = {
+	first = ENG
+	second = ORI
+	start_date = 1803.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Travancore
+vassal = {
+	first = ENG
+	second = TRA
+	start_date = 1795.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Gwalior
+vassal = {
+	first = ENG
+	second = GWA
+	start_date = 1836.1.1
+	end_date = 1913.12.31
+}
+
+# United Kingdom-Kutch
+vassal = {
+	first = ENG
+	second = KUT
+	start_date = 1815.1.1
+	end_date = 1913.12.31
+}
+
+
+#Nazi CLient States 1939
+
+
+vassal = {
+	first = GER
+	second = CZH
+	start_date = 1936.1.1
+	end_date = 1946.1.1
+}
+vassal = {
+	first = GER
+	second = AUS	
+	start_date = 1938.1.1
+	end_date = 1946.1.1
+}
+
+
+# France-Saarland 1949
+
+
+vassal = {
+	first = FRA
+	second = SRL
+	start_date = 1949.1.1
+	end_date = 1956.7.26
+}
+
+
+# Soviet Union-Xinjiang 1949
+
+
+vassal = {
+	first = RUS
+	second = XIN
+	start_date = 1949.1.1
+	end_date = 1987.7.26
+}
+# Nat. China-Xibei San Ma
+vassal = {
+	first = CHI
+	second = XBI
+	start_date = 1949.1.1
+	end_date = 1987.7.26
+}
+# USA-Liberia
+vassal = {
+	first = USA
+	second = LIB
+	start_date = 1949.1.1
+	end_date = 1847.7.26
+}
+
+
+###Dominions and British Satellites 1949
+
+
+# UK-Egypt
+vassal = {
+	first = ENG
+	second = EGY
+	start_date = 1949.1.1
+	end_date = 1985.7.26
+}
+# UK-Oman
+vassal = {
+	first = ENG
+	second = OMA
+	start_date = 1949.1.1
+	end_date = 1985.7.26
+}
+# UK-Abu Dhabi
+vassal = {
+	first = ENG
+	second = ABU
+	start_date = 1949.1.1
+	end_date = 1985.7.26
+}
+# UK-Yemen
+vassal = {
+	first = ENG
+	second = YEM
+	start_date = 1949.1.1
+	end_date = 1985.7.26
+}
+
+
+###COMMUNIST SATELLITES 1949
+
+
+#Soviet Union-Poland
+vassal = {
+	first = RUS
+	second = POL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Romania
+vassal = {
+	first = RUS
+	second = ROM
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-East Germany
+vassal = {
+	first = RUS
+	second = DDR
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Hungary
+vassal = {
+	first = RUS
+	second = HUN
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Bulgaria
+vassal = {
+	first = RUS
+	second = BUL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Czechoslovakia
+vassal = {
+	first = RUS
+	second = CZH
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Mongolia
+vassal = {
+	first = RUS
+	second = MGL
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+#Soviet Union-Albania
+vassal = {
+	first = RUS
+	second = ALB
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+#India 1949
+
+
+vassal = {
+	first = HND
+	second = SIK
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+vassal = {
+	first = HND
+	second = BHU
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}
+
+vassal = {
+	first = USA
+	second = TRE
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+}

@@ -1,0 +1,230 @@
+army = {
+	name = "Netherlands First Army"
+	location = 382
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Regiment"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}		
+
+}
+
+army = {
+	name = "Netherlands Second Army"
+	location = 379
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Regiment"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Regiment"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "Netherlands Third Army"
+	location = 375
+	regiment = {
+		name= "1. Mountain Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Engineer Brigade"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Netherlands Fourth Army"
+	location = 1413
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+	
+}
+
+army = {
+	name = "Netherlands Fifth Army"
+	location = 376
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Netherlands Sixth Army"
+	location = 385
+	regiment = {
+		name= "3. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Netherlands Seventh Army"
+	location = 1415
+	regiment = {
+		name= "4. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Netherlands Eighth Army"
+	location = 1445
+	regiment = {
+		name= "5. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Netherlands First Air Group"
+	location = 375
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Netherlands First Fleet"
+	location = 375
+	ship = {
+		name= "HNLMS Karel Doorman"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "HNLMS Eendracht"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HNLMS Tromp"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HNLMS Jacob Van Heemskerck"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HNLMS Noord Brabant Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "HNLMS Dolfijn Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}
+
+navy = {
+	name = "Netherlands Second Fleet"
+	location = 1413
+	ship = {
+		name= "HNLMS De Zeven Provincien"
+		type = light_cruiser
+	}
+}
+
+IDO = {
+	value = -200
+} 

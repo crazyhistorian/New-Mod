@@ -1,0 +1,51 @@
+army = {
+	name = "First Army"
+	location = 372
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Second Army"
+	location = 367
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "First Air Group"
+	location = 367
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}

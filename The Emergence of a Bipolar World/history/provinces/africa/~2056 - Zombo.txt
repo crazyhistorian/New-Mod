@@ -1,0 +1,6 @@
+colonial = yes
+owner = ENG
+controller = ENG
+
+trade_goods = coffee
+life_rating = 15

@@ -1,0 +1,8 @@
+owner = GER
+controller = GER
+add_core = OLD
+add_core = GER
+trade_goods = coal
+life_rating = 35
+railroad = 3
+

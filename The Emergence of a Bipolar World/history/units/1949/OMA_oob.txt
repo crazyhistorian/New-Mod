@@ -1,0 +1,14 @@
+army = {
+	name = "Omani First Army"
+	location = 1166
+	regiment = {
+		name= "1st Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "2nd Militia Brigade"
+		type = irregular
+	}
+	
+}

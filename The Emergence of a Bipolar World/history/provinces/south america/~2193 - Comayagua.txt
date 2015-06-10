@@ -1,0 +1,2 @@
+owner = HONcontroller = HONadd_core = UCAadd_core = HON
+trade_goods = fruitlife_rating = 30

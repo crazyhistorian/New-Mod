@@ -1,0 +1,14 @@
+owner = GER
+controller = GER
+
+add_core = BOH
+add_core = CZH
+trade_goods = iron
+life_rating = 35
+
+1949.1.1 = {
+
+owner = CZH
+controller = CZH
+
+}

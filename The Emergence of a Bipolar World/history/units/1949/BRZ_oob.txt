@@ -1,0 +1,324 @@
+army = {
+	name = "First Army"
+	location = 2447
+	regiment = {
+		name= "1. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Brigada de Infantaria"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Brigada de Infantaria"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 3. Brigada de Infantaria"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Brigada de SP-Artillery"
+		type = mechanised_artillery
+	}
+	
+	regiment = {
+		name= "2. Brigada de SP-Artillery"
+		type = mechanised_artillery
+	}
+	
+	regiment = {
+		name= "1. Brigada de HQ-Engineers"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Second Army"
+	location = 2450
+	regiment = {
+		name= "3. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "4. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "4. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Brigada de Artillaria"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "2. Brigada de HQ-Engineers"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Third Army"
+	location = 2463
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Mountain Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Mountain Division 1. Brigada de Engineers"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "5. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "5. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "6. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "6. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "7. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "7. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "8. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "8. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "2. Brigada de Artillaria"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "3. Brigada de Artillaria"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. Brigada de Engineers"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Brigada de Engineers"
+		type = engineer
+	}
+	
+	regiment = {
+		name= "2. Brigada de HQ-Engineers"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "Fourth Army"
+	location = 2432
+	regiment = {
+		name= "9. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "9. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "10. Infantry Division 1. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 2. Brigada de Infantaria"
+		type = infantry
+	}
+
+	regiment = {
+		name= "10. Infantry Division 3. Brigada de Infantaria"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "3. Brigada de HQ-Engineers"
+		type = engineer
+	}
+
+}
+
+army = {
+	name = "First Air Group"
+	location = 2447
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Second Air Group"
+	location = 2432
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+	
+	regiment = {
+		name= "4th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+army = {
+	name = "Third Air Group"
+	location = 2431
+	regiment = {
+		name= "5th Fighter Unit"
+		type = close_air_support
+	}
+	
+}
+
+navy = {
+	name = "Brazilian First Fleet"
+	location = 2447
+	ship = {
+		name= "Acre Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}
+
+navy = {
+	name = "Brazilian Second Fleet"
+	location = 2431
+	ship = {
+		name= "Apa Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}
+
+navy = {
+	name = "Brazilian Third Fleet"
+	location = 2410
+	ship = {
+		name= "Greenhalgh Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}

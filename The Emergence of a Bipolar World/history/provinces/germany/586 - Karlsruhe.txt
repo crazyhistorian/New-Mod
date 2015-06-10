@@ -1,0 +1,19 @@
+owner = GER
+controller = GER
+add_core = BAD
+add_core = GER
+trade_goods = fruit
+life_rating = 35
+#state_building = {
+#	level = 1
+#	building = lumber_mill
+#	upgrade = yes
+#}
+
+1949.1.1 = {
+
+owner = FRA
+controller = FRA
+add_core = EGR
+
+}

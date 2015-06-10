@@ -1,0 +1,7 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = grain
+naval_base = 3
+life_rating = 35
+railroad = 3

@@ -1,0 +1,12 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+trade_goods = iron
+life_rating = 35
+fort = 1
+railroad = 3
+state_building = {
+	level = 2
+	building = fabric_factory
+	upgrade = yes
+}

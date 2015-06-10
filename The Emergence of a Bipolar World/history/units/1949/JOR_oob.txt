@@ -1,0 +1,19 @@
+army = {
+	name = "Jordanian First Army"
+	location = 908
+	regiment = {
+		name= "1st Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2nd Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "3rd Infantry Brigade"
+		type = infantry
+	}
+	
+}

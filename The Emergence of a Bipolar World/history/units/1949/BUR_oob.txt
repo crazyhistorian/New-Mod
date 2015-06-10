@@ -1,0 +1,65 @@
+army = {
+	name = "First Army"
+	location = 1330
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+}
+
+army = {
+	name = "First Militia"
+	location = 1334
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+}
+	
+army = {
+	name = "Second Militia"
+	location = 1339
+	regiment = {
+		name= "2. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "2. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+}
+
+navy = {
+	name = "Burmese First Fleet"
+	location = 1330
+	ship = {
+		name= "Inma Frigate Squadron"
+		type = frigate_squadron
+	}
+}

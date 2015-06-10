@@ -1,0 +1,59 @@
+army = {
+	name = "Royal Saudi Army"
+	location = 1157
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+	
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Royal Saudi Cavalry"
+	location = 1153
+	regiment = {
+		name= "1. Cavalry Medina Division 1. Cavalry Brigade"
+		type = cavalry
+	}
+	
+	regiment = {
+		name= "1. Cavalry Medina Division 2. Cavalry Brigade"
+		type = cavalry
+	}
+
+	regiment = {
+		name= "1. Cavalry Medina Division 3. Cavalry Brigade"
+		type = cavalry
+	}
+	
+}
+
+army = {
+	name = "Saudi Arabian National Guard"
+	location = 1152
+	regiment = {
+		name= "1. Militia Division 1. Militia Brigade"
+		type = irregular
+	}
+	
+	regiment = {
+		name= "1. Militia Division 2. Militia Brigade"
+		type = irregular
+	}
+
+	regiment = {
+		name= "1. Militia Division 3. Militia Brigade"
+		type = irregular
+	}
+	
+}

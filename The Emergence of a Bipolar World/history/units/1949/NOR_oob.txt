@@ -1,0 +1,74 @@
+army = {
+	name = "Norwegian First Army"
+	location = 313
+	regiment = {
+		name= "1. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "1. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+army = {
+	name = "Norwegian Second Army"
+	location = 306
+	regiment = {
+		name= "2. Infantry Division 1. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 2. Infantry Brigade"
+		type = infantry
+	}
+
+	regiment = {
+		name= "2. Infantry Division 3. Infantry Brigade"
+		type = infantry
+	}
+	
+}
+
+navy = {
+	name = "Norwegian First Fleet"
+	location = 309
+	ship = {
+		name= "Sleipner Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Svenner Frigate Squadron"
+		type = frigate_squadron
+	}
+	
+	ship = {
+		name= "Kya Submarine Squadron"
+		type = attack_submarine_squadron
+	}
+
+}
+
+navy = {
+	name = "Norwegian Second Fleet"
+	location = 313
+	ship = {
+		name= "Oslo Destroyer Squadron"
+		type = destroyer_squadron
+	}
+	
+	ship = {
+		name= "Narvik Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+}

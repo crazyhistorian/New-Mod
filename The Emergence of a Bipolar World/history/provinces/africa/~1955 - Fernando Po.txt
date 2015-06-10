@@ -1,0 +1,6 @@
+colonial = yes
+owner = SPA
+controller = SPA
+
+trade_goods = wool
+life_rating = 35

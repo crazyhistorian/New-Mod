@@ -1,0 +1,160 @@
+army = {
+	name = "First Army"
+	location = 46
+	regiment = {
+		name= "1. Armoured Division 1. Armoured Brigade"
+		type = main_battle_tank
+	}
+
+	regiment = {
+		name= "1. Armoured Division 2. Armoured Brigade"
+		type = main_battle_tank
+	}
+	
+	regiment = {
+		name= "1. Armoured Division 1. Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Artillery Brigade"
+		type = artillery
+	}
+	
+	regiment = {
+		name= "1. HQ Brigade"
+		type = engineer
+	}
+}
+
+army = {
+	name = "Second Army"
+	location = 58
+	regiment = {
+		name= "1. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "1. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "1. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Artillery Brigade"
+		type = artillery
+	}
+}
+
+army = {
+	name = "Third Army"
+	location = 22
+	regiment = {
+		name= "2. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "2. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "2. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "Fourth Army"
+	location = 65
+	regiment = {
+		name= "3. Motorised Division 1. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+	
+	regiment = {
+		name= "3. Motorised Division 2. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+
+	regiment = {
+		name= "3. Motorised Division 3. Motorised Infantry Brigade"
+		type = motorised_infantry
+	}
+}
+
+army = {
+	name = "First Air Group"
+	location = 65
+	regiment = {
+		name= "1st Fighter Unit"
+		type = close_air_support
+	}
+}
+
+army = {
+	name = "Second Air Group"
+	location = 46
+	regiment = {
+		name= "2nd Fighter Unit"
+		type = close_air_support
+	}
+}
+	
+army = {
+	name = "Third Air Group"
+	location = 13
+	regiment = {
+		name= "3rd Fighter Unit"
+		type = close_air_support
+	}
+}
+
+navy = {
+	name = "Canadian First Fleet"
+	location = 13
+	ship = {
+		name= "HMCS Algonquin Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "HMCS Lanark Frigate Squadron"
+		type = frigate_squadron
+	}
+}
+
+navy = {
+	name = "Canadian Second Fleet"
+	location = 71
+	ship = {
+		name= "HMCS Magnificent"
+		type = light_carrier
+	}
+	
+	ship = {
+		name= "HMCS Ontario"
+		type = light_cruiser
+	}
+	
+	ship = {
+		name= "HMCS Uganda"
+		type = light_cruiser
+	}
+
+	ship = {
+		name= "HMCS Cayuga Destroyer Squadron"
+		type = destroyer_squadron
+	}
+
+	ship = {
+		name= "HMCS Huron Destroyer Squadron"
+		type = destroyer_squadron
+	}
+}
