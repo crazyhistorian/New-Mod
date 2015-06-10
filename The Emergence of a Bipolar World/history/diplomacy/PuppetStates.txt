@@ -7,13 +7,13 @@ vassal = {
 	first = ENG
 	second = AST
 	start_date = 1900.1.1
-	end_date = 1946.1.1
+	end_date = 2000.1.1
 }
 vassal = {
 	first = ENG
 	second = CAN
 	start_date = 1900.1.1
-	end_date = 1946.1.1
+	end_date = 2000.1.1
 }
 vassal = {
 	first = ENG
@@ -31,13 +31,13 @@ vassal = {
 	first = ENG
 	second = SAF
 	start_date = 1900.1.1
-	end_date = 1946.1.1
+	end_date = 2000.1.1
 }
 vassal = {
 	first = ENG
 	second = NZL
 	start_date = 1900.1.1
-	end_date = 1946.1.1
+	end_date = 2000.1.1
 vassal = {
 	first = USA
 	second = CUB
