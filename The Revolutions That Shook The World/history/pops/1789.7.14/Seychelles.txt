@@ -1,0 +1,86 @@
+2127 = {
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=4
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=18
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=3
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=409
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=9
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=34
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=9
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=7
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=801
+	}
+
+}

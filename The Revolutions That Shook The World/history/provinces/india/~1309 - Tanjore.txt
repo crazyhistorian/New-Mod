@@ -1,0 +1,7 @@
+owner= KRK
+controller= KRK
+add_core= MDR
+add_core= BIJ
+add_core= KRK
+trade_goods = dye
+life_rating = 32

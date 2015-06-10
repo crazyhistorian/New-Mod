@@ -1,0 +1,18 @@
+owner= SPA
+controller= SPA
+add_core= X06
+add_core= SPA
+trade_goods = cattle
+life_rating = 25
+colonial=2
+
+1821.4.1 = {
+
+owner= CLM
+controller= CLM
+add_core = CLM
+add_core = VNZ
+remove_core = SPA
+colonial = no
+
+}

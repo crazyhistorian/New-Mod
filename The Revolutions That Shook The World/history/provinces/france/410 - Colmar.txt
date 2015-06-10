@@ -1,0 +1,8 @@
+owner= FRA
+controller= FRA
+add_core= AUS
+add_core= FRA
+add_core= SGF
+add_core= GER
+trade_goods = sulphur
+life_rating = 30

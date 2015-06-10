@@ -1,0 +1,5 @@
+owner= OSA
+controller= OSA
+add_core= OSA
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,15 @@
+owner= NEJ
+controller= NEJ
+add_core= NEJ
+add_core= ARA
+trade_goods = wool
+life_rating = 10
+
+1821.4.1 = {
+
+owner= TUR
+controller= TUR
+add_core= TUR
+add_core= SHM
+
+}

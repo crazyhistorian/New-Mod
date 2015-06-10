@@ -1,0 +1,16 @@
+owner= MAR
+controller= MAR
+add_core= MAR
+add_core= HND
+trade_goods = tea
+life_rating = 32
+fort = 1
+
+1821.4.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

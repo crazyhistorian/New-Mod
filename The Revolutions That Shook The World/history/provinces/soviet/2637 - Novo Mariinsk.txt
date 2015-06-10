@@ -1,0 +1,13 @@
+owner= CHU
+controller= CHU
+add_core= CHU
+trade_goods = fish
+life_rating = 20
+
+1789.7.14 = {
+
+owner= RUS
+controller= RUS
+add_core= RUS
+
+}

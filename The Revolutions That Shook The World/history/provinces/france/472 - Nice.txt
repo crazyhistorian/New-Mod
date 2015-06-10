@@ -1,0 +1,23 @@
+owner= SAR
+controller= SAR
+add_core= SAV
+add_core= SAR
+add_core= ITA
+trade_goods = grain
+life_rating = 34
+naval_base = 1
+
+1805.1.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}
+
+1821.4.1 = {
+
+owner= SAR
+controller= SAR
+
+}

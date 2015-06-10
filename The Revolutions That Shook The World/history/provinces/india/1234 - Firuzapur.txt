@@ -1,0 +1,25 @@
+owner= PAN
+controller= PAN
+add_core= MUG
+add_core= PAN
+add_core= DLH
+trade_goods = wool
+life_rating = 32
+
+1789.7.14 = {
+
+owner= GWA
+controller= GWA
+add_core= JAN
+add_core= GWA
+
+}
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

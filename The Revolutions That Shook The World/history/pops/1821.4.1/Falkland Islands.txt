@@ -1,0 +1,60 @@
+2131 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = catholic
+		size=0
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = catholic
+		size=7
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=7
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=13
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=2
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=46
+	}
+
+}
+2133 = {
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size=15
+	}
+
+}

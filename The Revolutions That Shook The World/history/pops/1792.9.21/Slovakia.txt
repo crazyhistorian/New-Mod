@@ -1,0 +1,474 @@
+633 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size=2550
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1793
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=354
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=157
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1790
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=166734
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=175
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=10240
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=200
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=8625
+	}
+
+}
+634 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1058
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size=2605
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size=545
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=103
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=519
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=50124
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=850
+	}
+
+}
+635 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1647
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size=4620
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size=855
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=158
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=70
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=801
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=77849
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=850
+	}
+
+}
+636 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1039
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size=2040
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size=510
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=101
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=510
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=48755
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1325
+	}
+
+}
+637 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=3366
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=10499
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=1735
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=321
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=143
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=1624
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size=158762
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=825
+	}
+
+}
+638 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=680
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size=1312
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size=321
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=67
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size=338
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size=32352
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=25
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=825
+	}
+
+}

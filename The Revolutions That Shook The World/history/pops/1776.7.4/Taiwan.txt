@@ -1,0 +1,200 @@
+1485 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=3991
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=7982
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=1996
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=100
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=80
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=1537
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=183867
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=7635
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=12590
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=1624
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=179
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=162
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=1592
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=138666
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=4212
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=8423
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=2106
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=105
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=1621
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=194027
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=8057
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=13285
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=1714
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=189
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=1680
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = mahayana
+		size=146327
+	}
+
+}

@@ -1,0 +1,570 @@
+2229 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=22000
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=1180
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=1945
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=251
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=45
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=246
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=318
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=13
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=22
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3931
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=158
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=271
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=42
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=7
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=38
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=311
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=12
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=21
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3230
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=130
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=222
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=34
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=5
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=31
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=958
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=38
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=66
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=10
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=2
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=9
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=486
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=20
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=34
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=5
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=5
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=2348
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=96
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=164
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=25
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=4
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=23
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=4165
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=170
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=290
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=45
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=41
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=347
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=14
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=24
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=1677
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=67
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=115
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=18
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=16
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=2975
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=119
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=203
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=5
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=28
+	}
+
+}

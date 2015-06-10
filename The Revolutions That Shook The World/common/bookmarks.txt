@@ -1,0 +1,44 @@
+bookmark =
+{
+	name = "American Independence War"
+	desc = "GC_DESC"
+	date = 1776.7.4
+	cameraX = 1270 
+	cameraY = 1450
+}
+
+bookmark =
+{
+	name = "The French Revolution"
+	desc = "GC_DESC"
+	date = 1789.7.14
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "The War Of The First Coalition"
+	desc = "GC_DESC"
+	date = 1792.9.21
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "The War Of The Third Coalition"
+	desc = "GC_DESC"
+	date = 1805.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "Revolutions Across The World"
+	desc = "GC_DESC"
+	date = 1821.4.1
+	cameraX = 2950 
+	cameraY = 1550
+}

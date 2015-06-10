@@ -1,6 +1,0 @@
-colonial = yes
-owner = FRA
-controller = FRA
-
-trade_goods = fruit
-life_rating = 15

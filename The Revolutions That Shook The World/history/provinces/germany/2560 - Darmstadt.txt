@@ -1,0 +1,15 @@
+owner= MAI
+controller= MAI
+add_core= MAI
+add_core= SGF
+add_core= GER
+trade_goods = fruit
+life_rating = 40
+
+1821.4.1 = {
+
+owner= HES
+controller= HES
+add_core= HES
+
+}

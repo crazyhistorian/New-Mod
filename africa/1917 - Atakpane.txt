@@ -1,7 +1,0 @@
-colonial = 2
-owner = FRA
-controller = FRA
-
-add_core = TGO
-trade_goods = coffee
-life_rating = 15

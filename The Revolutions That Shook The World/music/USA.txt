@@ -1,0 +1,82 @@
+####################
+# American Revolution Songs
+####################
+song = {
+	name = "FifeDrum.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = USA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = USA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "YankeeDoodle.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = USA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = USA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "BritishGrenadiers.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = USA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = USA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "GodBlessAmerica.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = USA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = USA }
+		}
+
+		
+	}
+}

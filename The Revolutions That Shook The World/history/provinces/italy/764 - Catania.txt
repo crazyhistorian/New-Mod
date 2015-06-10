@@ -1,0 +1,7 @@
+owner= NAP
+controller= NAP
+add_core= SII
+add_core= NAP
+add_core= ITA
+trade_goods = sulphur
+life_rating = 35

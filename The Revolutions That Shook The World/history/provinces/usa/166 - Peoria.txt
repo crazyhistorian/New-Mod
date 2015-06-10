@@ -1,0 +1,14 @@
+owner= ILL
+controller= ILL
+add_core= ILL
+trade_goods = cattle
+life_rating = 35
+
+
+1821.4.1 = {
+
+owner= USA
+controller= USA
+add_core= USA
+
+}

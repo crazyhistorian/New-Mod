@@ -1,0 +1,13 @@
+owner= ENG
+controller= ENG
+add_core= CNN
+add_core= IRE
+add_core= ENG
+trade_goods = cattle
+life_rating = 35
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

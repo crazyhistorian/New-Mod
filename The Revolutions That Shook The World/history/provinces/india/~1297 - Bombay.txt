@@ -1,0 +1,10 @@
+owner= MAR
+controller= MAR
+add_core= JAJ
+add_core= MAR
+add_core= ENG
+add_core= HND
+trade_goods = grain
+life_rating = 32
+naval_base = 1
+fort = 1

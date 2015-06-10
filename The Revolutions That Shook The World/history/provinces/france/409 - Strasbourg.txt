@@ -1,0 +1,15 @@
+owner= FRA
+controller= FRA
+add_core= ALS
+add_core= FRA
+add_core= SGF
+add_core= GER
+trade_goods = grain
+life_rating = 33
+fort = 1
+state_building=
+{
+	level=1
+	building = liquor_distillery
+	upgrade = yes
+}

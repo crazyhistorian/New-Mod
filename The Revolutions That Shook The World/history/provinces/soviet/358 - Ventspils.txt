@@ -1,0 +1,14 @@
+owner= KUR
+controller= KUR
+add_core= KUR
+add_core= UBD
+trade_goods = fish
+life_rating = 35
+
+1805.1.1 = {
+
+owner= RUS
+controller= RUS
+add_core = RUS
+
+}

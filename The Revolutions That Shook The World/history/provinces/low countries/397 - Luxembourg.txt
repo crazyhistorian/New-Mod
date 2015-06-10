@@ -1,0 +1,22 @@
+owner= AUS
+controller= AUS
+add_core= AUS
+trade_goods = iron
+life_rating = 35
+fort = 1
+
+1805.1.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}
+
+1821.4.1 = {
+
+owner= LUX
+controller= LUX
+add_core= LUX
+
+}

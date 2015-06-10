@@ -1,0 +1,1660 @@
+#Sphere of Influence
+
+	AAC=
+	{
+		value=0
+		level=2
+	}
+	ABE=
+	{
+		value=0
+		level=2
+	}
+	ABU=
+	{
+		value=0
+		level=2
+	}
+	AFA=
+	{
+		value=0
+		level=2
+	}
+	AFG=
+	{
+		value=0
+		level=2
+	}
+	ALB=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=0
+		level=2
+	}
+	ALH=
+	{
+		value=0
+		level=2
+	}
+	ALS=
+	{
+		value=0
+		level=2
+	}
+	ANH=
+	{
+		value=0
+		level=2
+	}
+	ANS=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=0
+		level=2
+	}
+	ASH=
+	{
+		value=0
+		level=2
+	}
+	ASI=
+	{
+		value=0
+		level=2
+	}
+	ASS=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	AUG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AWA=
+	{
+		value=0
+		level=2
+	}
+	AYR=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAL=
+	{
+		value=0
+		level=2
+	}
+	BAN=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BCS=
+	{
+		value=0
+		level=2
+	}
+	BEN=
+	{
+		value=0
+		level=2
+	}
+	BER=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BNJ=
+	{
+		value=0
+		level=2
+	}
+	BRA=
+	{
+		value=0
+		level=2
+	}
+	BRD=
+	{
+		value=0
+		level=2
+	}
+	BRE=
+	{
+		value=0
+		level=2
+	}
+	BRG=
+	{
+		value=0
+		level=2
+	}
+	BRI=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BUN=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAD=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHE=
+	{
+		value=0
+		level=2
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=2
+	}
+	CHN=
+	{
+		value=0
+		level=2
+	}
+	CHO=
+	{
+		value=0
+		level=2
+	}
+	CHY=
+	{
+		value=0
+		level=2
+	}
+	CIR=
+	{
+		value=0
+		level=2
+	}
+	CNK=
+	{
+		value=0
+		level=2
+	}
+	CNN=
+	{
+		value=0
+		level=2
+	}
+	COM=
+	{
+		value=0
+		level=2
+	}
+	CRB=
+	{
+		value=0
+		level=2
+	}
+	CRI=
+	{
+		value=0
+		level=2
+	}
+	CRK=
+	{
+		value=0
+		level=2
+	}
+	DAH=
+	{
+		value=0
+		level=2
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DEC=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DGB=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	FEO=
+	{
+		value=0
+		level=2
+	}
+	FOX=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	FUL=
+	{
+		value=0
+		level=2
+	}
+	FZA=
+	{
+		value=0
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	GHD=
+	{
+		value=0
+		level=2
+	}
+	GHR=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=0
+		level=2
+	}
+	GWA=
+	{
+		value=0
+		level=2
+	}
+	HAN=
+	{
+		value=0
+		level=2
+	}
+	HAT=
+	{
+		value=0
+		level=2
+	}
+	HAU=
+	{
+		value=0
+		level=2
+	}
+	HDJ=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=0
+		level=2
+	}
+	HOL=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	HUN=
+	{
+		value=0
+		level=2
+	}
+	HUR=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	ILL=
+	{
+		value=0
+		level=2
+	}
+	IME=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=0
+		level=2
+	}
+	JAN=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	JAS=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	JOD=
+	{
+		value=0
+		level=2
+	}
+	JOH=
+	{
+		value=0
+		level=2
+	}
+	JOL=
+	{
+		value=0
+		level=2
+	}
+	KAC=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAN=
+	{
+		value=0
+		level=2
+	}
+	KAT=
+	{
+		value=0
+		level=2
+	}
+	KBA=
+	{
+		value=0
+		level=2
+	}
+	KBO=
+	{
+		value=0
+		level=2
+	}
+	KBU=
+	{
+		value=0
+		level=2
+	}
+	KED=
+	{
+		value=0
+		level=2
+	}
+	KGR=
+	{
+		value=0
+		level=2
+	}
+	KHI=
+	{
+		value=0
+		level=2
+	}
+	KHO=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KLN=
+	{
+		value=0
+		level=2
+	}
+	KMT=
+	{
+		value=0
+		level=2
+	}
+	KNG=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KOK=
+	{
+		value=0
+		level=2
+	}
+	KOL=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KRK=
+	{
+		value=0
+		level=2
+	}
+	KTI=
+	{
+		value=0
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LEI=
+	{
+		value=0
+		level=2
+	}
+	LEN=
+	{
+		value=0
+		level=2
+	}
+	LIE=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LNO=
+	{
+		value=0
+		level=2
+	}
+	LOA=
+	{
+		value=0
+		level=2
+	}
+	LOM=
+	{
+		value=0
+		level=2
+	}
+	LOR=
+	{
+		value=0
+		level=2
+	}
+	LUA=
+	{
+		value=0
+		level=2
+	}
+	LUB=
+	{
+		value=0
+		level=2
+	}
+	LUN=
+	{
+		value=0
+		level=2
+	}
+	LUW=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MAG=
+	{
+		value=0
+		level=2
+	}
+	MAI=
+	{
+		value=0
+		level=2
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MAR=
+	{
+		value=0
+		level=2
+	}
+	MBA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MJE=
+	{
+		value=0
+		level=2
+	}
+	MKS=
+	{
+		value=0
+		level=2
+	}
+	MMI=
+	{
+		value=0
+		level=2
+	}
+	MOD=
+	{
+		value=0
+		level=2
+	}
+	MOL=
+	{
+		value=0
+		level=2
+	}
+	MON=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	MSI=
+	{
+		value=0
+		level=2
+	}
+	MTA=
+	{
+		value=0
+		level=2
+	}
+	MTR=
+	{
+		value=0
+		level=2
+	}
+	MUG=
+	{
+		value=0
+		level=2
+	}
+	MUN=
+	{
+		value=0
+		level=2
+	}
+	MWT=
+	{
+		value=0
+		level=2
+	}
+	MYS=
+	{
+		value=0
+		level=2
+	}
+	MZB=
+	{
+		value=0
+		level=2
+	}
+	NAG=
+	{
+		value=0
+		level=2
+	}
+	NAH=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NDO=
+	{
+		value=0
+		level=2
+	}
+	NEJ=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	OJI=
+	{
+		value=0
+		level=2
+	}
+	OLD=
+	{
+		value=0
+		level=2
+	}
+	OMA=
+	{
+		value=0
+		level=2
+	}
+	OSA=
+	{
+		value=0
+		level=2
+	}
+	OTT=
+	{
+		value=0
+		level=2
+	}
+	OYO=
+	{
+		value=0
+		level=2
+	}
+	PAL=
+	{
+		value=0
+		level=2
+	}
+	PAN=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PAR=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PAW=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	PIM=
+	{
+		value=0
+		level=2
+	}
+	PLB=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	POT=
+	{
+		value=0
+		level=2
+	}
+	PRK=
+	{
+		value=0
+		level=2
+	}
+	PRO=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PUE=
+	{
+		value=0
+		level=2
+	}
+	RAG=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RMP=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SAL=
+	{
+		value=0
+		level=2
+	}
+	SAR=
+	{
+		value=0
+		level=2
+	}
+	SAV=
+	{
+		value=0
+		level=2
+	}
+	SAX=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SER=
+	{
+		value=0
+		level=2
+	}
+	SGU=
+	{
+		value=0
+		level=2
+	}
+	SHA=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SII=
+	{
+		value=0
+		level=2
+	}
+	SIL=
+	{
+		value=0
+		level=2
+	}
+	SIN=
+	{
+		value=0
+		level=2
+	}
+	SIO=
+	{
+		value=0
+		level=2
+	}
+	SLZ=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TER=
+	{
+		value=0
+		level=2
+	}
+	TGT=
+	{
+		value=0
+		level=2
+	}
+	THU=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TMB=
+	{
+		value=0
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TOK=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=0
+		level=2
+	}
+	TRI=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	TUS=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	ULM=
+	{
+		value=0
+		level=2
+	}
+	URB=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	UTS=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	WAL=
+	{
+		value=0
+		level=2
+	}
+	WAR=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=0
+		level=2
+	}
+	WCR=
+	{
+		value=0
+		level=2
+	}
+	WIA=
+	{
+		value=0
+		level=2
+	}
+	WIC=
+	{
+		value=0
+		level=2
+	}
+	WUR=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YAT=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	ZIM=
+	{
+		value=0
+		level=2
+	}
+	ZZZ=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=223
+	regiment = {
+		name="1st Raleigh Cavalry"
+		type=cavalry
+		home=208
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=213
+	regiment = {
+		name="1st Roanoke Artillery"
+		type=artillery
+		home=216
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=220
+	regiment = {
+		name="1st Bowling Green Infantry"
+		type=infantry
+		home=186
+	}
+}
+
+army = {
+	name="4th Army"
+	location=212
+	regiment = {
+		name="1st Dover Infantry"
+		type=infantry
+		home=222
+	}
+}
+
+army = {
+	name="5th Army"
+	location=222
+	regiment = {
+		name="1st Harrisburg Infantry"
+		type=infantry
+		home=226
+	}
+}
+
+army = {
+	name="6th Army"
+	location=233
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+}
+
+army = {
+	name="7th Army"
+	location=247
+	regiment = {
+		name="1st Wilmington Cavalry"
+		type=cavalry
+		home=210
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=247
+	ship = {
+		name="1st American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="16th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="17th American Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="14th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="15th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="16th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="17th American Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="18th American Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=247
+	ship = {
+		name="1st American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="15th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="16th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="17th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="18th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="19th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="20th American Frigate"
+		type=frigate
+	}
+	ship = {
+		name="21st American Frigate"
+		type=frigate
+	}
+}
+

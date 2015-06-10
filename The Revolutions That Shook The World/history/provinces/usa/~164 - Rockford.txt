@@ -1,0 +1,5 @@
+owner= MMI
+controller= MMI
+add_core= MMI
+trade_goods = coal
+life_rating = 35

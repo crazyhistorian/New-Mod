@@ -1,0 +1,23 @@
+owner= X12
+controller= X12
+add_core= X12
+add_core= HND
+trade_goods = fruit
+life_rating = 32
+naval_base = 1
+
+1789.7.14 = {
+
+owner= X13
+controller= X13
+add_core= X13
+
+}
+
+1805.1.1 = {
+
+owner= X11
+controller= X11
+add_core= X11
+
+}

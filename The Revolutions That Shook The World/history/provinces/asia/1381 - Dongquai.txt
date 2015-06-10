@@ -1,0 +1,13 @@
+owner= DAI
+controller= DAI
+add_core= DAI
+add_core= ANN
+trade_goods = cotton
+life_rating = 30
+
+1805.1.1 = {
+
+owner= ANN
+controller= ANN
+
+}

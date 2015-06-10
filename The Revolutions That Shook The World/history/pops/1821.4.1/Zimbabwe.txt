@@ -1,0 +1,357 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size=400
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size=1318
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size=170
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = animist
+		size=19
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = animist
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size=167
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size=14909
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size=1860
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size=240
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = animist
+		size=26
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = animist
+		size=24
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size=235
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size=20582
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=456
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=1560
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=240
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=22
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = animist
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=218
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=21485
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=212
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=698
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=10
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = animist
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=88
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=7893
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size=398
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size=1314
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size=170
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = animist
+		size=19
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = animist
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size=166
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size=14866
+	}
+
+}
+2072 = {
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size=282
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size=930
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = animist
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size=118
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size=10525
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = shona
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = animist
+		size=1395
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = animist
+		size=180
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = animist
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = animist
+		size=176
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = animist
+		size=15178
+	}
+
+}

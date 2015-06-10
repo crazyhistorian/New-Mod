@@ -1,0 +1,14 @@
+owner= CRK
+controller= CRK
+add_core= CRK
+add_core= ENG
+trade_goods = cotton
+life_rating = 35
+
+1821.4.1 = {
+
+owner= USA
+controller= USA
+add_core= USA
+
+}

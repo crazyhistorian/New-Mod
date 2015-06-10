@@ -1,0 +1,1633 @@
+#Sphere of Influence
+
+	AAC=
+	{
+		value=0
+		level=2
+	}
+	ABU=
+	{
+		value=0
+		level=2
+	}
+	AFA=
+	{
+		value=0
+		level=2
+	}
+	ALB=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=0
+		level=2
+	}
+	ALS=
+	{
+		value=0
+		level=2
+	}
+	ANH=
+	{
+		value=0
+		level=2
+	}
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	ANS=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=0
+		level=2
+	}
+	ASH=
+	{
+		value=0
+		level=2
+	}
+	ASS=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	AUG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AWA=
+	{
+		value=0
+		level=2
+	}
+	AYR=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAL=
+	{
+		value=0
+		level=2
+	}
+	BAN=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BEN=
+	{
+		value=0
+		level=2
+	}
+	BER=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BNJ=
+	{
+		value=0
+		level=2
+	}
+	BRA=
+	{
+		value=0
+		level=2
+	}
+	BRE=
+	{
+		value=0
+		level=2
+	}
+	BRG=
+	{
+		value=0
+		level=2
+	}
+	BRI=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BUN=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAD=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=2
+	}
+	CIR=
+	{
+		value=0
+		level=2
+	}
+	CNK=
+	{
+		value=0
+		level=2
+	}
+	COM=
+	{
+		value=0
+		level=2
+	}
+	COR=
+	{
+		value=0
+		level=2
+	}
+	CRB=
+	{
+		value=0
+		level=2
+	}
+	CRK=
+	{
+		value=0
+		level=2
+	}
+	DAH=
+	{
+		value=0
+		level=2
+	}
+	DEC=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DGB=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	ETR=
+	{
+		value=0
+		level=5
+	}
+	FEO=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	FUL=
+	{
+		value=0
+		level=2
+	}
+	FZA=
+	{
+		value=0
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	GHD=
+	{
+		value=0
+		level=2
+	}
+	GHR=
+	{
+		value=0
+		level=2
+	}
+	GLE=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=0
+		level=2
+	}
+	GWA=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HAN=
+	{
+		value=0
+		level=2
+	}
+	HAR=
+	{
+		value=0
+		level=2
+	}
+	HAT=
+	{
+		value=0
+		level=2
+	}
+	HDA=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=0
+		level=2
+	}
+	HOL=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	HUN=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	IME=
+	{
+		value=0
+		level=2
+	}
+	ION=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=5
+	}
+	JAN=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	JAS=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	JOD=
+	{
+		value=0
+		level=2
+	}
+	JOH=
+	{
+		value=0
+		level=2
+	}
+	JOL=
+	{
+		value=0
+		level=2
+	}
+	KAC=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAN=
+	{
+		value=0
+		level=2
+	}
+	KAT=
+	{
+		value=0
+		level=2
+	}
+	KBA=
+	{
+		value=0
+		level=2
+	}
+	KBO=
+	{
+		value=0
+		level=2
+	}
+	KBU=
+	{
+		value=0
+		level=2
+	}
+	KED=
+	{
+		value=0
+		level=2
+	}
+	KGR=
+	{
+		value=0
+		level=2
+	}
+	KHI=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KMT=
+	{
+		value=0
+		level=2
+	}
+	KNG=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KOK=
+	{
+		value=0
+		level=2
+	}
+	KOL=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTI=
+	{
+		value=0
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LFA=
+	{
+		value=0
+		level=2
+	}
+	LIE=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LNO=
+	{
+		value=0
+		level=2
+	}
+	LOA=
+	{
+		value=0
+		level=2
+	}
+	LOM=
+	{
+		value=0
+		level=2
+	}
+	LOR=
+	{
+		value=0
+		level=2
+	}
+	LUA=
+	{
+		value=0
+		level=2
+	}
+	LUB=
+	{
+		value=0
+		level=2
+	}
+	LUN=
+	{
+		value=0
+		level=2
+	}
+	LUW=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MAG=
+	{
+		value=0
+		level=2
+	}
+	MAI=
+	{
+		value=0
+		level=5
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MAR=
+	{
+		value=0
+		level=2
+	}
+	MBA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MJE=
+	{
+		value=0
+		level=2
+	}
+	MKS=
+	{
+		value=0
+		level=2
+	}
+	MLB=
+	{
+		value=0
+		level=2
+	}
+	MOD=
+	{
+		value=0
+		level=2
+	}
+	MOL=
+	{
+		value=0
+		level=2
+	}
+	MON=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	MSI=
+	{
+		value=0
+		level=2
+	}
+	MTA=
+	{
+		value=0
+		level=2
+	}
+	MTR=
+	{
+		value=0
+		level=2
+	}
+	MUG=
+	{
+		value=0
+		level=2
+	}
+	MUN=
+	{
+		value=0
+		level=2
+	}
+	MWT=
+	{
+		value=0
+		level=2
+	}
+	MYS=
+	{
+		value=0
+		level=2
+	}
+	MZB=
+	{
+		value=0
+		level=2
+	}
+	NAG=
+	{
+		value=0
+		level=2
+	}
+	NAH=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NDO=
+	{
+		value=0
+		level=2
+	}
+	NEJ=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=5
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NUB=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	OLD=
+	{
+		value=0
+		level=2
+	}
+	OMA=
+	{
+		value=0
+		level=2
+	}
+	OYO=
+	{
+		value=0
+		level=2
+	}
+	PAL=
+	{
+		value=0
+		level=2
+	}
+	PAN=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PAR=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PAW=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	PIM=
+	{
+		value=0
+		level=2
+	}
+	PLB=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	PRK=
+	{
+		value=0
+		level=2
+	}
+	PRO=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTA=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PUE=
+	{
+		value=0
+		level=2
+	}
+	RAG=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SAL=
+	{
+		value=0
+		level=2
+	}
+	SAR=
+	{
+		value=0
+		level=2
+	}
+	SAV=
+	{
+		value=0
+		level=2
+	}
+	SAX=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SER=
+	{
+		value=0
+		level=2
+	}
+	SGU=
+	{
+		value=0
+		level=2
+	}
+	SHA=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SII=
+	{
+		value=0
+		level=2
+	}
+	SIL=
+	{
+		value=0
+		level=2
+	}
+	SIN=
+	{
+		value=0
+		level=2
+	}
+	SLZ=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SOK=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TER=
+	{
+		value=0
+		level=2
+	}
+	TGT=
+	{
+		value=0
+		level=2
+	}
+	THU=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TMB=
+	{
+		value=0
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=0
+		level=2
+	}
+	TRI=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	TUS=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	ULM=
+	{
+		value=0
+		level=2
+	}
+	URB=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	VND=
+	{
+		value=0
+		level=2
+	}
+	WAL=
+	{
+		value=0
+		level=2
+	}
+	WAR=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=0
+		level=2
+	}
+	WIA=
+	{
+		value=0
+		level=2
+	}
+	WIC=
+	{
+		value=0
+		level=2
+	}
+	WUR=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YAT=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	ZIM=
+	{
+		value=0
+		level=2
+	}
+	ZZZ=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Armée Royale"
+	location=425
+	regiment = {
+		name="1st Namur Cavalry"
+		type=cavalry
+		home=392
+	}
+}
+
+army = {
+	name="Armée des Flandres"
+	location=539
+	regiment = {
+		name="1st Chateauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+}
+
+army = {
+	name="Armée du Nord"
+	location=531
+	regiment = {
+		name="1st Luxembourg Infantry"
+		type=infantry
+		home=397
+	}
+	regiment = {
+		name="1st Besancon Infantry"
+		type=infantry
+		home=432
+	}
+	regiment = {
+		name="1st Nice Artillery"
+		type=artillery
+		home=472
+	}
+	regiment = {
+		name="1st Dijon Infantry"
+		type=infantry
+		home=428
+	}
+	regiment = {
+		name="2nd Nice Artillery"
+		type=artillery
+		home=472
+	}
+}
+
+army = {
+	name="Armée de l'Est"
+	location=468
+	regiment = {
+		name="1st Strasbourg Infantry"
+		type=infantry
+		home=409
+	}
+	regiment = {
+		name="1st Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Kaiserlautern Infantry"
+		type=infantry
+		home=571
+	}
+	regiment = {
+		name="1st Marseilles Cavalry"
+		type=cavalry
+		home=467
+	}
+	regiment = {
+		name="1st Aosta Artillery"
+		type=artillery
+		home=721
+	}
+}
+
+army = {
+	name="Armée du Jura"
+	location=442
+	regiment = {
+		name="1st Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st Grenoble Cavalry"
+		type=cavalry
+		home=454
+	}
+	regiment = {
+		name="1st Annecy Cavalry"
+		type=cavalry
+		home=465
+	}
+}
+
+army = {
+	name="Armée du Lyonnais"
+	location=428
+	regiment = {
+		name="1st Orleans Infantry"
+		type=infantry
+		home=438
+	}
+	regiment = {
+		name="1st Blois Infantry"
+		type=infantry
+		home=440
+	}
+	regiment = {
+		name="2nd Chateauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Bordeaux Cavalry"
+		type=cavalry
+		home=458
+	}
+}
+
+army = {
+	name="Armée des Alpes"
+	location=406
+	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Lille Infantry"
+		type=infantry
+		home=399
+	}
+	regiment = {
+		name="1st Vannes Infantry"
+		type=infantry
+		home=422
+	}
+	regiment = {
+		name="1st Le Mans Cavalry"
+		type=cavalry
+		home=436
+	}
+}
+
+army = {
+	name="Armée du Midi"
+	location=421
+	regiment = {
+		name="1st Besancon Cavalry"
+		type=cavalry
+		home=432
+	}
+	regiment = {
+		name="1st Bruges Infantry"
+		type=infantry
+		home=388
+	}
+}
+
+army = {
+	name="Armée des Pyrenées"
+	location=388
+	regiment = {
+		name="1st Trier Cavalry"
+		type=cavalry
+		home=572
+	}
+	regiment = {
+		name="1st Rennes Cavalry"
+		type=cavalry
+		home=424
+	}
+	regiment = {
+		name="1st Kreuznach Cavalry"
+		type=cavalry
+		home=574
+	}
+	regiment = {
+		name="1st Colmar Cavalry"
+		type=cavalry
+		home=410
+	}
+}
+
+navy = {
+	name="Escadre Bleue"
+	location=402
+	ship = {
+		name="1st Beauvais Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Beauvais Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Melun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Beauvais Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Beauvais Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chartres Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Melun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chartres Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chartres Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Melun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Beauvais Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Melun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chartres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Melun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Melun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Melun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chartres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Beauvais Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Melun Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Escadre Rouge"
+	location=402
+	ship = {
+		name="1st Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chartres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Melun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chartres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chartres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Melun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chartres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chartres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Beauvais Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Melun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Melun Frigate"
+		type=frigate
+	}
+}
+

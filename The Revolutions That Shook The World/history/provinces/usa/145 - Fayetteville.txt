@@ -1,0 +1,13 @@
+owner= OSA
+controller= OSA
+add_core= OSA
+trade_goods = timber
+life_rating = 35
+
+1821.4.1 = {
+
+owner= USA
+controller= USA
+add_core= USA
+
+}

@@ -1,0 +1,14 @@
+owner= MYS
+controller= MYS
+add_core= VND
+trade_goods = grain
+life_rating = 32
+
+1792.9.21 = {
+
+owner= VND
+controller= VND
+add_core= HND
+naval_base = 1
+
+}

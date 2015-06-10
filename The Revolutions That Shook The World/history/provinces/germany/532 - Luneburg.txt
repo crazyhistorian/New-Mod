@@ -1,0 +1,16 @@
+owner= BRA
+controller= BRA
+add_core= LUN
+add_core= BRA
+add_core= NGF
+add_core= GER
+trade_goods = cattle
+life_rating = 40
+
+1821.4.1 = {
+
+owner= HAN
+controller= HAN
+add_core= HAN
+
+}

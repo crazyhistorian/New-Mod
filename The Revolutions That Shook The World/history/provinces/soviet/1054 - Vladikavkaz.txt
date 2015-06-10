@@ -1,0 +1,14 @@
+owner= GAZ
+controller= GAZ
+add_core= CIR
+add_core= GAZ
+trade_goods = wool
+life_rating = 35
+
+1805.1.1 = {
+
+owner= RUS
+controller= RUS
+add_core= RUS
+
+}

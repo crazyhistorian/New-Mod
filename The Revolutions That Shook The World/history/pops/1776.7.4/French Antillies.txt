@@ -1,0 +1,200 @@
+2228 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=875
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=45
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=10
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=9
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=24149
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1246
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2055
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=265
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=48
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=260
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=1014
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=53
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=87
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=11
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=11
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=27985
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1456
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2401
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=310
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=56
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=304
+	}
+
+}

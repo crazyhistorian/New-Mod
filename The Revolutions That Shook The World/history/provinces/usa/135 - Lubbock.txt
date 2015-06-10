@@ -1,0 +1,5 @@
+owner= COM
+controller= COM
+add_core= COM
+trade_goods = sulphur
+life_rating = 35

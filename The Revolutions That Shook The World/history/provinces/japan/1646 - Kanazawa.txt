@@ -1,0 +1,6 @@
+owner= MAE
+controller= MAE
+add_core= MAE
+trade_goods = fish
+life_rating = 35
+naval_base = 1

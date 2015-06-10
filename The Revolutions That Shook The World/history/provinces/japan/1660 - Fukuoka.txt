@@ -1,0 +1,8 @@
+owner= JAP
+controller= JAP
+add_core= OUC
+add_core= OTM
+add_core= JAP
+trade_goods = tea
+life_rating = 35
+naval_base = 1

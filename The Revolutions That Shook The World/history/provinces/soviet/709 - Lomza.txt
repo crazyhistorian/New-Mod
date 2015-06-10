@@ -1,0 +1,21 @@
+owner= PLC
+controller= PLC
+add_core= PLC
+add_core= POL
+trade_goods = grain
+life_rating = 35
+
+1805.1.1 = {
+
+owner= PRU
+controller= PRU
+
+}
+
+1821.4.1 = {
+
+owner= RUS
+controller= RUS
+add_core= RUS
+
+}

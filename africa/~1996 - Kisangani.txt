@@ -1,6 +1,0 @@
-colonial = yes
-owner = BEL
-controller = BEL
-add_core = BEL
-trade_goods = tropical_wood
-life_rating = 15

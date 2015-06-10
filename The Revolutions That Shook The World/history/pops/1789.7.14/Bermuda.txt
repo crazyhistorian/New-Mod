@@ -1,0 +1,58 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=1250
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=53
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=175
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=23
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=5
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=22
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=730
+	}
+
+}

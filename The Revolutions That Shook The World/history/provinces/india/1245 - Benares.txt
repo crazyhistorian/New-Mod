@@ -1,0 +1,15 @@
+owner= AWA
+controller= AWA
+add_core= JNP
+add_core= AWA
+trade_goods = fruit
+life_rating = 32
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

@@ -1,0 +1,14 @@
+owner= MAR
+controller= MAR
+add_core= MAR
+add_core= DEC
+add_core= HND
+trade_goods = tea
+life_rating = 32
+
+1821.4.1 = {
+
+owner= DEC
+controller= DEC
+
+}

@@ -1,0 +1,9 @@
+owner= KRK
+controller= KRK
+add_core= MDR
+add_core= BIJ
+add_core= KRK
+add_core= VIJ
+trade_goods = grain
+life_rating = 32
+fort = 1

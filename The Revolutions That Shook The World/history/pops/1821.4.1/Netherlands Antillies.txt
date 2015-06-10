@@ -1,0 +1,237 @@
+2234 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=97
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=8
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=2902
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=70
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=232
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=29
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=19
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=580
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=14
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=45
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=18
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=1137
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=22
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=74
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=11
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=43
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=3
+	}
+
+}

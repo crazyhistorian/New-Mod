@@ -1,0 +1,22 @@
+owner= TUS
+controller= TUS
+add_core= TUS
+add_core= ITA
+trade_goods = fruit
+life_rating = 35
+
+1805.1.1 = {
+
+owner= ETR
+controller= ETR
+add_core= FRA
+add_core= ETR
+
+}
+
+1821.4.1 = {
+
+owner= TUS
+controller= TUS
+
+}

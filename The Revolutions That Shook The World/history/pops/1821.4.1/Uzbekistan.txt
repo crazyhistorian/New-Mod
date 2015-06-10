@@ -1,0 +1,581 @@
+1191 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=4000
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=950
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=3250
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=500
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=45
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=40
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=455
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=40760
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=3098
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size=533
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size=1756
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size=227
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=25
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = sunni
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=222
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size=18328
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=533
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size=1756
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size=227
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=25
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=222
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=18328
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=3284
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=424
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=47
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=415
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=37130
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=332
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size=1095
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size=141
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size=138
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size=12389
+	}
+
+}
+1202 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=1761
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=5809
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=750
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=82
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=735
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size=65738
+	}
+
+}
+1198 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=3643
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=10621
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=1515
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=171
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=155
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=1519
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=135949
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size=1457
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size=4248
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size=606
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=68
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = sunni
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=608
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size=54380
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1950
+	}
+
+}
+1199 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=2284
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=7531
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=972
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=107
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=97
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=952
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=85236
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size=913
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size=3013
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size=389
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=43
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = sunni
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size=381
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size=34093
+	}
+
+}
+1200 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=3295
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size=5433
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size=701
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=77
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=70
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size=687
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size=59837
+	}
+
+}

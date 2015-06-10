@@ -1,0 +1,13 @@
+owner= CHN
+controller= CHN
+add_core= CHN
+trade_goods = grain
+life_rating = 35
+
+1789.7.14 = {
+
+owner= USA
+controller= USA
+add_core= USA
+
+}

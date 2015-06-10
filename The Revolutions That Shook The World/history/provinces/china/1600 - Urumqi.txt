@@ -1,0 +1,8 @@
+owner= CHI
+controller= CHI
+add_core= YRK
+add_core= ZUN
+add_core= CHI
+add_core= OIR
+trade_goods = cotton
+life_rating = 32

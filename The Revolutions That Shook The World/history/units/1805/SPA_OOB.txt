@@ -1,0 +1,2740 @@
+#Sphere of Influence
+
+	AAC=
+	{
+		value=0
+		level=2
+	}
+	ABE=
+	{
+		value=0
+		level=2
+	}
+	ABU=
+	{
+		value=0
+		level=2
+	}
+	AFA=
+	{
+		value=0
+		level=2
+	}
+	AFG=
+	{
+		value=0
+		level=2
+	}
+	ALB=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=0
+		level=2
+	}
+	ALS=
+	{
+		value=0
+		level=2
+	}
+	ANH=
+	{
+		value=0
+		level=2
+	}
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	ANS=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=0
+		level=2
+	}
+	ASH=
+	{
+		value=0
+		level=2
+	}
+	ASI=
+	{
+		value=0
+		level=2
+	}
+	ASS=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	AUG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AWA=
+	{
+		value=0
+		level=2
+	}
+	AYR=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAL=
+	{
+		value=0
+		level=2
+	}
+	BAN=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BCS=
+	{
+		value=0
+		level=2
+	}
+	BEN=
+	{
+		value=0
+		level=2
+	}
+	BER=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BNJ=
+	{
+		value=0
+		level=2
+	}
+	BRA=
+	{
+		value=0
+		level=2
+	}
+	BRE=
+	{
+		value=0
+		level=2
+	}
+	BRG=
+	{
+		value=0
+		level=2
+	}
+	BRI=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BUN=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAD=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAS=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=2
+	}
+	CHY=
+	{
+		value=0
+		level=2
+	}
+	CIR=
+	{
+		value=0
+		level=2
+	}
+	CNK=
+	{
+		value=0
+		level=2
+	}
+	COM=
+	{
+		value=0
+		level=2
+	}
+	CRB=
+	{
+		value=0
+		level=2
+	}
+	CRK=
+	{
+		value=0
+		level=2
+	}
+	DAH=
+	{
+		value=0
+		level=2
+	}
+	DEC=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DGB=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	ETR=
+	{
+		value=0
+		level=5
+	}
+	FEO=
+	{
+		value=0
+		level=2
+	}
+	FOX=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	FUL=
+	{
+		value=0
+		level=2
+	}
+	FZA=
+	{
+		value=0
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	GHD=
+	{
+		value=0
+		level=2
+	}
+	GHR=
+	{
+		value=0
+		level=2
+	}
+	GLE=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=0
+		level=2
+	}
+	GWA=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HAN=
+	{
+		value=0
+		level=2
+	}
+	HAR=
+	{
+		value=0
+		level=2
+	}
+	HAT=
+	{
+		value=0
+		level=2
+	}
+	HDA=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=0
+		level=2
+	}
+	HOL=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	HUN=
+	{
+		value=0
+		level=2
+	}
+	HUR=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	ILL=
+	{
+		value=0
+		level=2
+	}
+	IME=
+	{
+		value=0
+		level=2
+	}
+	ION=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	JAN=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	JAS=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	JOD=
+	{
+		value=0
+		level=2
+	}
+	JOH=
+	{
+		value=0
+		level=2
+	}
+	JOL=
+	{
+		value=0
+		level=2
+	}
+	KAC=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAN=
+	{
+		value=0
+		level=2
+	}
+	KAT=
+	{
+		value=0
+		level=2
+	}
+	KBA=
+	{
+		value=0
+		level=2
+	}
+	KBO=
+	{
+		value=0
+		level=2
+	}
+	KBU=
+	{
+		value=0
+		level=2
+	}
+	KED=
+	{
+		value=0
+		level=2
+	}
+	KGR=
+	{
+		value=0
+		level=2
+	}
+	KHI=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KMT=
+	{
+		value=0
+		level=2
+	}
+	KNG=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KOK=
+	{
+		value=0
+		level=2
+	}
+	KOL=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTI=
+	{
+		value=0
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KUR=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LFA=
+	{
+		value=0
+		level=2
+	}
+	LIE=
+	{
+		value=0
+		level=2
+	}
+	LIT=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LNO=
+	{
+		value=0
+		level=2
+	}
+	LOA=
+	{
+		value=0
+		level=2
+	}
+	LOM=
+	{
+		value=0
+		level=2
+	}
+	LOR=
+	{
+		value=0
+		level=2
+	}
+	LUA=
+	{
+		value=0
+		level=2
+	}
+	LUB=
+	{
+		value=0
+		level=2
+	}
+	LUN=
+	{
+		value=0
+		level=2
+	}
+	LUW=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MAG=
+	{
+		value=0
+		level=2
+	}
+	MAI=
+	{
+		value=0
+		level=2
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MAR=
+	{
+		value=0
+		level=2
+	}
+	MBA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MJE=
+	{
+		value=0
+		level=2
+	}
+	MKS=
+	{
+		value=0
+		level=2
+	}
+	MLB=
+	{
+		value=0
+		level=2
+	}
+	MMI=
+	{
+		value=0
+		level=2
+	}
+	MOD=
+	{
+		value=0
+		level=2
+	}
+	MOL=
+	{
+		value=0
+		level=2
+	}
+	MON=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	MSI=
+	{
+		value=0
+		level=2
+	}
+	MTA=
+	{
+		value=0
+		level=2
+	}
+	MTR=
+	{
+		value=0
+		level=2
+	}
+	MUG=
+	{
+		value=0
+		level=2
+	}
+	MUN=
+	{
+		value=0
+		level=2
+	}
+	MWT=
+	{
+		value=0
+		level=2
+	}
+	MYS=
+	{
+		value=0
+		level=2
+	}
+	MZB=
+	{
+		value=0
+		level=2
+	}
+	NAG=
+	{
+		value=0
+		level=2
+	}
+	NAH=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NDO=
+	{
+		value=0
+		level=2
+	}
+	NEJ=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NUB=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	OJI=
+	{
+		value=0
+		level=2
+	}
+	OLD=
+	{
+		value=0
+		level=2
+	}
+	OMA=
+	{
+		value=0
+		level=2
+	}
+	OSA=
+	{
+		value=0
+		level=2
+	}
+	OTT=
+	{
+		value=0
+		level=2
+	}
+	OYO=
+	{
+		value=0
+		level=2
+	}
+	PAL=
+	{
+		value=0
+		level=2
+	}
+	PAN=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PAR=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PAW=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	PIM=
+	{
+		value=0
+		level=2
+	}
+	PLB=
+	{
+		value=0
+		level=2
+	}
+	PLC=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=3
+	}
+	POT=
+	{
+		value=0
+		level=2
+	}
+	PRK=
+	{
+		value=0
+		level=2
+	}
+	PRO=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTA=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PUE=
+	{
+		value=0
+		level=2
+	}
+	RAG=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SAL=
+	{
+		value=0
+		level=2
+	}
+	SAR=
+	{
+		value=0
+		level=2
+	}
+	SAV=
+	{
+		value=0
+		level=2
+	}
+	SAX=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SER=
+	{
+		value=0
+		level=2
+	}
+	SGU=
+	{
+		value=0
+		level=2
+	}
+	SHA=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SII=
+	{
+		value=0
+		level=2
+	}
+	SIL=
+	{
+		value=0
+		level=2
+	}
+	SIN=
+	{
+		value=0
+		level=2
+	}
+	SIO=
+	{
+		value=0
+		level=2
+	}
+	SLZ=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SOK=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TER=
+	{
+		value=0
+		level=2
+	}
+	TGT=
+	{
+		value=0
+		level=2
+	}
+	THU=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TMB=
+	{
+		value=0
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=0
+		level=2
+	}
+	TRI=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	TUS=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	ULM=
+	{
+		value=0
+		level=2
+	}
+	URB=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	VND=
+	{
+		value=0
+		level=2
+	}
+	WAL=
+	{
+		value=0
+		level=2
+	}
+	WAR=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=0
+		level=2
+	}
+	WCR=
+	{
+		value=0
+		level=2
+	}
+	WIA=
+	{
+		value=0
+		level=2
+	}
+	WIC=
+	{
+		value=0
+		level=2
+	}
+	WUR=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YAT=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	ZIM=
+	{
+		value=0
+		level=2
+	}
+	ZZZ=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Ejército de Cádiz"
+	location=512
+	regiment = {
+		name="1st Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="2nd Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="3rd Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Salamanca Cavalry"
+		type=cavalry
+		home=482
+	}
+	regiment = {
+		name="1st Avila Cavalry"
+		type=cavalry
+		home=483
+	}
+	regiment = {
+		name="1st Burgos Artillery"
+		type=artillery
+		home=479
+	}
+	regiment = {
+		name="1st Toledo Cavalry"
+		type=cavalry
+		home=489
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=512
+	ship = {
+		name="1st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="16th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="14th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="15th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="16th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="17th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="18th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="19th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Cádiz"
+	location=512
+	ship = {
+		name="1st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="15th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="16th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="17th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="18th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="19th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="20th Spanish Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2172
+	regiment = {
+		name="1st Guatemala Cavalry"
+		type=cavalry
+		home=2186
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2185
+	regiment = {
+		name="1st Villahermosa Infantry"
+		type=infantry
+		home=2165
+	}
+	regiment = {
+		name="1st Managua Artillery"
+		type=artillery
+		home=2197
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2165
+	regiment = {
+		name="1st Merida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st San Pedro Sula Artillery"
+		type=artillery
+		home=2194
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2184
+	regiment = {
+		name="2nd Merida Infantry"
+		type=infantry
+		home=2183
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2163
+	regiment = {
+		name="1st Chilpancingo Infantry"
+		type=infantry
+		home=2180
+	}
+}
+
+army = {
+	name="6th Army"
+	location=132
+	regiment = {
+		name="1st Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2148
+	regiment = {
+		name="1st Los Albaniles Infantry"
+		type=infantry
+		home=2171
+	}
+}
+
+army = {
+	name="8th Army"
+	location=138
+	regiment = {
+		name="2nd Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2157
+	regiment = {
+		name="1st Veracruz Cavalry"
+		type=cavalry
+		home=2162
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2170
+	regiment = {
+		name="1st Oaxaca Cavalry"
+		type=cavalry
+		home=2177
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2163
+	ship = {
+		name="17th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="18th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="19th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="20th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="21st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="22nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="23rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="24th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="25th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="26th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="27th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="28th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="29th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="30th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="31st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="32nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="33rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="34th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="35th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="20th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="21st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="22nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="23rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="24th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="25th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="26th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="27th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="28th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="29th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="30th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="31st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="32nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="33rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="34th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="35th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="36th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="37th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="38th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="39th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="40th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2163
+	ship = {
+		name="21st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="22nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="23rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="24th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="25th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="26th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="27th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="28th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="29th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="30th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="31st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="32nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="33rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="34th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="35th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="36th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="37th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="38th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="39th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="40th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="41st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="42nd Spanish Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2209
+	regiment = {
+		name="1st Jagua Infantry"
+		type=infantry
+		home=2210
+	}
+	regiment = {
+		name="1st Camaguey Infantry"
+		type=infantry
+		home=2211
+	}
+	regiment = {
+		name="1st Jagua Cavalry"
+		type=cavalry
+		home=2210
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2209
+	ship = {
+		name="1st Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Havana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th Havana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="14th Havana Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2209
+	ship = {
+		name="1st Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Havana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Havana Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2280
+	regiment = {
+		name="1st El Jobal Infantry"
+		type=infantry
+		home=2277
+	}
+	regiment = {
+		name="1st Cali Artillery"
+		type=artillery
+		home=2256
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2291
+	regiment = {
+		name="1st Calabozo Infantry"
+		type=infantry
+		home=2266
+	}
+	regiment = {
+		name="1st Piura Cavalry"
+		type=cavalry
+		home=2291
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2267
+	regiment = {
+		name="1st Casanare Infantry"
+		type=infantry
+		home=2262
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2255
+	regiment = {
+		name="1st Esmereldas Cavalry"
+		type=cavalry
+		home=2281
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2280
+	ship = {
+		name="36th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="37th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="38th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="39th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="40th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="41st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="42nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="43rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="44th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="45th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="46th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="47th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="41st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="42nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="43rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="44th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="45th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="46th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="47th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="48th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="49th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="50th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="51st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="52nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="53rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="54th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2280
+	ship = {
+		name="43rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="44th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="45th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="46th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="47th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="48th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="49th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="50th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="51st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="52nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="53rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="54th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="55th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="56th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="67th Spanish Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2315
+	regiment = {
+		name="1st Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2314
+	regiment = {
+		name="1st Santa Ana Infantry"
+		type=infantry
+		home=2319
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2298
+	regiment = {
+		name="1st Huanuco Infantry"
+		type=infantry
+		home=2293
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2295
+	regiment = {
+		name="1st Oruro Cavalry"
+		type=cavalry
+		home=2312
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2295
+	ship = {
+		name="48th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="49th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="50th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="51st Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="52nd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="53rd Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="54th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="55th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="55th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="56th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="57th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="58th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="59th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="60th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="61st Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="62nd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="63rd Spanish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="64th Spanish Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2295
+	ship = {
+		name="57th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="58th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="59th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="60th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="61st Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="62nd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="63rd Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="64th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="65th Spanish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="66th Spanish Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2360
+	regiment = {
+		name="1st San Juan Infantry"
+		type=infantry
+		home=2387
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2345
+	regiment = {
+		name="1st Santa Rita Infantry"
+		type=infantry
+		home=2386
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2344
+	regiment = {
+		name="1st Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2345
+	regiment = {
+		name="1st Mercedes Cavalry"
+		type=cavalry
+		home=2384
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2348
+	ship = {
+		name="1st Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Buenos Aires Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Buenos Aires Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2348
+	ship = {
+		name="1st Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Buenos Aires Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Buenos Aires Frigate"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,17 @@
+owner= LUB
+controller= LUB
+add_core= LUB
+add_core= NGF
+add_core= GER
+trade_goods = fruit
+life_rating = 40
+naval_base = 1
+fort = 1
+
+1821.4.1 = {
+
+owner= HAM
+controller= HAM
+add_core= HAM
+
+}

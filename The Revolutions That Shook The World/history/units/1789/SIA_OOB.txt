@@ -1,0 +1,339 @@
+#Sphere of Influence
+
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=5
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=5
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KAM=
+	{
+		value=0
+		level=2
+	}
+	KED=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=5
+	}
+	LUA=
+	{
+		value=0
+		level=5
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	OIR=
+	{
+		value=0
+		level=2
+	}
+	OTM=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=5
+	}
+	PEG=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	PRK=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	UTS=
+	{
+		value=0
+		level=2
+	}
+	WIA=
+	{
+		value=0
+		level=5
+	}
+	YRK=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1347
+	regiment = {
+		name="1st Phuket Infantry"
+		type=infantry
+		home=1352
+	}
+	regiment = {
+		name="1st Sukhothai Infantry"
+		type=infantry
+		home=1349
+	}
+	regiment = {
+		name="1st Nakhon Si Thammarat Cavalry"
+		type=cavalry
+		home=1354
+	}
+	regiment = {
+		name="1st Nakhon Si Thammarat Artillery"
+		type=artillery
+		home=1354
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1346
+	ship = {
+		name="1st Bangkok Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bangkok Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bangkok Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bangkok Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1346
+	ship = {
+		name="1st Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bangkok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bangkok Frigate"
+		type=frigate
+	}
+}
+

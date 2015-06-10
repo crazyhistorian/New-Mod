@@ -1,0 +1,309 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=3
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = shamanism
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = shamanism
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = shamanism
+		size=4
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=267
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=9
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=35
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=9
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=13
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=799
+	}
+
+}
+2591 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=2
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = shamanism
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = shamanism
+		size=2
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=66
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=5
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=18
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=2
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=5
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=200
+	}
+
+}
+2632 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=2
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = shamanism
+		size=6
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = shamanism
+		size=2
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=66
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=5
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=18
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=2
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=5
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=200
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=1
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = shamanism
+		size=4
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = shamanism
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = shamanism
+		size=1
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = shamanism
+		size=44
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=4
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=12
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=3
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=132
+	}
+
+}

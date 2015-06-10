@@ -1,0 +1,5 @@
+owner= MYS
+controller= MYS
+add_core= VND
+trade_goods = grain
+life_rating = 32

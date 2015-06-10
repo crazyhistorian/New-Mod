@@ -1,0 +1,13 @@
+owner= NAG
+controller= NAG
+add_core= BGL
+add_core= HND
+trade_goods = tea
+life_rating = 32
+
+1821.4.1 = {
+
+owner= BGL
+controller= BGL
+
+}

@@ -1,0 +1,7 @@
+owner= CHI
+controller= CHI
+add_core= MNG
+add_core= CSH
+add_core= CHI
+trade_goods = coal
+life_rating = 32

@@ -1,0 +1,8 @@
+owner= POR
+controller= POR
+add_core= GRI
+add_core= X03
+add_core= POR
+trade_goods = timber
+life_rating = 35
+colonial=2

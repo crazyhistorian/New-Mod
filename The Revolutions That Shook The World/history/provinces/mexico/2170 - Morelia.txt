@@ -1,0 +1,17 @@
+owner= SPA
+controller= SPA
+add_core= X04
+add_core= SPA
+trade_goods = wool
+life_rating = 35
+colonial=2
+
+1821.4.1 = {
+
+owner= MEX
+controller= MEX
+add_core = MEX
+remove_core = SPA
+colonial = no
+
+}

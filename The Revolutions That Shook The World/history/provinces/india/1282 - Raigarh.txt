@@ -1,0 +1,13 @@
+owner= NAG
+controller= NAG
+add_core= NGP
+add_core= NAG
+trade_goods = grain
+life_rating = 32
+
+1821.4.1 = {
+
+owner= NGP
+controller= NGP
+
+}

@@ -1,0 +1,11 @@
+trade_goods = fish
+life_rating = 35
+
+1805.1.1 = {
+
+owner= SAL
+controller= SAL
+add_core= SAL
+naval_base = 1
+
+}

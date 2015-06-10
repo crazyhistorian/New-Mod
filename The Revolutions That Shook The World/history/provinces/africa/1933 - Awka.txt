@@ -1,0 +1,13 @@
+owner= BEN
+controller= BEN
+add_core= BEN
+trade_goods = coal
+life_rating = 15
+
+1821.4.1 = {
+
+owner= SOK
+controller= SOK
+add_core= SOK
+
+}

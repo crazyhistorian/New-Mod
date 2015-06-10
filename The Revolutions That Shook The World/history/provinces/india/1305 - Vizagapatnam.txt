@@ -1,0 +1,18 @@
+owner= NAG
+controller= NAG
+add_core= ORI
+add_core= DEC
+add_core= BAS
+add_core= NAG
+add_core= GRJ
+trade_goods = tobacco
+life_rating = 32
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

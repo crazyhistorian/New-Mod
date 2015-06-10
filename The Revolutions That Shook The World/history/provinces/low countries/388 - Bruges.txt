@@ -1,0 +1,24 @@
+owner= AUS
+controller= AUS
+add_core= FLA
+add_core= AUS
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+fort = 1
+
+1805.1.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}
+
+1821.4.1 = {
+
+owner= NET
+controller= NET
+add_core= NET
+
+}

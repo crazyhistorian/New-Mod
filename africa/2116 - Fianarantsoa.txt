@@ -1,6 +1,0 @@
-colonial = 2
-owner = FRA
-controller = FRA
-
-trade_goods = coal
-life_rating = 35

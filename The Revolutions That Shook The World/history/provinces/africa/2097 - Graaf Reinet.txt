@@ -1,0 +1,18 @@
+trade_goods = fruit
+life_rating = 35
+colonial=2
+
+1789.7.14 = {
+
+owner= NET
+controller= NET
+
+}
+
+1821.4.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+
+}

@@ -1,0 +1,20 @@
+owner= TOK
+controller= TOK
+add_core= TOK
+trade_goods = tropical_wood
+life_rating = 30
+
+1789.7.14 = {
+
+owner= DAI
+controller= DAI
+add_core= DAI
+
+}
+
+1805.1.1 = {
+
+owner= ANN
+controller= ANN
+
+}

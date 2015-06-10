@@ -1,0 +1,24 @@
+owner= PAL
+controller= PAL
+add_core= PAL
+add_core= SGF
+add_core= GER
+trade_goods = coal
+life_rating = 40
+railroad = 1
+
+1805.1.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}
+
+1821.4.1 = {
+
+owner= PRU
+controller= PRU
+add_core= PRU
+
+}

@@ -1,0 +1,15 @@
+owner= MYS
+controller= MYS
+add_core= MDR
+add_core= MYS
+trade_goods = tea
+life_rating = 32
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

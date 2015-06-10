@@ -1,0 +1,9 @@
+owner= CHI
+controller= CHI
+add_core= YAN
+add_core= CHI
+add_core= MNG
+add_core= JIN
+add_core= CSH
+trade_goods = iron
+life_rating = 32

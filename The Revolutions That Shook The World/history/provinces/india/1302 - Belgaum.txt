@@ -1,0 +1,19 @@
+owner= KLN
+controller= KLN
+add_core= KLN
+add_core= BIJ
+add_core= DEC
+add_core= HND
+trade_goods = fruit
+life_rating = 32
+naval_base = 1
+
+1789.7.14 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+add_core= MAR
+colonial=2
+
+}

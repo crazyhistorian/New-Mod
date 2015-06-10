@@ -1,0 +1,13 @@
+owner= IRO
+controller= IRO
+add_core= HUR
+add_core= IRO
+trade_goods = coal
+life_rating = 35
+
+1789.7.14 = {
+
+owner= USA
+controller= USA
+
+}

@@ -1,0 +1,200 @@
+2213 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=14839
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=349
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1150
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=148
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=24
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=145
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=63261
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1487
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=4903
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=633
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=101
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=63
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=620
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=9709
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=228
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=752
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=97
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=16
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=95
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=41391
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=973
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=3208
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=414
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=66
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=406
+	}
+
+}

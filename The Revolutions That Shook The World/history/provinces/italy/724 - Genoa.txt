@@ -1,0 +1,15 @@
+owner= GNA
+controller= GNA
+add_core= GNA
+add_core= ITA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+
+1821.4.1 = {
+
+owner= SAR
+controller= SAR
+add_core= SAR
+
+}

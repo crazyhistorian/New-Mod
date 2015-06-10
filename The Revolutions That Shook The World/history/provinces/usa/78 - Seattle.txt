@@ -1,0 +1,14 @@
+owner= CNK
+controller= CNK
+add_core= CNK
+trade_goods = timber
+life_rating = 35
+
+1805.1.1 = {
+
+owner= SAL
+controller= SAL
+add_core= SAL
+naval_base = 1
+
+}

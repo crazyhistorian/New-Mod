@@ -1,0 +1,21 @@
+owner= TOK
+controller= TOK
+add_core= DAI
+add_core= TOK
+add_core= ANN
+trade_goods = grain
+life_rating = 30
+
+1789.7.14 = {
+
+owner= DAI
+controller= DAI
+
+}
+
+1805.1.1 = {
+
+owner= ANN
+controller= ANN
+
+}

@@ -1,0 +1,14 @@
+owner= GNA
+controller= GNA
+add_core= GNA
+add_core= ITA
+trade_goods = fish
+life_rating = 35
+
+1821.4.1 = {
+
+owner= SAR
+controller= SAR
+add_core= SAR
+
+}

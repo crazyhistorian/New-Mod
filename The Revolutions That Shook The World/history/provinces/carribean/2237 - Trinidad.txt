@@ -1,0 +1,18 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X05
+add_core= SPA
+trade_goods = cotton
+life_rating = 35
+colonial=2
+naval_base = 1
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= X01
+add_core= ENG
+
+}

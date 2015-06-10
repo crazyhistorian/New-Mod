@@ -1,0 +1,10 @@
+trade_goods = grain
+life_rating = 30
+
+1792.9.21 = {
+
+owner= ENG
+controller= ENG
+colonial=2
+
+}

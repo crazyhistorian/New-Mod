@@ -1,0 +1,23 @@
+owner= SLZ
+controller= SLZ
+add_core= SLZ
+add_core= SGF
+add_core= GER
+trade_goods = grain
+life_rating = 35
+
+1805.1.1 = {
+
+owner= ETR
+controller= ETR
+add_core= ETR
+
+}
+
+1821.4.1 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+
+}

@@ -1,0 +1,82 @@
+####################
+# Napoleonic France Songs
+####################
+song = {
+	name = "LaVictoire.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = FRA
+		}
+		
+		modifier = {
+			factor = 0
+
+			NOT = { tag = FRA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "GardImperiale.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = FRA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = FRA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "MarcheFunebreNapoleon.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = FRA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = FRA }
+		}
+
+		
+	}
+}
+
+song = {
+	name = "Grognards.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = FRA
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = FRA }
+		}
+
+		
+	}
+}

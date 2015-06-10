@@ -1,0 +1,8 @@
+owner= CHI
+controller= CHI
+add_core= MNG
+add_core= LNG
+add_core= CSH
+add_core= CHI
+trade_goods = tea
+life_rating = 32

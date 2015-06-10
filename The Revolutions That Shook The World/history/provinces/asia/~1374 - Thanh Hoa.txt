@@ -1,0 +1,7 @@
+owner= TOK
+controller= TOK
+add_core= DAI
+add_core= TOK
+trade_goods = grain
+life_rating = 30
+naval_base = 1

@@ -1,0 +1,17 @@
+owner= SPA
+controller= SPA
+add_core= X08
+add_core= SPA
+trade_goods = grain
+life_rating = 35
+colonial=2
+
+1821.4.1 = {
+
+owner= CHL
+controller= CHL
+add_core = CHL
+remove_core = SPA
+colonial = no
+
+}

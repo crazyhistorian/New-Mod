@@ -1,0 +1,22 @@
+owner= PER
+controller= PER
+add_core= NEJ
+add_core= PER
+add_core= ARA
+trade_goods = grain
+life_rating = 35
+
+1789.7.14 = {
+
+owner= NEJ
+controller= NEJ
+
+}
+
+1805.1.1 = {
+
+owner= OMA
+controller= OMA
+add_core= OMA
+
+}

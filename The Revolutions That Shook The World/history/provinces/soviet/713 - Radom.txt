@@ -1,0 +1,22 @@
+owner= PLC
+controller= PLC
+add_core= PLC
+add_core= POL
+trade_goods = coal
+life_rating = 35
+
+1805.1.1 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+
+}
+
+1821.4.1 = {
+
+owner= RUS
+controller= RUS
+add_core= RUS
+
+}

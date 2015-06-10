@@ -1,0 +1,684 @@
+#Sphere of Influence
+
+	AFG=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=2
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KAM=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KOK=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=5
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LFA=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LUA=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	OIR=
+	{
+		value=0
+		level=2
+	}
+	OTM=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	PEG=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	UTS=
+	{
+		value=0
+		level=5
+	}
+	WIA=
+	{
+		value=0
+		level=2
+	}
+	YRK=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1616
+	regiment = {
+		name="1st Hengzhou Cavalry"
+		type=cavalry
+		home=1527
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2221
+	regiment = {
+		name="1st Ningguo Infantry"
+		type=infantry
+		home=1475
+	}
+	regiment = {
+		name="1st Jinhua Artillery"
+		type=artillery
+		home=1607
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1493
+	regiment = {
+		name="1st Changzhou Infantry"
+		type=infantry
+		home=1537
+	}
+	regiment = {
+		name="1st Jian Artillery"
+		type=artillery
+		home=1547
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1605
+	regiment = {
+		name="1st Runing Infantry"
+		type=infantry
+		home=1514
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1540
+	regiment = {
+		name="1st Longan Infantry"
+		type=infantry
+		home=1582
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1497
+	regiment = {
+		name="1st Chenzhou Infantry"
+		type=infantry
+		home=1512
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1608
+	regiment = {
+		name="1st Yizhou Infantry"
+		type=infantry
+		home=1571
+	}
+	regiment = {
+		name="1st Khorug Cavalry"
+		type=cavalry
+		home=1208
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1561
+	regiment = {
+		name="1st Daming Infantry"
+		type=infantry
+		home=1614
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1617
+	regiment = {
+		name="1st Datong Infantry"
+		type=infantry
+		home=1576
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1480
+	regiment = {
+		name="1st Dalandzadgad Infantry"
+		type=infantry
+		home=1466
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1494
+	regiment = {
+		name="1st Urumqi Infantry"
+		type=infantry
+		home=1600
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1609
+	regiment = {
+		name="1st Aksu Infantry"
+		type=infantry
+		home=1597
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1570
+	regiment = {
+		name="1st Canton Cavalry"
+		type=cavalry
+		home=1493
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1508
+	regiment = {
+		name="1st Pingle Cavalry"
+		type=cavalry
+		home=1504
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1616
+	ship = {
+		name="1st Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="14th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="15th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="16th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="17th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="18th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="19th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="20th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th Shuntian Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1613
+	ship = {
+		name="8th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Shuntian Frigate"
+		type=frigate
+	}
+}
+

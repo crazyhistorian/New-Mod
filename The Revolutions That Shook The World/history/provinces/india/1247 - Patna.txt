@@ -1,0 +1,7 @@
+owner= ENG
+controller= ENG
+add_core= TRT
+add_core= BNG
+add_core= ENG
+trade_goods = opium
+life_rating = 32

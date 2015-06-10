@@ -1,0 +1,12 @@
+trade_goods = fish
+life_rating = 15
+
+1821.4.1 = {
+
+owner= RUS
+controller= RUS
+add_core= X07
+add_core= RUS
+colonial=2
+
+}

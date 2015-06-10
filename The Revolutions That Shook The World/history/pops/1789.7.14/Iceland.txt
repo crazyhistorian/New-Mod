@@ -1,0 +1,51 @@
+252 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size=329
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size=1085
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size=140
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size=32
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = protestant
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size=274
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size=12126
+	}
+
+}

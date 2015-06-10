@@ -1,0 +1,15 @@
+owner= OLD
+controller= OLD
+add_core= OLD
+add_core= NGF
+add_core= GER
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+
+1821.4.1 = {
+
+owner= HOL
+controller= HOL
+
+}

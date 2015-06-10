@@ -1,0 +1,6 @@
+owner= IKE
+controller= IKE
+add_core= IKE
+trade_goods = tea
+life_rating = 35
+naval_base = 1

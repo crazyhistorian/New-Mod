@@ -1,0 +1,9 @@
+owner= FRA
+controller= FRA
+add_core= FRA
+add_core= GUY
+add_core= NAV
+trade_goods = fruit
+life_rating = 31
+naval_base = 1
+fort = 1

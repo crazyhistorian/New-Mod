@@ -1,0 +1,7 @@
+owner= USA
+controller= USA
+add_core= CRK
+add_core= ENG
+add_core= USA
+trade_goods = cotton
+life_rating = 35

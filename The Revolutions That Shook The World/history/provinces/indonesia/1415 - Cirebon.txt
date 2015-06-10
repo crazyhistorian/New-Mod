@@ -1,0 +1,6 @@
+owner= CRB
+controller= CRB
+add_core= CRB
+trade_goods = coffee
+life_rating = 30
+naval_base = 1

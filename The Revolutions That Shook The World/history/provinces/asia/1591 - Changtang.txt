@@ -1,0 +1,13 @@
+owner= UTS
+controller= UTS
+add_core= UTS
+trade_goods = cattle
+life_rating = 30
+
+1821.4.1 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

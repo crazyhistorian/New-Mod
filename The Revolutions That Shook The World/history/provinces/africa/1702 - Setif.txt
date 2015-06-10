@@ -1,0 +1,6 @@
+owner= KBA
+controller= KBA
+add_core= KBA
+trade_goods = wool
+life_rating = 35
+naval_base = 1

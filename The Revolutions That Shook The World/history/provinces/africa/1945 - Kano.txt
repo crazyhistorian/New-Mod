@@ -1,0 +1,14 @@
+owner= KTS
+controller= KTS
+add_core= KTS
+trade_goods = fruit
+life_rating = 35
+
+1821.4.1 = {
+
+owner= SOK
+controller= SOK
+add_core= SOK
+add_core= KAN
+
+}

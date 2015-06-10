@@ -1,0 +1,8 @@
+owner= CHI
+controller= CHI
+add_core= YRK
+add_core= KSD
+add_core= CHI
+add_core= KAM
+trade_goods = coal
+life_rating = 32

@@ -1,0 +1,13 @@
+owner= SGU
+controller= SGU
+add_core= SGU
+trade_goods = grain
+life_rating = 10
+
+1821.4.1 = {
+
+owner= TMB
+controller= TMB
+add_core= TMB
+
+}

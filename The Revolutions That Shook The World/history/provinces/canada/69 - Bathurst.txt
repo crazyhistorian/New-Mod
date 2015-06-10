@@ -1,0 +1,5 @@
+owner= ABE
+controller= ABE
+add_core= ABE
+trade_goods = cattle
+life_rating = 35

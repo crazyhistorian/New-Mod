@@ -1,0 +1,13 @@
+trade_goods = timber
+life_rating = 35
+colonial=2
+
+1821.4.1 = {
+
+owner= ENG
+controller= ENG
+add_core= X02
+add_core= ENG
+colonial=2
+
+}

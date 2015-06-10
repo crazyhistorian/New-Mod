@@ -1,0 +1,9 @@
+owner= CHI
+controller= CHI
+add_core= KHA
+add_core= KLK
+add_core= CHI
+add_core= OIR
+add_core= ZUN
+trade_goods = iron
+life_rating = 32

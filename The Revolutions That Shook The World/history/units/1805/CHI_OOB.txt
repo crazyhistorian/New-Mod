@@ -1,0 +1,1654 @@
+#Sphere of Influence
+
+	ABE=
+	{
+		value=0
+		level=2
+	}
+	ABU=
+	{
+		value=0
+		level=2
+	}
+	AFA=
+	{
+		value=0
+		level=2
+	}
+	AFG=
+	{
+		value=0
+		level=2
+	}
+	ALD=
+	{
+		value=0
+		level=2
+	}
+	ANH=
+	{
+		value=0
+		level=2
+	}
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=0
+		level=2
+	}
+	ASH=
+	{
+		value=0
+		level=2
+	}
+	ASI=
+	{
+		value=0
+		level=2
+	}
+	ASS=
+	{
+		value=0
+		level=2
+	}
+	ATJ=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AWA=
+	{
+		value=0
+		level=2
+	}
+	AYR=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAL=
+	{
+		value=0
+		level=2
+	}
+	BAN=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BCS=
+	{
+		value=0
+		level=2
+	}
+	BEN=
+	{
+		value=0
+		level=2
+	}
+	BER=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BNJ=
+	{
+		value=0
+		level=2
+	}
+	BRA=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUK=
+	{
+		value=0
+		level=2
+	}
+	BUN=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAD=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CHA=
+	{
+		value=0
+		level=2
+	}
+	CHI=
+	{
+		value=0
+		level=2
+	}
+	CHK=
+	{
+		value=0
+		level=2
+	}
+	CIR=
+	{
+		value=0
+		level=2
+	}
+	CNK=
+	{
+		value=0
+		level=2
+	}
+	COM=
+	{
+		value=0
+		level=2
+	}
+	CRB=
+	{
+		value=0
+		level=2
+	}
+	CRK=
+	{
+		value=0
+		level=2
+	}
+	DAH=
+	{
+		value=0
+		level=2
+	}
+	DAR=
+	{
+		value=0
+		level=2
+	}
+	DEC=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DGB=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	ETR=
+	{
+		value=0
+		level=2
+	}
+	FOX=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	FUL=
+	{
+		value=0
+		level=2
+	}
+	FZA=
+	{
+		value=0
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GHD=
+	{
+		value=0
+		level=2
+	}
+	GHR=
+	{
+		value=0
+		level=2
+	}
+	GLE=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=0
+		level=2
+	}
+	GWA=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	HAN=
+	{
+		value=0
+		level=2
+	}
+	HAR=
+	{
+		value=0
+		level=2
+	}
+	HDA=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=0
+		level=2
+	}
+	HOB=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=2
+	}
+	HUR=
+	{
+		value=0
+		level=2
+	}
+	IKE=
+	{
+		value=0
+		level=2
+	}
+	ILL=
+	{
+		value=0
+		level=2
+	}
+	IME=
+	{
+		value=0
+		level=2
+	}
+	ION=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	JAN=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	JAS=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	JOD=
+	{
+		value=0
+		level=2
+	}
+	JOH=
+	{
+		value=0
+		level=2
+	}
+	JOL=
+	{
+		value=0
+		level=2
+	}
+	KAC=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAM=
+	{
+		value=0
+		level=2
+	}
+	KAN=
+	{
+		value=0
+		level=2
+	}
+	KAT=
+	{
+		value=0
+		level=2
+	}
+	KBA=
+	{
+		value=0
+		level=2
+	}
+	KBO=
+	{
+		value=0
+		level=2
+	}
+	KBU=
+	{
+		value=0
+		level=2
+	}
+	KED=
+	{
+		value=0
+		level=2
+	}
+	KGR=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KHI=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KMT=
+	{
+		value=0
+		level=2
+	}
+	KNG=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KOK=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=5
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	KTI=
+	{
+		value=0
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LFA=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LNO=
+	{
+		value=0
+		level=2
+	}
+	LOA=
+	{
+		value=0
+		level=2
+	}
+	LUA=
+	{
+		value=0
+		level=2
+	}
+	LUB=
+	{
+		value=0
+		level=2
+	}
+	LUW=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=2
+	}
+	MAI=
+	{
+		value=0
+		level=2
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MAR=
+	{
+		value=0
+		level=2
+	}
+	MBA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MJE=
+	{
+		value=0
+		level=2
+	}
+	MKS=
+	{
+		value=0
+		level=2
+	}
+	MLB=
+	{
+		value=0
+		level=2
+	}
+	MMI=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MOD=
+	{
+		value=0
+		level=2
+	}
+	MOL=
+	{
+		value=0
+		level=2
+	}
+	MON=
+	{
+		value=0
+		level=2
+	}
+	MOR=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=2
+	}
+	MSI=
+	{
+		value=0
+		level=2
+	}
+	MTR=
+	{
+		value=0
+		level=2
+	}
+	MUG=
+	{
+		value=0
+		level=2
+	}
+	MWT=
+	{
+		value=0
+		level=2
+	}
+	MYS=
+	{
+		value=0
+		level=2
+	}
+	MZB=
+	{
+		value=0
+		level=2
+	}
+	NAG=
+	{
+		value=0
+		level=2
+	}
+	NAH=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NDO=
+	{
+		value=0
+		level=2
+	}
+	NEJ=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	NUB=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	OIR=
+	{
+		value=0
+		level=2
+	}
+	OJI=
+	{
+		value=0
+		level=2
+	}
+	OLD=
+	{
+		value=0
+		level=2
+	}
+	OMA=
+	{
+		value=0
+		level=2
+	}
+	OSA=
+	{
+		value=0
+		level=2
+	}
+	OTM=
+	{
+		value=0
+		level=2
+	}
+	OTT=
+	{
+		value=0
+		level=2
+	}
+	OUC=
+	{
+		value=0
+		level=2
+	}
+	OYO=
+	{
+		value=0
+		level=2
+	}
+	PAN=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PAT=
+	{
+		value=0
+		level=2
+	}
+	PAW=
+	{
+		value=0
+		level=2
+	}
+	PEG=
+	{
+		value=0
+		level=2
+	}
+	PER=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	PIM=
+	{
+		value=0
+		level=2
+	}
+	PLB=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	POT=
+	{
+		value=0
+		level=2
+	}
+	PRK=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTA=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PUE=
+	{
+		value=0
+		level=2
+	}
+	RAG=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SAK=
+	{
+		value=0
+		level=2
+	}
+	SAL=
+	{
+		value=0
+		level=2
+	}
+	SAR=
+	{
+		value=0
+		level=2
+	}
+	SAX=
+	{
+		value=0
+		level=2
+	}
+	SGU=
+	{
+		value=0
+		level=2
+	}
+	SHA=
+	{
+		value=0
+		level=2
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SIN=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=2
+	}
+	SOK=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SWI=
+	{
+		value=0
+		level=2
+	}
+	TGT=
+	{
+		value=0
+		level=2
+	}
+	THU=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TMB=
+	{
+		value=0
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=0
+		level=2
+	}
+	TRI=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	UTS=
+	{
+		value=0
+		level=2
+	}
+	VND=
+	{
+		value=0
+		level=2
+	}
+	WAL=
+	{
+		value=0
+		level=2
+	}
+	WAR=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=0
+		level=2
+	}
+	WCR=
+	{
+		value=0
+		level=2
+	}
+	WIA=
+	{
+		value=0
+		level=2
+	}
+	WIC=
+	{
+		value=0
+		level=2
+	}
+	WUR=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YAT=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	YRK=
+	{
+		value=0
+		level=2
+	}
+	ZIM=
+	{
+		value=0
+		level=2
+	}
+	ZZZ=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1616
+	regiment = {
+		name="1st Hengzhou Cavalry"
+		type=cavalry
+		home=1527
+	}
+	regiment = {
+		name="1st Guiyang Cavalry"
+		type=cavalry
+		home=1505
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2221
+	regiment = {
+		name="1st Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="1st Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1493
+	regiment = {
+		name="1st Jian Artillery"
+		type=artillery
+		home=1547
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1605
+	regiment = {
+		name="1st Jiading Artillery"
+		type=artillery
+		home=1580
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1540
+	regiment = {
+		name="1st Gongchang Infantry"
+		type=infantry
+		home=1489
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1538
+	regiment = {
+		name="1st Shangzhou Infantry"
+		type=infantry
+		home=2062
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1497
+	regiment = {
+		name="1st Huaian Infantry"
+		type=infantry
+		home=1536
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1608
+	regiment = {
+		name="1st Caozhou Infantry"
+		type=infantry
+		home=1564
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1561
+	regiment = {
+		name="1st Weihui Infantry"
+		type=infantry
+		home=1515
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1617
+	regiment = {
+		name="1st Guihua Tumed Infantry"
+		type=infantry
+		home=1532
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1480
+	regiment = {
+		name="2nd Guihua Tumed Infantry"
+		type=infantry
+		home=1532
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1494
+	regiment = {
+		name="1st Aksu Infantry"
+		type=infantry
+		home=1597
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1609
+	regiment = {
+		name="1st Ili Infantry"
+		type=infantry
+		home=1595
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1580
+	regiment = {
+		name="1st Khovd Infantry"
+		type=infantry
+		home=2679
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1570
+	regiment = {
+		name="1st Dali Cavalry"
+		type=cavalry
+		home=1602
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1508
+	regiment = {
+		name="1st Gauzhou Cavalry"
+		type=cavalry
+		home=1495
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1566
+	regiment = {
+		name="1st Canton Cavalry"
+		type=cavalry
+		home=1493
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1616
+	ship = {
+		name="1st Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="14th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="15th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="16th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="17th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="18th Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Shuntian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Shuntian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Shuntian Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1613
+	ship = {
+		name="10th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Shuntian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Chengde Frigate"
+		type=frigate
+	}
+}
+

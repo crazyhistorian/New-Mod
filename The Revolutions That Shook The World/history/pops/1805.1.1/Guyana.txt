@@ -1,0 +1,372 @@
+2239 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=6125
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=93
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=336
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=64
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=12
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=54
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=7875
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=119
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=433
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=82
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=16
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=69
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=6
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=23
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=4
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=400
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = animist
+		size=8
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = animist
+		size=30
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = animist
+		size=6
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = animist
+		size=5
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = animist
+		size=513
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=3937
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=59
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=212
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=8
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=34
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=5062
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=75
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=273
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=52
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=10
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=44
+	}
+
+}
+1979 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=23
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=400
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=8
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=30
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=6
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=5
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=513
+	}
+
+}

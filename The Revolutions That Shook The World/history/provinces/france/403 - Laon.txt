@@ -1,0 +1,18 @@
+owner= FRA
+controller= FRA
+add_core= FRA
+trade_goods = grain
+life_rating = 32
+fort = 1
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

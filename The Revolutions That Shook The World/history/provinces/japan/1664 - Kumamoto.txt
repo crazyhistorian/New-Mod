@@ -1,0 +1,6 @@
+owner= HSK
+controller= HSK
+add_core= HSK
+trade_goods = coal
+life_rating = 35
+naval_base = 1

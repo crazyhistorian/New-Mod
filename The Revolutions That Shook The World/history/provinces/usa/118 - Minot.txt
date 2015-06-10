@@ -1,0 +1,6 @@
+owner= ASI
+controller= ASI
+add_core= ARP
+add_core= ASI
+trade_goods = coal
+life_rating = 35

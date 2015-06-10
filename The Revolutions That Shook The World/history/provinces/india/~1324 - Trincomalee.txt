@@ -1,0 +1,7 @@
+owner= NET
+controller= NET
+add_core= KTH
+add_core= NET
+trade_goods = tea
+life_rating = 32
+colonial=2

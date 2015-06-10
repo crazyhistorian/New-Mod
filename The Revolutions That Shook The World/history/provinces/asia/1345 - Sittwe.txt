@@ -1,0 +1,14 @@
+owner= ARK
+controller= ARK
+add_core= ARK
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+
+1789.7.14 = {
+
+owner= BUR
+controller= BUR
+add_core= BUR
+
+}

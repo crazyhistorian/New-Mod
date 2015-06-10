@@ -1,0 +1,24 @@
+owner= MWT
+controller= MWT
+add_core= MUG
+add_core= MWT
+add_core= HND
+trade_goods = grain
+life_rating = 32
+fort = 1
+
+1789.7.14 = {
+
+owner= GWA
+controller= GWA
+
+}
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

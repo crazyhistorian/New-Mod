@@ -1,0 +1,22 @@
+owner= ENG
+controller= ENG
+add_core= CRK
+trade_goods = cotton
+life_rating = 35
+colonial=2
+is_slave = yes
+
+1789.7.14 = {
+
+owner= SPA
+controller= SPA
+
+}
+
+1821.4.1 = {
+
+owner= USA
+controller= USA
+add_core= USA
+
+}

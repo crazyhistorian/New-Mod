@@ -1,0 +1,6 @@
+owner= LNO
+controller= LNO
+add_core= LNO
+trade_goods = iron
+life_rating = 30
+naval_base = 1

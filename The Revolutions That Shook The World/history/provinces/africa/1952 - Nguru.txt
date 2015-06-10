@@ -1,0 +1,13 @@
+owner= KBO
+controller= KBO
+add_core= KBO
+trade_goods = cattle
+life_rating = 35
+
+1821.4.1 = {
+
+owner= SOK
+controller= SOK
+add_core= SOK
+
+}

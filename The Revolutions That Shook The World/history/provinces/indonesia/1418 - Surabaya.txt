@@ -1,0 +1,5 @@
+owner= MTR
+controller= MTR
+add_core= MTR
+trade_goods = sulphur
+life_rating = 30

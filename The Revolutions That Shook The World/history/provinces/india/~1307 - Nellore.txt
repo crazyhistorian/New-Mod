@@ -1,0 +1,7 @@
+owner= KRK
+controller= KRK
+add_core= VIJ
+add_core= GOC
+add_core= KRK
+trade_goods = grain
+life_rating = 32

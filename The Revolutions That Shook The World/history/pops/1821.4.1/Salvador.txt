@@ -1,0 +1,102 @@
+2191 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1529
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=5041
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=651
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=150
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=65
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=637
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=56977
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1034
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=3410
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=440
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=101
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=431
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=38540
+	}
+
+}

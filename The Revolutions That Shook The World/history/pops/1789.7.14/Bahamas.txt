@@ -1,0 +1,200 @@
+2219 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=1030
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=57
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=94
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=12
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=2
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=12
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=5
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=3219
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=178
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=294
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=38
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=6
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=37
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=12
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=148
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=7
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=11
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=601
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=28
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=47
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=6
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=6
+	}
+
+}

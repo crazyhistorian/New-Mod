@@ -1,0 +1,15 @@
+owner= PAL
+controller= PAL
+add_core= PAL
+add_core= SGF
+add_core= GER
+trade_goods = sulphur
+life_rating = 40
+
+1821.4.1 = {
+
+owner= BAV
+controller= BAV
+add_core= BAV
+
+}

@@ -1,0 +1,10 @@
+owner= HAN
+controller= HAN
+add_core= BRE
+add_core= HAN
+add_core= NGF
+add_core= GER
+trade_goods = cattle
+life_rating = 40
+naval_base = 1
+fort = 1

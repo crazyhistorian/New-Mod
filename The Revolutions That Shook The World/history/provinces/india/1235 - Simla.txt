@@ -1,0 +1,16 @@
+owner= GHR
+controller= GHR
+add_core= GHR
+add_core= HND
+trade_goods = tea
+life_rating = 32
+
+1821.4.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+add_core= NEP
+colonial=2
+
+}

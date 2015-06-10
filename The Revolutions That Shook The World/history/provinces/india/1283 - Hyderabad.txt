@@ -1,0 +1,6 @@
+owner= DEC
+controller= DEC
+add_core= GOC
+add_core= DEC
+trade_goods = cotton
+life_rating = 32

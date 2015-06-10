@@ -1,0 +1,151 @@
+1955 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size=431
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=26
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=86
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=11
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=2
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=11
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=539
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=668
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=40
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=133
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=17
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=3
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=17
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=833
+	}
+
+}
+1973 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size=350
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size=300
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size=1500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size=350
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size=31500
+	}
+
+}

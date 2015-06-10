@@ -1,0 +1,9 @@
+owner= USA
+controller= USA
+add_core= ENG
+add_core= USA
+trade_goods = grain
+life_rating = 50
+naval_base = 1
+fort = 1
+railroad = 1

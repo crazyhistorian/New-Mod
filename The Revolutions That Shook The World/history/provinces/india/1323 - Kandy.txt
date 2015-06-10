@@ -1,0 +1,15 @@
+owner= NET
+controller= NET
+add_core= KTH
+add_core= NET
+trade_goods = tea
+life_rating = 32
+
+1805.1.1 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+colonial=2
+
+}

@@ -1,0 +1,24 @@
+owner= ALH
+controller= ALH
+add_core= ALH
+add_core= IRQ
+add_core= ARA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+
+1805.1.1 = {
+
+owner= NEJ
+controller= NEJ
+add_core= NEJ
+
+}
+
+1821.4.1 = {
+
+owner= TUR
+controller= TUR
+add_core= TUR
+
+}

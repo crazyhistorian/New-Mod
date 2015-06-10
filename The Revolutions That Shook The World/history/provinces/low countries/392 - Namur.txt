@@ -1,0 +1,28 @@
+owner= AUS
+controller= AUS
+add_core= HAT
+add_core= AUS
+trade_goods = iron
+life_rating = 35
+fort = 1
+
+1805.1.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}
+}
+
+1821.4.1 = {
+
+owner= NET
+controller= NET
+add_core= NET
+
+}
