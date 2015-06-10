@@ -1,0 +1,506 @@
+#;#;#;#;#;#;#;#;#;#;#;#;;#;x;;
+GCCWM_NAME;The Cold War Mod;;;;;;;;;;;;;x;;
+GCCWM_DESC;The Cold War Mod;;;;;;;;;;;;;x;;
+###############################################################;;;;;;;;;;;;;;x;;
+# Unit Names;;;;;;;;;;;;;;x;;
+##############################################################;;;;;;;;;;;;;;x;;
+army_base;Armies;Armées;Armeen;;;;;;;;;;;x;;
+navy_base;Navies;Marines;Flotten;;;;;;;;;;;x;;
+infantry;Infantry;Infanterie;Infanterie;;;;;;;;;;;x;;
+cavalry;Cavalry;Cavalerie;Kavallerie;;;;;;;;;;;x;;
+mechanised_artillery;Mechanised Artillery;;;;;;;;;;;;;x;;
+mechanised_infantry;Mechanised Infantry;;;;;;;;;;;;;x;;
+engineer;Engineer;Génie;Pionier;;;;;;;;;;;x;;
+motorised_infantry;Motorised Infantry;;;;;;;;;;;;;x;;
+air_cavalry;Air Cavalry;;;;;;;;;;;;;x;;
+irregular;Irregular;Irrégulier;Freischärler;;;;;;;;;;;x;;
+artillery;Towed Artillery;Towed Artillerie;Towed Artillerie;;;;;;;;;;;x;;
+main_battle_tank;Main Battle Tank;Blindé;Panzer;;;;;;;;;;;x;;
+close_air_support;Close Air Support;Avion;;;;;;;;;;;;x;;
+bomber;Tactical Bomber;Avion;;;;;;;;;;;;x;;
+attack_submarine_squadron;Attack Submarine Squadron;;;;;;;;;;;;;x;;
+heavy_cruiser;Heavy Cruiser;Heavy Croiseur;Heavy Kreuzer;;;;;;;;;;;x;;
+frigate_squadron;Frigate Squadron;Frégate Squadron;Fregatte Squadron;;;;;;;;;;;x;;
+destroyer_squadron;Destroyer Squadron;;;;;;;;;;;;;x;;
+fleet_carrier;Fleet Carrier;;;;;;;;;;;;;x;;
+supercarrier;Supercarrier;;;;;;;;;;;;;x;;
+troop_transport;Troop Transport;;;;;;;;;;;;;x;;
+assault_transport;Assault Transport;;;;;;;;;;;;;x;;
+light_cruiser;Light Cruiser;Light Croiseur;Light Kreuzer;;;;;;;;;;;x;;
+light_carrier;Light Carrier;;;;;;;;;;;;;x;;
+#;;;;;;;;;;;;;;x;;
+army_base_short;(A);(A);(A);;;;;;;;;;;x;;
+navy_base_short;(N);(M);(F);;;;;;;;;;;x;;
+infantry_short;Inf;Inf.;Inf;;;;;;;;;;;x;;
+cavalry_short;Cav;Cav.;Kav;;;;;;;;;;;x;;
+mechanised_artillery_short;SPArt;;;;;;;;;;;;;x;;
+mechansied_infantry_short;Mec;;;;;;;;;;;;;x;;
+engineer_short;Eng;Gén.;Pio;;;;;;;;;;;x;;
+motorised_infantry_short;Mot;;;;;;;;;;;;;x;;
+irregular_short;Irr;Irr.;Frsch;;;;;;;;;;;x;;
+air_cavalry_short;Heli;;;;;;;;;;;;;x;;
+artillery_short;Art;Art.;Art;;;;;;;;;;;x;;
+main_battle_tank_short;MBT;;;;;;;;;;;;;x;;
+close_air_support_short;CAS;;;;;;;;;;;;;x;;
+bomber_short;Tac;;;;;;;;;;;;;x;;
+attack_submarine_squadron_short;SS;;;;;;;;;;;;;x;;
+heavy_cruiser_short;CB;;;;;;;;;;;;;x;;
+frigate_squadron_short;FF;;;;;;;;;;;;;x;;
+destroyer_squadron_short;DD;;;;;;;;;;;;;x;;
+fleet_carrier_short;CV;;;;;;;;;;;;;x;;
+supercarrier_short;CVN;;;;;;;;;;;;;x;;
+troop_transport_short;AP;;;;;;;;;;;;;x;;
+assault_transport_short;LH;;;;;;;;;;;;;x;;
+light_cruiser_short;CL;;;;;;;;;;;;;x;;
+light_carrier_short;CVL;;;;;;;;;;;;;x;;
+railroad;Infrastructure;;;;;;;;;;;;;x;;
+urban;Urban;;;;;;;;;;;;;x;;
+KRD;Kurdistan;;;;;;;;;;;;;x;;
+CEY;Ceylon;;;;;;;;;;;;;x;;
+TML;Tamil Eelam;;;;;;;;;;;;;x;;
+MAL;Malaysia;;;;;;;;;;;;;x;;
+SNG;Singapore;;;;;;;;;;;;;x;;
+GER_fascist_dictatorship;Third Reich;;;;;;;;;;;;;x;;
+DDR;East Germany;Allemagne de l'Est;Ost Deutschland;;Alemania del Este;;;;;;;;;x;;
+SYR;Syria;Syrie;Syrien;;Siria;;;;;;;;;x;;
+LEB;Lebanon;Liban;Libanon;;Libano;;;;;;;;;x;;
+JOR;Jordan;Jordan;Jordan;;Jordania;;;;;;;;;x;;
+NKR;North Korea;Corée du Nord;Nordkorea;;Nordcorea;;;;;;;;;x;;
+IDO;Indonesia;Indonesie;Indonesien;;Indonesia;;;;;;;;;x;;
+PAK;Pakistan;Pakistan;Pakistan;;Pakistan;;;;;;;;;x;;
+CHC;Communist China;Chine Communiste;Kommunistische China;;Comunista de China;;;;;;;;;x;;
+CHI;Nationalist China;Chine Nationaliste;Guomindangchina;;China Nacionalista;;;;;;;;;x;;
+BLR;Byelorussia;Bielorussie;Weiárussland;;Bielorrusia;;;;;;;;;x;;
+TNZ;Tanzania;Tanzanie;Tansania;;Tanzania;;;;;;;;;x;;
+TUN;Tunisia;Tunis;Tunis;;Tunez;;;;;;;;;x;;
+TJK;Tajikistan;Tadjikistan;Tadschikistan;;Tayikistan;;;;;;;;;x;;
+TKM;Turkmenistan;Turkmenistan;Turkmenistan;;Turkmenistan;;;;;;;;;x;;
+KOS;Kosovo;Kosovo;Kosovo;;Kosovo;;;;;;;;;x;;
+MAC;Macedonia;Macedoine;Mazedonien;;Macedonia;;;;;;;;;x;;
+PAL;Palestine;Palestine;Palestina;;Palestina;;;;;;;;;x;;
+KZK;Kazakhstan;Kazakhstan;Kasachstan;;Kazajstan;;;;;;;;;x;;
+SOM;Somalia;Somalie;Somalia;;Somalia;;;;;;;;;x;;
+SML;Somaliland;Somaliland;Somaliland;;Somalilandia;;;;;;;;;x;;
+WLS;Wales;Pays de Galles;Wales;;Pais de Gales;;;;;;;;;x;;
+EUS;Basque Country;Pays Basque;Baskische Land;;Pais Vasco;;;;;;;;;x;;
+KNY;Kenya;Kenya;Kenia;;Kenia;;;;;;;;;x;;
+UGD;Uganda;Ouganda;Uganda;;Uganda;;;;;;;;;x;;
+BGD;Bangladesh;Bangladesh;Bangladesch;;Bangladesh;;;;;;;;;x;;
+TGO;Togo;Togo;Togo;;Togo;;;;;;;;;x;;
+NEJ;Saudi Arabia;Arabie saoudite;Arabia Saudita;;Saudi-Arabien;;;;;;;;;x;;
+KHI;Uzbekistan;Ouzbekistan;Usbekistan;;Uzbekistan;;;;;;;;;x;;
+KOK;Kyrgyzstan;Kirghizistan;Kirgisistan;;Kirguistan;;;;;;;;;x;;
+TRI;Libya;Libye;Libyen;;Libia;;;;;;;;;x;;
+SOK;Nigeria;Nigeria;Nigeria;Nigeria;;;;;;;;;x;;;
+DAI;North Vietnam;North Viet-Nam;North Vietnam;;North Vietnam;;;;;;;;;x;;
+MOL;Moldova;Moldova;Moldawien;;Moldova;;;;;;;;;x;;
+LUA;Laos;Laos;Laos;;Laos;;;;;;;;;x;;
+SRL;Saarland;Sarre;Saarland;;Sarre;;;;;;;;;x;;
+RUS;Soviet Union;;;;;;;;;;;;;x;;
+PER;Iran;;;;;;;;;;;;;x;;
+ABU;UAE;;;;;;;;;;;;;x;;
+KOR;South Korea;Corée du Sud;Südkorea;;Südcorea;;;;;;;;;x;;
+SIA_absolute_monarchy;Siam;Siam;Siam;;Siam;;;;;;;;;x;;
+LAK;Lakotah;;;;;;;;;;;;;x;;
+CAS;Cascades;;;;;;;;;;;;;x;;
+ALA;Alaska;;;;;;;;;;;;;x;;
+NAF;New Afrika;;;;;;;;;;;;;x;;
+ATJ;Aceh;;;;;;;;;;;;;x;;
+SVI;South Vietnam;;;;;;;;;;;;;x;;
+LUS;Lusatia;;;;;;;;;;;;;x;;
+ETA;Eritrea;;;;;;;;;;;;;x;;
+NAM;Namibia;;;;;;;;;;;;;x;;
+ALD;Algeria;Algérie;Algerien;;Argel;;;;;;;;;x;;
+HND;India;Inde;Indien;;;;;;;;;;;x;;
+PNG;Papua New Guinea;;;;;;;;;;;;;x;;
+MLU;Maluku;;;;;;;;;;;;;x;;
+PTR;Puerto Rico;;;;;;;;;;;;;x;;
+UTD;United Nations;;;;;;;;;;;;;x;;
+XIN;Xinjang;;;;;;;;;;;;;x;;
+XIN_ADJ;Xinjang;;;;;;;;;;;;;x;;
+HND_ADJ;Indian;Indien;Indisch;;;;;;;;;;;x;;
+KRD_ADJ;Kurd;;;;;;;;;;;;;x;;
+CEY_ADJ;Ceylonese;;;;;;;;;;;;;x;;
+TML_ADJ;Tamil;;;;;;;;;;;;;x;;
+MAL_ADJ;Malaysian;;;;;;;;;;;;;x;;
+SNG_ADJ;Singaporean;;;;;;;;;;;;;x;;
+DDR_ADJ;East German;Allemagne de l'Est;Ostdeutsche;;Alemania del Este;;;;;;;;;x;;
+SYR_ADJ;Syrian;Syrienne;Syrisch;;Siria;;;;;;;;;x;;
+LEB_ADJ;Lebanese;Libanais;Libanesischen;;Libano;;;;;;;;;x;;
+JOR_ADJ;Jordanian;Jordanien;Jordanier;;Jordania;;;;;;;;;x;;
+NKR_ADJ;North Korean;Nord-corean;Nordkoreanisch;;Corea del Norte;;;;;;;;;x;;
+IDO_ADJ;Indonesian;Indonesien;Indonesisch;;Indonesio;;;;;;;;;x;;
+CHC_ADJ;Communist Chinese;Communiste Chinois;Chinesischen Kommunisten;;Comunista Chino;;;;;;;;;x;;
+BLR_ADJ;Byelorussian;Bielorussie;Weiárussisch;;Bielorrusia;;;;;;;;;x;;
+TNZ_ADJ;Tanzanian;Tanzanien;Tansaniesch;;Tanzania;;;;;;;;;x;;
+TJK_ADJ;Tajiki;Tadjik;Tadschikischen;;Tajiki;;;;;;;;;x;;
+TKM_ADJ;Turkmen;Turkmene;Turkmenischen;;Turkmenistan;;;;;;;;;x;;
+KOS_ADJ;Kosovan;Kosovo;Kosovarischen;;Kosovo;;;;;;;;;x;;
+MAC_ADJ;Macedonian;Macedonienne;Mazedonisch;;Macedonio;;;;;;;;;x;;
+PAL_ADJ;Palestinian;Palestinien;Palestinensische;;Palestino;;;;;;;;;x;;
+KZK_ADJ;Kazakhstani;Kazakhstan;Kazakhstani;;Kazajstan;;;;;;;;;x;;
+SOM_ADJ;Somalian;Somalie;Somalia;;Somali;;;;;;;;;x;;
+SML_ADJ;Somaliland;Somaliland;Somaliland;;Somalilandia;;;;;;;;;x;;
+WLS_ADJ;Welsh;Gallois;Walisisch;;Gales;;;;;;;;;x;;
+EUS_ADJ;Basque;Basque;Baskisch;;Vasco;;;;;;;;;x;;
+KNY_ADJ;Kenyan;Kenyen;Kenia;;Kenia;;;;;;;;;x;;
+UGD_ADJ;Ugandan;Ougandais;Ugandisch;;Uganda;;;;;;;;;x;;
+BGD_ADJ;Bangladeshi;Bangladeshi;Aus Bangladesch;;Bangladeshi;;;;;;;;;x;;
+TGO_ADJ;Togolese;Togolaise;Togo;;Togo;;;;;;;;;x;;
+CHI_ADJ;Nationalist Chinese;Nationaliste Chinois;Nationalistische Chinesisch;;Nacionalista Chino;;;;;;;;;x;;
+MOL_ADJ;Moldovan;Moldave;Moldauischen;;;;;;;;;;;x;;
+KHI_ADJ;Uzbekistani;Ouzbeks;Usbekisch;;;;;;;;;;;x;;
+KOK_ADJ;Kyrgyzstani;Kirghizes;Kirgisische;;;;;;;;;;;x;;
+LUA_ADJ;Laotian;Laotien;Laotisch;;;;;;;;;;;x;;
+NEJ_ADJ;Saudi;Saoudien;Saudiarabisch;;;;;;;;;;;x;;
+SOK_ADJ;Nigerian;Nigeria;Nigerianisch;;;;;;;;;;;x;;
+TRI_ADJ;Libyan;Libyenne;Libyer;;;;;;;;;;;x;;
+PAK_ADJ;Pakistani;Pakistanais;Pakistanisch;;;;;;;;;;;x;;
+SRL_ADJ;Saar;Sarrois;Saar;;Sarre;;;;;;;;;;;x
+RUS_ADJ;Soviet;;;;;;;;;;;;;x;;
+LUS_ADJ;Lusatian;;;;;;;;;;;;;x;;
+PER_ADJ;Iranian;;;;;;;;;;;;;x;;
+KOR_ADJ;South Korean;South Coréen;South Koreanisch;;South Coreana;;;;;;;;;x;;
+SIA_ADJ;Thai;Thai;Thai;;;;;;;;;;;x;;
+DAI_ADJ;North Vietnamese;North Vietnamien;North Vietnamesisch;;;;;;;;;;;x;;
+ABU_ADJ;UAE;;;;;;;;;;;;;x;;
+ATJ_ADJ;Acehnese;;;;;;;;;;;;;x;;
+LAK_ADJ;Lakotan;;;;;;;;;;;;;x;;
+CAS_ADJ;Cascadian;;;;;;;;;;;;;x;;
+ALA_ADJ;Alaskan;;;;;;;;;;;;;x;;
+NAF_ADJ;New Afrikan;;;;;;;;;;;;;x;;
+SVI_ADJ;South Vietnamese;;;;;;;;;;;;;x;;
+ETA_ADJ;Eritrean;;;;;;;;;;;;;x;;
+NAM_ADJ;Namibian;;;;;;;;;;;;;x;;
+PNG_ADJ;Papua New Guinean;;;;;;;;;;;;;x;;
+MLU_ADJ;Malukan;;;;;;;;;;;;;x;;
+PTR_ADJ;Puerto Rican;;;;;;;;;;;;;x;;
+UTD_ADJ;United Nations;;;;;;;;;;;;;x;;
+sorbian;Sorbian;;;;;;;;;;;;;x;;
+EDU_DESC;The educational budget goes to pay the Intelligentsia as well as producing research points;Le budget de l'enseignement permet de payer le clergé et de produire des points de recherche.;Der Bildungshaushalt wird zur Bezahlung des Klerus und zur Produktion von Forschungspunkten verwendet.;;;;;;;;;;;x;;
+INFRASTRUCTURE_EFFECT;$DIRECTION$ $VALUE$ level of Infrastructure\n;;;;;;;;;;;;;x;;
+rail_focus;Infrastructure;Chemins de fer;Eisenbahnen;;;;;;;;;;;x;;
+encourage_rail;Build Infrastructure ;Construire des chemins de fer;Eisenbahn bauen;;;;;;;;;;;x;;
+promote_clergymen;Encourage Intelligentsia ;Encourager les membres du Intelligentsia;Intelligentsia fördern;;;;;;;;;;;x;;
+railroad_build_desc;Capitalists §Y$VAL$§W% more likeley to build Infrastructure.;;;;;;;;;;;;;x;;
+PV_RAILROAD;Infrastructure;;;;;;;;;;;;;x;;
+soviet_democracy;Soviet Democracy;;;;;;;;;;;;;x;;
+soviet_democracy_ruler;Premier;;;;;;;;;;;;;x;;
+POP_CON_CLERGY;Intelligentsia;Intelligentsia;Intelligentsia;;;;;;;;;;;x;;
+clergymen;Intelligentsia;Intelligentsia;Intelligentsia;;;;;;;;;;;x;;
+PROV313;Oslo;;;;;;;;;;;;;x;;
+PROV338;Rovaniemi;;;;;;;;;;;;;x;;
+PROV339;Vyborg;;;;;;;;;;;;;x;;
+PROV349;Tallinn;;;;;;;;;;;;;x;;
+PROV410;Mulhouse;;;;;;;;;;;;;x;;
+PROV545;Neubrandenburg;;;;;;;;;;;;;x;;
+PROV546;Szczecin;;;;;;;;;;;;;x;;
+PROV547;Greifswald;;;;;;;;;;;;;x;;
+PROV549;West Berlin;West Berlin;West Berlin;;;;;;;;;;;x;;
+PROV551;Neuruppin;;;;;;;;;;;;;x;;
+PROV662;Chernivtsi;;;;;;;;;;;;;x;;
+PROV676;Kishinev;;;;;;;;;;;;;x;;
+PROV679;Kolobrzeg;;;;;;;;;;;;;x;;
+PROV680;Koszalin;Koszalin;Koszalin;;;;;;;;;;;x;;
+PROV681;Gorzow;;;;;;;;;;;;;x;;
+PROV682;Wroclaw;Wroclaw;Wroclaw;;;;;;;;;;;x;;
+PROV683;Walbrzych;;;;;;;;;;;;;x;;
+PROV684;Opole;Opole;Opole;;;;;;;;;;;x;;
+PROV685;Katowice;Katowice;Katowice;;;;;;;;;;;x;;
+PROV686;Line Islands;Îles de la Ligne;Line-Inseln;;;;;;;;;;;x;;
+PROV687;Gorlitz;Görlitz;Gorlitz;;;;;;;;;;;x;;
+PROV688;Opava;Opava;Opava;;;;;;;;;;;x;;
+PROV689;Ostrava;Ostrava;Ostrava;;;;;;;;;;;x;;
+PROV690;Gdansk;Gdansk;Gdansk;;;;;;;;;;;x;;
+PROV691;Tuchola;Tuchola;Tuchola;;;;;;;;;;;x;;
+PROV692;Walcz;Walcz;Walcz;;;;;;;;;;;x;;
+PROV693;Elblag;Elblag;Elblag;;;;;;;;;;;x;;
+PROV694;Torun;Torun;Torun;;;;;;;;;;;x;;
+PROV695;Kaliningrad;;;;;;;;;;;;;x;;
+PROV696;Olsztyn;;;;;;;;;;;;;x;;
+PROV697;Chernyakhovsk;;;;;;;;;;;;;x;;
+PROV698;Klaipeda;;;;;;;;;;;;;x;;
+PROV699;Poznan;;;;;;;;;;;;;x;;
+PROV700;Bydgoszcz;;;;;;;;;;;;;x;;
+PROV705;Rzeszow;;;;;;;;;;;;;x;;
+PROV734;Trento;;;;;;;;;;;;;x;;
+PROV735;Bolzano;Bolzano;Bozen;;Bozen;;;;;;;;;x;;
+PROV758;Taranto;;;;;;;;;;;;;x;;
+PROV916;Nazareth;Nazareth;Nazareth;;;;;;;;;;;x;;
+PROV919;Tel Aviv-Yafo;;;;;;;;;;;;;x;;
+PROV982;Nikel;;;;;;;;;;;;;x;;
+PROV994;Leningrad;;;;;;;;;;;;;x;;
+PROV1020;Gorky;;;;;;;;;;;;;x;;
+PROV1026;Molotov;Molotov;Molotov;;;;;;;;;;;x;;
+PROV1039;Stalingrad;Stalingrad;Stalingrad;;;;;;;;;;;x;;
+PROV1082;Arsenyev;;;;;;;;;;;;;x;;
+PROV1083;Khabarovsk;;;;;;;;;;;;;x;;
+PROV1083;Komsomolsk-on-Amur;;;;;;;;;;;;;x;;
+PROV1098;Yerevan;;;;;;;;;;;;;x;;
+PROV1146;Chahbahar;;;;;;;;;;;;;x;;
+PROV1163;Dammam;Dammam;Dammam;;;;;;;;;;;x;;
+PROV1181;Karaganda;;;;;;;;;;;;;x;;
+PROV1201;Leninabad;;;;;;;;;;;;;x;;
+PROV1207;Dushanbe;;;;;;;;;;;;;x;;
+PROV1208;Khorugh;;;;;;;;;;;;;x;;
+PROV1230;Rawalpindi;Rawalpindi;Rawalpindi;;;;;;;;;;;x;;
+PROV1241;Kanpur;;;;;;;;;;;;;x;;
+PROV1253;Kharagpur;;;;;;;;;;;;;x;;
+PROV1256;Khulna;Khulna;Khulna;;;;;;;;;;;x;;
+PROV1334;Mandalay;Mandalay;Mandalay;;;;;;;;;;;x;;
+PROV1339;Hahka;Hahka;Hahka;;;;;;;;;;;x;;
+PROV1377;Da Nang;;;;;;;;;;;;;x;;
+PROV1389;Kedah;;;;;;;;;;;;;x;;
+PROV1459;Lucena;;;;;;;;;;;;;x;;
+PROV1469;Kyzyl;;;;;;;;;;;;;x;;
+PROV1481;Dalian;Dalian;Dalian;;;;;;;;;;;x;;
+PROV1489;Tianshui;;;;;;;;;;;;;x;;
+PROV1491;Yinchuan;;;;;;;;;;;;;x;;
+PROV1492;Pingliang;Pingliang;Pingliang;;Pingliang;;;;;;;;;x;;
+PROV1493;Guangzhou;Guangzhou;Guangzhou;;;;;;;;;;;x;;
+PROV1499;Haikou;Haikou;Haikou;;;;;;;;;;;x;;
+PROV1523;Xiangfan;Xiangfan;Xiangfan;;;;;;;;;;;x;;
+PROV1582;Longnan;Longnan;Longnan;;Longnan;;;;;;;;;x;;
+PROV1595;Ghulja;;;;;;;;;;;;;x;;
+PROV1620;Pyongsong;Pyongsong;Pyongsong;;;;;;;;;;;x;;
+PROV1621;Sinuiji;Sinuiji;Sinuiji;;;;;;;;;;;x;;
+PROV1622;Kanggye;Kanggye;Kanggye;;;;;;;;;;;x;;
+PROV1623;Hyesan;Hyesan;Hyesan;;;;;;;;;;;x;;
+PROV1624;Hamhung;Hamhung;Hamhung;;;;;;;;;;;x;;
+PROV1625;Wonsan;Wonsan;Wonsan;;;;;;;;;;;x;;
+PROV1626;Chorwon;Chorwon;Chorwon;;;;;;;;;;;x;;
+PROV1627;Sariwon;Sariwon;Sariwon;;;;;;;;;;;x;;
+PROV1628;Haeju;Haeju;Haeju;;;;;;;;;;;x;;
+PROV1629;Incheon;Incheon;Incheon;;;;;;;;;;;x;;
+PROV1630;Seoul;Seoul;Seoul;;;;;;;;;;;x;;
+PROV1631;Suwon;Suwon;Suwon;;;;;;;;;;;x;;
+PROV1632;Chuncheon;Chuncheon;Chuncheon;;;;;;;;;;;x;;
+PROV1633;Daejeon;Daejeon;Daejeon;;;;;;;;;;;x;;
+PROV1634;Cheongju;Cheongju;Cheongju;;;;;;;;;;;x;;
+PROV1635;Pohang;Pohang;Pohang;;;;;;;;;;;x;;
+PROV1636;Jeonju;Jeonju;Jeonju;;;;;;;;;;;x;;
+PROV1637;Gwangju;Gwangju;Gwangju;;;;;;;;;;;x;;
+PROV1649;Tokyo;;;;;;;;;;;;;x;;
+PROV1782;Zouerat;Zouerat;Zouerat;;;;;;;;;;;x;;
+PROV1855;Debre Markos;;;;;;;;;;;;;x;;
+PROV1859;Addis Ababa;;;;;;;;;;;;;x;;
+PROV2139;Mexicali;;;;;;;;;;;;;x;;
+PROV2193;Tegucigalpa;;;;;;;;;;;;;x;;
+PROV2210;Santa Clara de Cuba;Santa Clara de Cuba;Santa Clara de Cuba;;;;;;;;;;;x;;
+PROV2288;Maynas;;;;;;;;;;;;;x;;
+PROV2332;Puerto Montt;Puerto Montt;Puerto Montt;;;;;;;;;;;x;;
+PROV2341;Ciudad del Este;;;;;;;;;;;;;x;;
+PROV2482;Hobart;;;;;;;;;;;;;x;;
+PROV2505;Darwin;Darwin;Darwin;;;;;;;;;;;x;;
+PROV2567;Latina;;;;;;;;;;;;;x;;
+PROV2581;Vila Cabral;;;;;;;;;;;;;x;;
+PROV2617;Birobidzhan;;;;;;;;;;;;;x;;
+PROV2818;Gulf of Thailand;Golfe du Thailand;Golf von Thailand;;;;;;;;;x;;x;;
+PROV2929;Southern GUIK Gap;;;;;;;;;;;x;;x;;
+PROV2933;Northern GUIK Gap;;;;;;;;;;;x;;x;;
+RUS_1026;Molotov;Molotov;Molotov;;;;;;;;;;;x;;
+atheist;Atheist;;;;;;;;;;;;;x;;
+steamer_transports_desc;Assault Transports are a more advanced design of Troop Transports. Employed to carry out amphibious assaults on hostile territory, they are commonly equipped with helicopters and armoured landing craft to facilitate transport of troops to the shore as well as providing protection from air and submarine attacks.;Les transports à vapeur remplacent les voiliers de transport. Ils n'utilisent plus de voiles mais des moteurs à vapeur, et sont donc plus rapides et plus fiables.;Dampf-Transporter sind der Ersatz für Klipper-Transporter. Sie ersetzten die traditionellen Segel durch Dampfantrieb und waren daher schneller und zuverlässiger.;;;;;;;;;;;x;;
+tech_infrastructure;Infrastructure;Infrastructures ferroviaires;Infrastruktur;;;;;;;;;;;x;;
+tech_infrastructure_desc;This area involves the development of railroads, roading and telecommunications infrastructure.;;;;;;;;;;;;;x;;
+experimental_railroad;Modern Railroad;;;;;;;;;;;;;x;;
+experimental_railroad_desc;Modern Railroad;;;;;;;;;;;;;x;;
+early_railroad;Limited Access Roads;;;;;;;;;;;;;x;;
+early_railroad_desc;Limited Access Roads;;;;;;;;;;;;;x;;
+iron_railroad;Highway Network;;;;;;;;;;;;x;;;
+iron_railroad_desc;Highway Network;;;;;;;;;;;;x;;;
+steel_railroad;Modern Highway Network;;;;;;;;;;;;x;;;
+steel_railroad_desc;Modern Highway Network;;;;;;;;;;;;x;;;
+integral_rail_system;Early Internet;;;;;;;;;;;;;x;;
+integral_rail_system_desc;Early Internet;;;;;;;;;;;;;x;;
+limited_access_roads;Fiber Optic Internet;;;;;;;;;;;;;x;;
+limited_access_roads_desc;Fiber Optic Internet;;;;;;;;;;;;;x;;
+PROV3249;Changwon;;;;;;;;;;;x;;x;;
+PROV3250;Busan;;;;;;;;;;;x;;x;;
+PROV3251;Jeju;;;;;;;;;;;x;;x;;
+PROV3252;Gangneung;;;;;;;;;;;x;;x;;
+PROV3253;Daegu;;;;;;;;;;;x;;x;;
+PROV3254;Chongjin;;;;;;;;;;;x;;x;;
+PROV3255;Tanchon;;;;;;;;;;;x;;x;;
+PROV3256;Kaohsiung;;;;;;;;;;;x;;x;;
+PROV3257;Taichung;;;;;;;;;;;x;;x;;
+PROV3258;Makung;;;;;;;;;;;x;;x;;
+PROV3259;Sanya;;;;;;;;;;;x;;x;;
+PROV3260;Tiraspol;;;;;;;;;;;x;;x;;
+PROV3261;East Berlin;;;;;;;;;;;x;;x;;
+PROV3262;Canberra;;;;;;;;;;;x;;x;;
+PROV3263;Launceston;;;;;;;;;;;x;;x;;
+PROV3264;Golan Heights;;;;;;;;;;;x;;x;;
+PROV3265;Tiberius;;;;;;;;;;;x;;x;;
+PROV3266;Guantanamo Bay;;;;;;;;;;;x;;x;;
+PROV3267;Episkopi;;;;;;;;;;;x;;x;;
+PROV3268;Serang;;;;;;;;;;;x;;x;;
+PROV3269;Tsushima;;;;;;;;;;;x;;x;;
+PROV3270;Asansol;;;;;;;;;;;x;;x;;
+PROV3271;Saint Jerome;;;;;;;;;;;x;;x;;
+PROV3272;Tarlac;;;;;;;;;;;x;;x;;
+PROV3273;Zealand;;;;;;;;;;;x;;x;;
+PROV3274;Ceuta;;;;;;;;;;;x;;x;;
+PROV3275;Koper;;;;;;;;;;;x;;x;;
+PROV3276;Vladivostok;;;;;;;;;;;x;;x;;
+PROV3277;Zielona Gora;;;;;;;;;;;x;;x;;
+PROV3278;Jaen;;;;;;;;;;;x;;x;;
+PROV3279;Madaba;;;;;;;;;;;x;;x;;
+PROV3280;Potsdam;;;;;;;;;;;x;;x;;
+PROV3281;United Nations;;;;;;;;;;;x;;x;;
+PROV2;Juneau;;;;;;;;;;;x;;x;;
+PROV3;Anchorage;;;;;;;;;;;x;;x;;
+PROV4;Unalaska;;;;;;;;;;;x;;x;;
+EVTNAME990000;The Cold War Mod;;;;;;;;;X;;;x;;;
+EVTDESC990000;Welcome to the Cold War mod for Victoria 2. ;;;;;;;;;X;;;x;;;
+EVTOPTA990000;Good luck;;;;;;;;;X;;;x;;;
+EVTNAME999001;The fate of Newfoundland;;;;;;;;;;;;;x;;
+EVTDESC999001;Following a period of severe economic troubles and political corruption, since 1934 the former self-governing Dominion of Newfoundland has been administered directly by London through a six-member commission of government. Wartime prosperity, financed mainly by the USA, reinvigerated Newfoundland and led to a new desire for some form of self government. The Newfoundland National Convention was formed in 1946 to determine the dominion's fate, eventually deciding on a referendum with three options: First, for confederation with Cananda. Second, for restoration of self-governing dominion status. Third, for the continuation of direct administation by London. Now, in January 1949, the results of the referendum have been received in London with confederation closely beating the return to self-governing dominion status and a continuation of direct rule coming a distant third. Ultimately, however, the fate of Newfoundland is in our hands, although an unpopular decision has the likelihood of leading to civil unrest and hurt relations with Canada.\n;;;;;;;;;;;;;x;;
+EVTOPTA999001;Confederation with Canada is the answer, just as they have voted for.;;;;;;;;;;;;;x;;
+EVTOPTB999001;Give them their self-governing dominion status back.;;;;;;;;;;;;;x;;
+EVTOPTC999001;We cannot afford to give up direct rule, no matter the political cost.;;;;;;;;;;;;;x;;
+EVTNAME999002;Newfoundland joins the Confederation;;;;;;;;;;;;;x;;
+EVTDESC999002;The United Kingdom has allowed the Dominion of Newfoundland to join our Canadian Confederation, following the results of a Referendum in Newfoundland favouring that option. The state has strong mining and fishing sectors which will add to our economy, although it also had considerable government debts which we have had to take on.\n;;;;;;;;;;;;;x;;
+EVTOPTA999002;This is great news!;;;;;;;;;;;;;x;;
+EVTNAME991001;The Fourth Geneva Convention;;;;;;;;;X;;;x;;;
+EVTDESC991001;The Fourth Geneva Convention defined humanitarian protections for civilians in a war zone, and outlawed the practice of total war.\n;;;;;;;;;X;;;x;;;
+EVTOPTA991001;An idea long overdue;;;;;;;;;X;;;x;;;
+EVTNAME991002;The Fourth Geneva Convention;La Convention de Genève;Die Genfer Konvention;;;;;;;;;;;x;;
+EVTDESC991002;The Fourth Geneva Convention defined humanitarian protections for civilians in a war zone, and outlawed the practice of total war.\n;;;;;;;;;;;;;x;;
+EVTOPTA991002;Naturally we shall sign this humanitarian document of progress;Naturellement, nous allons signer ce document humanitaire de progrès.;So ein humanitäres und fortschrittliches Dokument werden wir selbstverständlich unterschreiben.;;;;;;;;;;;x;;
+EVTOPTB991002;We do not, at this time, feel inclined to sign this document;Nous ne sommes pas disposés à signer ce document pour le moment.;Derzeit sind wir nicht gewillt, dieses Dokument zu unterschreiben.;;;;;;;;;;;x;;
+EVTNAME992001;Gandhi Assasination Trial Verdict;;;;;;;;;;;;;x;;
+EVTDESC992001;Mohandas Gandi had been assasinated on 30 January by an Hindu Nationalist, Nathuram Godse. The trial of Godse and his co-accused was a high profile event in India with the potential for ethnic tensions to easily boil over. ;;;;;;;;;;;;;x;;
+EVTOPTA992001;Justice must be served. ;;;;;;;;;;;;;x;;
+EVTOPTB992001;Commute their sentences. ;;;;;;;;;;;;;x;;
+EVTNAME993001;The Trust Territory of Somalia;;;;;;;;;;;;;x;;
+EVTDESC993001;Former Italian Somaliland had come under British occupation and later administation following the events of WW2. In 1949 the UN decided that the territory would be returned to Italian administration to foster continued development and as a precursor to decolonisation of Somalia as a whole. How shall we deal with this situation?;;;;;;;;;;;;;x;;
+EVTOPTA993001;Very well. The UN knows best.;;;;;;;;;;;;;x;;
+EVTOPTB993001;We shall defy the UN resolution, all of Somalia should remain under British protection.;;;;;;;;;;;;;x;;
+EVTNAME993002;The Trust Territory of Somalia;;;;;;;;;;;;;x;;
+EVTDESC993002;The UN has returned administration of our former colony of Italian Somaliland to us from the British. However, they intend this to be a step on the road to decolonisation. ;;;;;;;;;;;;;x;;
+EVTOPTA993002;Very well. ;;;;;;;;;;;;;x;;
+EVTNAME993003;The Trieste Question;;;;;;;;;;;;;x;;
+EVTDESC993003;We must decide what the fate of the territory of Trieste, claimed by both Italy and Yugoslavia, will be. We have a number of options.;;;;;;;;;;;;;x;;
+EVTOPTA993003;Trieste shall go to Italy, Koper shall go to Yugoslavia.;;;;;;;;;;;;;x;;
+EVTOPTB993003;Both Trieste and Koper shall be granted to Italy, although this will anger the Yugoslavians.;;;;;;;;;;;;;x;;
+EVTOPTC993003;Both Trieste and Koper shall be granted to Yugoslavia, although this will anger the Italians.;;;;;;;;;;;;;x;;
+EVTOPTD993003;Trieste shall become an independent city state.;;;;;;;;;;;;;x;;
+EVTOPTE993003;An enlargened Trieste will act as a buffer state between Italy and Yugoslavia, although this will anger both nations.;;;;;;;;;;;;;x;;
+EVTNAME993004;The fate of Trieste;;;;;;;;;;;;;x;;
+EVTDESC993004;The United Nations has made a decision regarding the fate of Trieste. The world waits to see what the response of Italy, Yugoslavia and the USA will be.;;;;;;;;;;;;;x;;
+EVTOPTA993004;Interesting.;;;;;;;;;;;;;x;;
+EVTNAME994001;The Ruhr Agreement;;;;;;;;;;;;;x;;
+EVTDESC994001;"Whereas international security and general economic recovery require:\nthat the resources of the Ruhr shall not in the future be used for the purpose of aggression but shall be used in the interests of peace,\nthat access to the coal, coke and steel of the Ruhr, which was previously subject to the exclusive control of Germany, be in the future assured on an equitable basis to the countries cooperating in the common economic good,\nWhereas it is desirable for the political and economic well being of the countries of Europe cooperating in the common economic good, including a democratic Germany, that there be close association of their economic life. ;;;;;;;;;;;;;x
+EVTOPTA994001;Very well. ;;;;;;;;;;;;;x
+EVTNAME995001;Heligoland Returned!;;;;;;;;;;;;;x
+EVTDESC995001;The formerly North Sea Island of Heligoland, taken from us and occupied by the British after WW2, has been rightfully returned by the British government. However, the cost of rebuilding the Heligoland's infrastructure, completely destroyed during the island's tenure as an RAF bombing target, will be significant. ;;;;;;;;;;;;;x
+signed_the_geneva_convention_title;The Fourth Geneva Convention;La Convention de Genève;Die Genfer Konvention;;;;;;;;;;;x
+signed_the_geneva_convention_desc;Our country is a signatory of the Fourth Geneva Convention;Nous faisons partie des pays signataires de la Convention de Genève.;Unser Land gehört zu den Unterzeichnern der Genfer Konvention.;;;;;;;;;;;x
+sign_the_geneva_convention_title;Sign the Geneva Convention;Signer la Convention de Genève;Genfer Konvention unterschreiben.;;;;;;;;;;;x
+sign_the_geneva_convention_desc;Our country has not yet signed the Geneva convention, delimiting and defining justified conduct of war and the treatment of war wounded. We can still sign it, of course.;Notre pays n'a pas encore signé la Convention de Genève qui définit des règles internationales de protection des personnes lors des conflits armés. Nous pouvons encore la signer, évidemment.;Unser Land hat die Genfer Konvention noch nicht unterschrieben, die die Kriegsführung und die Versorgung der Verwundeten abgrenzt und definiert. Natürlich können wir sie auch noch nachträglich unterschreiben.;;;;;;;;;;;x
+FIN_socialist;Sosialidemokraattinen Puolue;;;;;;;;;;;;;x
+EVTNAME995002;The Treaty of Gorlitz;;;;;;;;;;;;;x
+EVTDESC995002;The Treaty of Gorlitz has been presented to us by the USSR to sign.;;;;;;;;;;;;;x
+EVTNAME995003;East Germany Formed;;;;;;;;;;;;;x
+EVTDESC995003;East Germany has been established as a sovereign Communist state.;;;;;;;;;;;;;x
+EVTOPTA995003;Very well. ;;;;;;;;;;;;;x
+EVTNAME994007;West Germany Formed;;;;;;;;;;;;;x
+EVTDESC994007;West Germany has been established as a sovereign Democratic state.;;;;;;;;;;;;;x
+EVTOPTA994007;Very well. ;;;;;;;;;;;;;x
+EVTNAME994006;The German Question;;;;;;;;;;;;;x
+EVTDESC994006;Shall we proceed with efforts to integrate our German occupation zone into a unified West German state?;;;;;;;;;;;;;x
+EVTOPTA994006;We shall do so. ;;;;;;;;;;;;;x
+EVTOPTB994006;Now is not the time. ;;;;;;;;;;;;;x
+EVTNAME994005;The German Question;;;;;;;;;;;;;x
+EVTDESC994005;Shall we proceed with efforts to integrate our German occupation zone into a unified West German state?;;;;;;;;;;;;;x
+EVTOPTA994005;We shall do so. ;;;;;;;;;;;;;x
+EVTOPTB994005;Now is not the time. ;;;;;;;;;;;;;x
+EVTNAME994004;The German Question;;;;;;;;;;;;;x
+EVTDESC994004;Shall we proceed with efforts to integrate our German occupation zone into a unified West German state?;;;;;;;;;;;;;x
+EVTOPTA994004;We shall do so. ;;;;;;;;;;;;;x
+EVTOPTB994004;Now is not the time. ;;;;;;;;;;;;;x
+EVTNAME994003;Trizonia;;;;;;;;;;;;;x
+EVTDESC994003;As a first step towards West German Unification we could integrate the financial and commercial functions of our occupation zone in German with the British and American zones.;;;;;;;;;;;;;x
+EVTOPTA994003;We shall do so. ;;;;;;;;;;;;;x
+EVTOPTB994003;Now is not the time. ;;;;;;;;;;;;;x
+FIN_liberal;Maalaisliitto;;;;;;;;;;;;;x
+FIN_liberal_2;Keskusta Puolue;;;;;;;;;;;;;x
+FIN_conservative;Kansallinen Kokoomus;;;;;;;;;;;;;x
+FIN_communist;SKDL;;;;;;;;;;;;;x
+FIN_socialist_2;Vasemmistoliitto;;;;;;;;;;;;;x
+FIN_reactionary;Kristillinen Liitto;;;;;;;;;;;;;x
+FIN_anarcho_liberal;Liberaalinen Kansanpuolue;;;;;;;;;;;;;x
+FIN_anarcho_liberal_2;Liberaalit;;;;;;;;;;;;;x
+FIN_liberal_3;Vihrea liitto;;;;;;;;;;;;;x
+FIN_fascist;Suomen Kansan Sinivalkoiset;;;;;;;;;;;;;x
+FIN_fascist_2;Vapauspuolue;;;;;;;;;;;;;x
+FIN_reactionary_2;Suomen Maaseudun Puolue;;;;;;;;;;;;;x
+FIN_reactionary_3;Perussuomalaiset;;;;;;;;;;;;;x
+FIN_communist_2;Suomen Kommunistinen Puolue;;;;;;;;;;;;;x
+FIN_anarcho_liberal_3;Muutos 2011;;;;;;;;;;;;;x
+FIN_conservative_2;Svenska folkpartiet;;;;;;;;;;;;;x
+ENG_liberal;Liberal Party;;;;;;;;;;;;;x
+ENG_liberal_2;Liberal-SPD;;;;;;;;;;;;;x
+ENG_liberal_3;Liberal-Democrats;;;;;;;;;;;;;x
+ENG_communist;CPGB;;;;;;;;;;;;;x
+ENG_communist_2;Communist Party of Britain;;;;;;;;;;;;;x
+ENG_reactionary;UKIP;;;;;;;;;;;;;x
+ENG_fascist;National Front;;;;;;;;;;;;;x
+ENG_fascist_2;BNP;;;;;;;;;;;;;x
+ENG_socialist;Green Party;;;;;;;;;;;;;x
+ENG_socialist_2;Labour;;;;;;;;;;;;;x
+ENG_socialist_3;New Labour;;;;;;;;;;;;;x
+ENG_socialist_4;Socialist Party;;;;;;;;;;;;;x
+ENG_fascist_3;Union Movement;;;;;;;;;;;;;x
+ENG_conservative;Conservative Party;;;;;;;;;;;;;x
+ENG_conservative_2;Thatcherites;;;;;;;;;;;;;x
+ENG_reactionary_2;Democratic Unionist Party;;;;;;;;;;;;;x
+ENG_anarcho_liberal;Anarchist Federation;;;;;;;;;;;;;x
+ENG_anarcho_liberal_2;Anarchist Party;;;;;;;;;;;;;x
+NOR_arbeiderpartiet;Arbeiderpartiet;;;;;;;;;;;;;x
+NOR_arbeiderpartiet_2;Arbeiderpartiet;;;;;;;;;;;;;x
+NOR_hoyre;Høyre;;;;;;;;;;;;;x
+NOR_venstre;Venstre;;;;;;;;;;;;;x
+NOR_anders_langes_parti;Anders Langes Parti;;;;;;;;;;;;;x
+NOR_fremskrittspartiet;Fremskrittspartiet;;;;;;;;;;;;;x
+NOR_bondepartiet;Bondepartiet;;;;;;;;;;;;;x
+NOR_senterpartiet;Senterpartiet;;;;;;;;;;;;;x
+NOR_senterpartiet_2;Senterpartiet;;;;;;;;;;;;;x
+NOR_kristelig_folkeparti;Kristelig Folkeparti;;;;;;;;;;;;;x
+NOR_sosialistisk_folkeparti;Sosialistisk Folkeparti;;;;;;;;;;;;;x
+NOR_sosialistisk_venstreparti;Sosialistisk Venstreparti;;;;;;;;;;;;;x
+NOR_norges_kommunistiske_parti;Norges Kommunistiske Parti;;;;;;;;;;;;;x
+NOR_rod_valgallianse;Rød Valgallianse;;;;;;;;;;;;;x
+NOR_rodt;Rødt;;;;;;;;;;;;;x
+POL_liberal;Stronnictwo Demokratyczne;;;;;;;;;;;;;x
+POL_communist;PZPR;;;;;;;;;;;;;x
+POL_socialist;Zjednoczone Stronnictwo Ludowe;;;;;;;;;;;;;x
+POL_liberal_2;Polish People's Party;;;;;;;;;;;;;x
+POL_conservative;Unia Polityki Realnej;;;;;;;;;;;;;x
+POL_reactionary;Liga Polskich Rodzin;;;;;;;;;;;;;x
+POL_reactionary_2;Narodowa Demokracja;;;;;;;;;;;;;x
+POL_fascist;Sanacja;;;;;;;;;;;;;x
+POL_fascist_2;Konfederacja Polski Niepodleglej;;;;;;;;;;;;;x
+POL_socialist_2;SLD;;;;;;;;;;;;;x
+POL_conservative_2;Civic Platform;;;;;;;;;;;;;x
+POL_conservative_3;Law and Justice;;;;;;;;;;;;;x
+POL_communist_2;Communist Party of Poland;;;;;;;;;;;;;x
+POL_socialist_3;Polish Socialist Party;;;;;;;;;;;;;x
+POL_anarcho_liberal;Unia Wolnosci;;;;;;;;;;;;;x
+POL_fascist_3;National Radical Camp;;;;;;;;;;;;;x
+POL_conservative_4;Centrolew;;;;;;;;;;;;;x
+BRZ_partido_dos_trabalhadores;Partido dos Trabalhadores;;;;;;;;;;;;;x
+BRZ_partido_da_social_democracia_brasileira;Partido da Social Democracia Brasileira;;;;;;;;;;;;;x
+USA_democratic_party;Democratic Party;;;;;;;;;;;;;x
+establish_a_constitution_title;Establish a Constitution;;;;;;;;;;;;;x
+establish_a_constitution_desc;It is time to establish a modern constitution for our nation, distinct from our British colonial past. It shall also be an opportunity to attempt to unite our divided population. ;;;;;;;;;;;;;x
+establish_a_modern_capital_title;Establish a Modern Capital;;;;;;;;;;;;;x
+establish_a_modern_capital_desc;The time has come for us to establish Islamabad as a new and modern capital for our nation. Karachi is vulnerable to attack from the coast and it's infrastructure has become strained by it's burgeoning population. Islamabad's more central location will also serve to further unite our geographically divided population. ;;;;;;;;;;;;;x
+return_heligoland_title;Return Heligoland;;;;;;;;;;;;;x
+return_heligoland_desc;Since the end of WW2 the German island of Heligoland, occupying a strategic location in the North Sea, has been under British occupation and has been used as a bombing target by our Air Force. Now that West Germany is reintegrating itself into western europe, and voices are growing for the island's return, it may be best to return the island to West Germany in order to promote a cooperative future. ;;;;;;;;;;;;;x
+hold_festival_of_britain_title;Hold the Festival of Britain;;;;;;;;;;;;;x
+hold_festival_of_britain_desc;The Festival of Britain was a national exhibition which opened in London and around Britain in 1951. The Festival presents us an opportunity to give Britons a feeling of recovery and progress and to promote better-quality design in the rebuilding of British towns and cities following the war. ;;;;;;;;;;;;;x
+republic_of_ireland_title;Republic of Ireland Act;;;;;;;;;;;;;x
+republic_of_ireland_desc;Ireland had been a de facto republic since 1936 but only with the Republic of Ireland Act were the last vestiges of the British Empire abolished by law, firmly establishing the Irish President as the official head of state and the Republic of Ireland as the state's official description.;;;;;;;;;;;;;x
+";;;;;;;;;;;;;;;
