@@ -7,8 +7,8 @@ life_rating = 35
 
 1949.1.1 = {
 
-owner = WGR
-controller = WGR
+owner = ENG
+controller = ENG
 add_core = WGR
 add_core = EGR
 
