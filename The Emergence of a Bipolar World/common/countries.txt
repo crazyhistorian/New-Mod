@@ -495,7 +495,6 @@ SAF = "countries/South Africa.txt"
 SAK = "countries/Siak.txt"
 SAL = "countries/Salish.txt"
 SAR = "countries/Sardinia-Piedmont.txt"
-SAU = "countries/Saudi.txt"
 SAV = "countries/Savoy.txt"
 SAX = "countries/Saxony.txt"
 SBA = "countries/Shiba.txt"
@@ -8995,6 +8994,7 @@ REB 	= 	"countries/rebels.txt"
 # New Countries
 WGR		= "countries/West Germany.txt"
 EGR		= "countries/East Germany.txt"
+SAU 		= "countries/Saudi.txt"
 
 
 # Common Great Powers

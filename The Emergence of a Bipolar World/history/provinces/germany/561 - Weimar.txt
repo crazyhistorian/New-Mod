@@ -8,8 +8,9 @@ railroad = 3
 
 1949.1.1 = {
 
-owner = RUS
-controller = RUS
+owner = EGR
+controller = EGR
 add_core = EGR
+add_core = WGR
 
 }

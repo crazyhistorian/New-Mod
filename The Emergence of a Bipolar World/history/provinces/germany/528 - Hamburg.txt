@@ -14,8 +14,9 @@ state_building = {
 
 1949.1.1 = {
 
-owner = ENG
-controller = ENG
+owner = WGR
+controller = WGR
+add_core = WGR
 add_core = EGR
 
 }

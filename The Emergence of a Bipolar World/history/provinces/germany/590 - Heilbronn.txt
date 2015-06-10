@@ -7,8 +7,10 @@ life_rating = 35
 
 1949.1.1 = {
 
-owner = USA
-controller = USA
+owner = WGR
+controller = WGR
+add_core = WGR
 add_core = EGR
+
 
 }

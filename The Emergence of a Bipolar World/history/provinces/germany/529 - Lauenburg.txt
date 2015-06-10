@@ -7,9 +7,9 @@ life_rating = 35
 railroad = 3
 
 1949.1.1 = {
-
-owner = ENG
-controller = ENG
+owner = WGR
+controller = WGR
+add_core = WGR
 add_core = EGR
 
 }
