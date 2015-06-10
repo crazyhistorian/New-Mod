@@ -1,5 +1,5 @@
-owner = ARM
-controller = ARM
+owner = RUS
+controller = RUS
 add_core = RUS
 add_core = ARM
 trade_goods = iron
@@ -7,10 +7,8 @@ life_rating = 35
 
 1949.1.1 = {
 
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = ARM
+
+
 add_core = AZB
 
 }

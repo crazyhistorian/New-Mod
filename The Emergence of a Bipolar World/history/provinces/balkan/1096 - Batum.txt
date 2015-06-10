@@ -1,5 +1,5 @@
-owner = GEO
-controller = GEO
+owner = RUS
+controller = RUS
 add_core = TUR
 add_core = GEO
 trade_goods = tea
@@ -8,7 +8,6 @@ life_rating = 35
 1949.1.1 = {
 
 remove_core = TUR
-owner = RUS
-controller = RUS
+
 
 }
