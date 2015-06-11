@@ -1,0 +1,13 @@
+owner= ENL
+controller= ENL
+trade_goods = cotton
+life_rating = 35
+colonial=2
+
+1701.9.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}

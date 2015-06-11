@@ -1,0 +1,12 @@
+trade_goods = fish
+life_rating = 35
+
+1756.5.15 = {
+
+owner= DEN
+controller= DEN
+add_core= DEN
+colonial=2
+naval_base = 1
+
+}

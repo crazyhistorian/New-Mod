@@ -1,0 +1,36 @@
+
+bookmark =
+{
+	name = "Thirty Years War"
+	desc = "GC_DESC"
+	date = 1618.5.23
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "War of the Spanish Succesion"
+	desc = "GC_DESC"
+	date = 1701.9.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "War of the Quadruple Alliance"
+	desc = "GC_DESC"
+	date = 1718.12.17
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "Seven Years War"
+	desc = "GC_DESC"
+	date = 1756.5.15
+	cameraX = 2950 
+	cameraY = 1550
+}

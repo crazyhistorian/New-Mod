@@ -1,0 +1,6 @@
+owner= MGD
+controller= MGD
+add_core= MGD
+trade_goods = iron
+life_rating = 30
+naval_base = 1

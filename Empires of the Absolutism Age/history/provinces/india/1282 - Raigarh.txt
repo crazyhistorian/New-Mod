@@ -1,0 +1,14 @@
+owner= NGP
+controller= NGP
+add_core= NGP
+add_core= GDW
+trade_goods = grain
+life_rating = 32
+
+1756.5.15 = {
+
+owner= NAG
+controller= NAG
+add_core= NAG
+
+}

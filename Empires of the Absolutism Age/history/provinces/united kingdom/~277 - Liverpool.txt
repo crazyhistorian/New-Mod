@@ -1,0 +1,12 @@
+owner= ENL
+controller= ENL
+add_core= ENL
+trade_goods = fish
+life_rating = 40
+railroad = 1
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

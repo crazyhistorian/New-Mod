@@ -1,0 +1,371 @@
+783 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=870
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=2093
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=345
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=59
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=363
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=32433
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=775
+	}
+
+}
+784 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=588
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=1938
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=250
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=40
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=245
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=21914
+	}
+
+}
+785 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=682
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=2248
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=290
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=46
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=284
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=25421
+	}
+
+}
+786 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=987
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=3255
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=420
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=67
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=412
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=36817
+	}
+
+}
+787 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=541
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=1783
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=37
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=23
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=225
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=20161
+	}
+
+}
+788 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=611
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=2015
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=260
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=42
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=255
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=22791
+	}
+
+}
+789 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size=802
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size=2645
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size=341
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=55
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = orthodox
+		size=34
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size=334
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size=29914
+	}
+
+}

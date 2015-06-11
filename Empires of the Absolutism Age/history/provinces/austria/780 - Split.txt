@@ -1,0 +1,18 @@
+owner= TUR
+controller= TUR
+add_core= CRO
+add_core= VEN
+add_core= TUR
+trade_goods = fish
+life_rating = 35
+
+1701.9.1 = {
+
+owner= VEN
+controller= VEN
+add_core= VEN
+add_core= YUG
+remove_core = TUR
+naval_base = 1
+
+}

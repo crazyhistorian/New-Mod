@@ -1,0 +1,190 @@
+2239 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=14000
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=278
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=952
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=147
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=31
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=133
+	}
+
+}
+2242 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=9000
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=93
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=370
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=93
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=16
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=71
+	}
+
+}
+1979 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=19
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=65
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=10
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=9
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=894
+	}
+
+}

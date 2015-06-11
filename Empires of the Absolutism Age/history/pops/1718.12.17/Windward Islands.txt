@@ -1,0 +1,367 @@
+2229 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=22000
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=590
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=1945
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=251
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=58
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=246
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=318
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=8
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=26
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3931
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=98
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=323
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=42
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=10
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=41
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=1057
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=21
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=73
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=11
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=10
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3442
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=69
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=236
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=36
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=8
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=33
+	}
+
+}
+2233 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size=20
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size=250
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size=5
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size=200
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=50
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=75
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=6725
+	}
+
+}
+2409 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size=10
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size=130
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size=100
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=50
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=200
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=50
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=4700
+	}
+
+}

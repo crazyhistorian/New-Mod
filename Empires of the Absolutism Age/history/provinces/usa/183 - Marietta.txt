@@ -1,0 +1,12 @@
+trade_goods = cotton
+life_rating = 35
+
+1701.9.1 = {
+
+owner= IRO
+controller= IRO
+add_core= SHA
+add_core= HUR
+add_core= IRO
+
+}

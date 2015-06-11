@@ -1,0 +1,17 @@
+owner= MIK
+controller= MIK
+add_core= MIK
+trade_goods = fish
+life_rating = 35
+fort = 1
+
+1756.5.15 = {
+
+owner= ENG
+controller= ENG
+add_core= X00
+add_core= ENG
+colonial=2
+naval_base = 1
+
+}

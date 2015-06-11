@@ -1,0 +1,15 @@
+owner= TUR
+controller= TUR
+add_core= FZA
+add_core= TRI
+add_core= TUR
+trade_goods = wool
+life_rating = 35
+
+1718.12.17 = {
+
+owner= TRI
+controller= TRI
+remove_core = TUR
+
+}

@@ -1,0 +1,15 @@
+owner= MAG
+controller= MAG
+add_core= MAG
+add_core= NGF
+add_core= GER
+trade_goods = fruit
+life_rating = 40
+
+1701.9.1 = {
+
+owner= PRU
+controller= PRU
+add_core= PRU
+
+}

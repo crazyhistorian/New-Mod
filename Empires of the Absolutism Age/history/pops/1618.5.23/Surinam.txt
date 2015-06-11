@@ -1,0 +1,102 @@
+2240 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=12000
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=231
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=790
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=122
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=26
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=111
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=37
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=127
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=20
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=18
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1742
+	}
+
+}

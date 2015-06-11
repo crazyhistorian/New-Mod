@@ -1,0 +1,24 @@
+owner= WAL
+controller= WAL
+add_core= WAL
+add_core= TUR
+add_core= ROM
+trade_goods = grain
+life_rating = 35
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = TUR
+
+}
+
+1756.5.15 = {
+
+owner= WAL
+controller= WAL
+remove_core= AUS
+
+}

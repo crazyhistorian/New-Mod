@@ -1,0 +1,10 @@
+trade_goods = iron
+life_rating = 35
+
+1756.5.15 = {
+
+owner= PIM
+controller= PIM
+add_core= PIM
+
+}

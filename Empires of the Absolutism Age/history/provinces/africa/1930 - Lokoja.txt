@@ -1,0 +1,7 @@
+owner= NUP
+controller= NUP
+add_core= NUP
+add_core= BEN
+trade_goods = cattle
+life_rating = 35
+colonial=2

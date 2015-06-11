@@ -1,0 +1,15 @@
+owner= FUL
+controller= FUL
+add_core= ZAF
+add_core= SON
+add_core= FUL
+trade_goods = fruit
+life_rating = 15
+
+1701.9.1 = {
+
+owner= SGU
+controller= SGU
+add_core= SGU
+
+}

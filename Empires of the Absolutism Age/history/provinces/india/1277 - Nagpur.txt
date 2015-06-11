@@ -1,0 +1,23 @@
+owner= CHD
+controller= CHD
+add_core= CHD
+add_core= BRR
+trade_goods = dye
+life_rating = 32
+
+1701.9.1 = {
+
+owner= GDW
+controller= GDW
+add_core= GDW
+
+}
+
+1756.5.15 = {
+
+owner= NAG
+controller= NAG
+add_core= NAG
+add_core= HND
+
+}

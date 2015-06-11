@@ -1,0 +1,15 @@
+owner= PER
+controller= PER
+add_core= GEO
+add_core= ARM
+add_core= PER
+add_core= TUR
+trade_goods = iron
+life_rating = 35
+
+1756.5.15 = {
+
+owner= TUR
+controller= TUR
+
+}

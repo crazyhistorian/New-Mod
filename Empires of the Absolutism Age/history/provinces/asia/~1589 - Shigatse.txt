@@ -1,0 +1,5 @@
+owner= UTS
+controller= UTS
+add_core= UTS
+trade_goods = cattle
+life_rating = 30

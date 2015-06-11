@@ -1,0 +1,82 @@
+color = { 140  140  50 }
+graphical_culture = MiddleEasternGC
+
+party = {
+	name = "KZK_conservative"
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "KZK_liberal"
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "KZK_reactionary"
+	start_date = 1949.1.1
+	end_date = 2049.1.1
+
+	ideology = reactionary
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+
+unit_names = {
+	supercarrier = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	fleet_carrier = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	destroyer_squadron = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	heavy_cruiser = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	frigate_squadron = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	light_cruiser = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	troop_transport = {
+		
+	}
+	assault_transport = {
+		
+	}
+	attack_submarine_squadron = {
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Bukhara" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+}

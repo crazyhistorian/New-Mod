@@ -1,0 +1,13 @@
+owner= BON
+controller= BON
+add_core= BON
+trade_goods = coffee
+life_rating = 15
+
+1756.5.15 = {
+
+owner= ASH
+controller= ASH
+add_core= ASH
+
+}

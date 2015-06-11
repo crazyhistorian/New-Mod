@@ -1,0 +1,16 @@
+owner= POM
+controller= POM
+add_core= POM
+add_core= BRD
+add_core= NGF
+add_core= GER
+trade_goods = fruit
+life_rating = 40
+
+1701.9.1 = {
+
+owner= SWE
+controller= SWE
+add_core= SWE
+
+}

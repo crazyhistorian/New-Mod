@@ -1,0 +1,10 @@
+owner= PLC
+controller= PLC
+add_core= POL
+add_core= PRU
+add_core= PLC
+add_core= LUB
+add_core= NGF
+add_core= GER
+trade_goods = cattle
+life_rating = 40

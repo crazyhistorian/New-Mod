@@ -1,0 +1,17 @@
+owner= ENL
+controller= ENL
+trade_goods = fish
+life_rating = 35
+colonial=2
+fort = 1
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= X01
+add_core= ENG
+remove_core= ENL
+naval_base = 1
+
+}

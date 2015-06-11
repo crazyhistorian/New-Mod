@@ -1,0 +1,26 @@
+owner= SPA
+controller= SPA
+add_core= SII
+add_core= SPA
+add_core= ITA
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = SPA
+add_core= NAP
+
+}
+
+1756.5.15 = {
+
+owner= NAP
+controller= NAP
+remove_core = AUS
+
+}

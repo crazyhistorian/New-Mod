@@ -1,0 +1,7 @@
+owner= MRI
+controller= MRI
+add_core= HSK
+add_core= OUC
+add_core= MRI
+trade_goods = timber
+life_rating = 35

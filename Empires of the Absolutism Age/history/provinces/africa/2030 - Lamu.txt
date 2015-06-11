@@ -1,0 +1,14 @@
+owner= MLI
+controller= MLI
+add_core= MLI
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+
+1756.5.15 = {
+
+owner= PTE
+controller= PTE
+add_core= PTE
+
+}

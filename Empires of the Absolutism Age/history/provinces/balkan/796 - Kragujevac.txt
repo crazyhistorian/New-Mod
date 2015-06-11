@@ -1,0 +1,22 @@
+owner= TUR
+controller= TUR
+add_core= SER
+add_core= TUR
+trade_goods = coal
+life_rating = 35
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+add_core= YUG
+
+}
+
+1756.5.15 = {
+
+owner= TUR
+controller= TUR
+
+}

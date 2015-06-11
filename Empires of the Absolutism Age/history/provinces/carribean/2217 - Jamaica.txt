@@ -1,0 +1,28 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X02
+add_core= SPA
+trade_goods = sulphur
+life_rating = 35
+colonial=2
+naval_base = 1
+
+1701.9.1 = {
+
+owner= ENL
+controller= ENL
+add_core= ENL
+remove_core = SPA
+remove_core = X02
+
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}

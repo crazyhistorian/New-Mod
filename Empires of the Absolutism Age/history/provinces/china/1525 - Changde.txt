@@ -1,0 +1,16 @@
+owner= MNG
+controller= MNG
+add_core= MNG
+add_core= CMI
+add_core= CHC
+trade_goods = silk
+life_rating = 32
+
+1701.9.1 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+add_core= WUU
+
+}

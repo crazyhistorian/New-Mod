@@ -1,0 +1,28 @@
+owner= UTS
+controller= UTS
+add_core= UTS
+trade_goods = cattle
+life_rating = 30
+
+1701.9.1 = {
+
+owner= KSD
+controller= KSD
+add_core= KSD
+
+}
+
+1718.12.17 = {
+
+owner= ZUN
+controller= ZUN
+add_core= ZUN
+
+}
+
+1756.5.15 = {
+
+owner= UTS
+controller= UTS
+
+}

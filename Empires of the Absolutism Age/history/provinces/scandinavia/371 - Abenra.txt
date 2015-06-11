@@ -1,0 +1,22 @@
+owner= DEN
+controller= DEN
+add_core= DEN
+add_core= SCA
+trade_goods = cattle
+life_rating = 35
+
+1701.9.1 = {
+
+owner= HOL
+controller= HOL
+add_core= HOL
+
+}
+
+1756.5.15 = {
+
+owner= DEN
+controller= DEN
+add_core= DEN
+
+}

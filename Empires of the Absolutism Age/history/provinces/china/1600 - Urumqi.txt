@@ -1,0 +1,23 @@
+owner= OIR
+controller= OIR
+add_core= CHG
+add_core= OIR
+trade_goods = cotton
+life_rating = 32
+
+1701.9.1 = {
+
+owner= ZUN
+controller= ZUN
+add_core= YRK
+add_core= ZUN
+
+}
+
+1756.5.15 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

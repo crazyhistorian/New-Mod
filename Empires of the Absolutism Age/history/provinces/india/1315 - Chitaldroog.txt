@@ -1,0 +1,22 @@
+owner= KLN
+controller= KLN
+add_core= KLN
+add_core= HND
+trade_goods = tea
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MYS
+controller= MYS
+
+}
+
+1756.5.15 = {
+
+owner= MAR
+controller= MAR
+add_core= MAR
+add_core= HND
+
+}

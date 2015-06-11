@@ -1,0 +1,20 @@
+owner= ENL
+controller= ENL
+add_core= ENL
+trade_goods = fish
+life_rating = 40
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}

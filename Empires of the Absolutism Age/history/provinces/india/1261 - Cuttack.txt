@@ -1,0 +1,17 @@
+owner= MUG
+controller= MUG
+add_core= ORI
+add_core= BNG
+add_core= MUG
+trade_goods = grain
+life_rating = 32
+
+1756.5.15 = {
+
+owner= NAG
+controller= NAG
+add_core= NAG
+add_core= HND
+naval_base = 1
+
+}

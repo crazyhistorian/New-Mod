@@ -1,0 +1,17 @@
+owner= BOH
+controller= BOH
+add_core= BOH
+add_core= SIL
+add_core= AUS
+add_core= POL
+add_core= PLC
+trade_goods = iron
+life_rating = 40
+
+1701.9.1 = {
+
+owner= SAX
+controller= SAX
+add_core= SAX
+
+}

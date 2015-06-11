@@ -1,0 +1,21 @@
+owner= NGP
+controller= NGP
+add_core= NGP
+trade_goods = coal
+life_rating = 28
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+
+}
+
+1718.12.17 = {
+
+owner= BNG
+controller= BNG
+add_core= BNG
+
+}

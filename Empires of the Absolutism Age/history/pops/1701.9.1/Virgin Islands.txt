@@ -1,0 +1,100 @@
+2223 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=1275
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=33
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=109
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=14
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=3
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=27
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=8725
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=226
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=744
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=96
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=22
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=188
+	}
+
+}

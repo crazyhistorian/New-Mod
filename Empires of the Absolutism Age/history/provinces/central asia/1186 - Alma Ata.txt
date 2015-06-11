@@ -1,0 +1,14 @@
+owner= KZH
+controller= KZH
+add_core= KZH
+trade_goods = grain
+life_rating = 35
+
+1756.5.15 = {
+
+owner= CHI
+controller= CHI
+add_core= OIR
+add_core= CHI
+
+}

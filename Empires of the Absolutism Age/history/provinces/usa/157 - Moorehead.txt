@@ -1,0 +1,13 @@
+owner= ASI
+controller= ASI
+add_core= ASI
+trade_goods = timber
+life_rating = 35
+
+1718.12.17 = {
+
+owner= SIO
+controller= SIO
+add_core= SIO
+
+}

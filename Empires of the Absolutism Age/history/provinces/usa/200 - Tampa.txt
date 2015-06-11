@@ -1,0 +1,4 @@
+trade_goods = fruit
+life_rating = 25
+naval_base = 1
+is_slave = yes

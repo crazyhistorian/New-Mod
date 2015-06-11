@@ -1,0 +1,13 @@
+owner= SOS
+controller= SOS
+add_core= MOR
+add_core= SOS
+trade_goods = fish
+life_rating = 30
+
+1701.9.1 = {
+
+owner= MOR
+controller= MOR
+
+}

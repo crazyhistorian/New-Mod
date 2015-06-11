@@ -1,0 +1,735 @@
+770 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=1358
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=4365
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=485
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=87
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=509
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=41638
+	}
+
+}
+771 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=1330
+	}
+
+	craftsmen=
+	{
+		culture = croat
+		religion = catholic
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=4387
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=566
+	}
+
+	clerks=
+	{
+		culture = croat
+		religion = catholic
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=91
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=57
+	}
+
+	capitalists=
+	{
+		culture = croat
+		religion = catholic
+		size=250
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=555
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=46544
+	}
+
+}
+772 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=682
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=2248
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=290
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=46
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=284
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=25421
+	}
+
+}
+773 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=1083
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=3573
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=461
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=74
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=452
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=40411
+	}
+
+}
+774 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=557
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=1837
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=237
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=38
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=24
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=232
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=20775
+	}
+
+}
+775 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=323
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=1105
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=170
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=24
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=155
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=15209
+	}
+
+}
+776 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=245
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=839
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=129
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=18
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=117
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=11542
+	}
+
+}
+777 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=382
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=1307
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=201
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=28
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=183
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=17983
+	}
+
+}
+778 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=306
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=1008
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=21
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=127
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=11395
+	}
+
+}
+779 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=857
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=2932
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=451
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=63
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=410
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=40351
+	}
+
+}
+780 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=1077
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=3461
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=385
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=69
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=404
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=33008
+	}
+
+}
+781 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=752
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=2480
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=320
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=51
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=314
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=28051
+	}
+
+}
+782 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=1008
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=30
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=127
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=4459
+	}
+
+}
+793 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=494
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=1690
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=260
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=36
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=237
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=23262
+	}
+
+}

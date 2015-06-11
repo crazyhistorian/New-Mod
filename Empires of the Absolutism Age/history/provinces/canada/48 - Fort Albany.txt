@@ -1,0 +1,10 @@
+trade_goods = fish
+life_rating = 35
+
+1701.9.1 = {
+
+owner= WCR
+controller= WCR
+add_core= WCR
+
+}

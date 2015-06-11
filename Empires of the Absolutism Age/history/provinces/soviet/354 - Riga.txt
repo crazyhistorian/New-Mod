@@ -1,0 +1,16 @@
+owner= PLC
+controller= PLC
+add_core= RIG
+add_core= PLC
+add_core= NGF
+add_core= GER
+trade_goods = fish
+life_rating = 35
+
+1701.9.1 = {
+
+owner= SWE
+controller= SWE
+add_core= SWE
+
+}

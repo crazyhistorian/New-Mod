@@ -1,0 +1,15 @@
+owner= URB
+controller= URB
+add_core= URB
+add_core= ITA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+
+1701.9.1 = {
+
+owner= PAP
+controller= PAP
+add_core= PAP
+
+}

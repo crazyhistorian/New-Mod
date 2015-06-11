@@ -1,0 +1,15 @@
+owner= PER
+controller= PER
+add_core= AFG
+add_core= KHO
+add_core= PER
+add_core= MUG
+trade_goods = wool
+life_rating = 35
+
+1756.5.15 = {
+
+owner= AFG
+controller= AFG
+
+}

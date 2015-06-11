@@ -1,0 +1,22 @@
+owner= PER
+controller= PER
+add_core= BCS
+add_core= MUG
+add_core= PER
+trade_goods = wool
+life_rating = 35
+
+1701.9.1 = {
+
+owner= BCS
+controller= BCS
+
+}
+
+1756.5.15 = {
+
+owner= AFG
+controller= AFG
+add_core= AFG
+
+}

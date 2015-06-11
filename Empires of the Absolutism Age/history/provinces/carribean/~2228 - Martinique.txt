@@ -1,0 +1,9 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X02
+add_core= SPA
+trade_goods = cotton
+life_rating = 35
+colonial=2
+naval_base = 1

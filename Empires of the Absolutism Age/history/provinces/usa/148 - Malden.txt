@@ -1,0 +1,12 @@
+trade_goods = grain
+life_rating = 35
+
+1756.5.15 = {
+
+owner= FRA
+controller= FRA
+add_core= X04
+add_core= FRA
+colonial=2
+
+}

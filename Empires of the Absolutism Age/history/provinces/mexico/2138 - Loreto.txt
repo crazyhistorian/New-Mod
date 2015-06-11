@@ -1,0 +1,13 @@
+trade_goods = fish
+life_rating = 35
+
+1701.9.1 = {
+
+owner= SPA
+controller= SPA
+add_core= X04
+add_core= SPA
+colonial=2
+naval_base = 1
+
+}

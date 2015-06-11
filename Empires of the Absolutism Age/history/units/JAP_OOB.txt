@@ -1,0 +1,317 @@
+#Sphere of Influence
+
+	AMA=
+	{
+		value=0
+		level=5
+	}
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	ANU=
+	{
+		value=0
+		level=2
+	}
+	ARK=
+	{
+		value=0
+		level=2
+	}
+	BHU=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CHG=
+	{
+		value=0
+		level=2
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DTE=
+	{
+		value=0
+		level=5
+	}
+	GUG=
+	{
+		value=0
+		level=2
+	}
+	HMI=
+	{
+		value=0
+		level=2
+	}
+	HSK=
+	{
+		value=0
+		level=5
+	}
+	IKE=
+	{
+		value=0
+		level=5
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KAM=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=0
+		level=2
+	}
+	KRC=
+	{
+		value=0
+		level=2
+	}
+	KTH=
+	{
+		value=0
+		level=2
+	}
+	LDK=
+	{
+		value=0
+		level=2
+	}
+	LIG=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LXA=
+	{
+		value=0
+		level=2
+	}
+	MAE=
+	{
+		value=0
+		level=5
+	}
+	MCK=
+	{
+		value=0
+		level=2
+	}
+	MHX=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MRI=
+	{
+		value=0
+		level=5
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	OIR=
+	{
+		value=0
+		level=2
+	}
+	OTM=
+	{
+		value=0
+		level=5
+	}
+	OUC=
+	{
+		value=0
+		level=5
+	}
+	PEG=
+	{
+		value=0
+		level=2
+	}
+	PGR=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=5
+	}
+	SBA=
+	{
+		value=0
+		level=5
+	}
+	SHM=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SMZ=
+	{
+		value=0
+		level=5
+	}
+	SYG=
+	{
+		value=0
+		level=2
+	}
+	TOK=
+	{
+		value=0
+		level=2
+	}
+	UES=
+	{
+		value=0
+		level=5
+	}
+	UTS=
+	{
+		value=0
+		level=2
+	}
+	YRK=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Imperial Army"
+	location=1649
+	regiment = {
+		name="1st Fukui Infantry"
+		type=infantry
+		home=1647
+	}
+	regiment = {
+		name="1st Kyoto Cavalry"
+		type=cavalry
+		home=1657
+	}
+	regiment = {
+		name="1st Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+}
+
+navy = {
+	name="Imperial Navy"
+	location=1649
+	ship = {
+		name="1st Edo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Edo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yokohama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Edo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Edo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Yokohama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Edo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Musashi Suigun"
+	location=1649
+	ship = {
+		name="2nd Yokohama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Edo Frigate"
+		type=frigate
+	}
+}
+

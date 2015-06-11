@@ -1,0 +1,13 @@
+owner= MUG
+controller= MUG
+add_core= BCS
+add_core= MUG
+trade_goods = wool
+life_rating = 32
+
+1701.9.1 = {
+
+owner= BCS
+controller= BCS
+
+}

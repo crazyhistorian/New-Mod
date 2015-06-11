@@ -1,0 +1,25 @@
+owner= LUB
+controller= LUB
+add_core= LUB
+add_core= NGF
+add_core= GER
+trade_goods = fish
+life_rating = 40
+
+1701.9.1 = {
+
+owner= SWE
+controller= SWE
+add_core= SWE
+naval_base = 1
+fort = 1
+
+}
+
+1756.5.15 = {
+
+owner= HAN
+controller= HAN
+add_core= HAN
+
+}

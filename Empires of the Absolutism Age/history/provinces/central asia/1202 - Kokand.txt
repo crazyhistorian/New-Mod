@@ -1,0 +1,14 @@
+owner= BUK
+controller= BUK
+add_core= YRK
+add_core= BUK
+trade_goods = grain
+life_rating = 35
+
+1718.12.17 = {
+
+owner= KOK
+controller= KOK
+add_core= KOK
+
+}

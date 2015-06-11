@@ -1,0 +1,5 @@
+owner= MUG
+controller= MUG
+add_core= BCS
+trade_goods = tea
+life_rating = 35

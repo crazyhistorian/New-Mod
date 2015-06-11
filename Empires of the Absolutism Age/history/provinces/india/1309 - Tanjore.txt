@@ -1,0 +1,24 @@
+owner= MDR
+controller= MDR
+add_core= VIJ
+add_core= MDR
+add_core= HND
+trade_goods = dye
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+add_core= BIJ
+
+}
+
+1718.12.17 = {
+
+owner= KRK
+controller= KRK
+add_core= KRK
+
+}

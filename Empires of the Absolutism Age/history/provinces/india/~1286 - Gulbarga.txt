@@ -1,0 +1,6 @@
+owner= BIJ
+controller= BIJ
+add_core= BIJ
+add_core= BAH
+trade_goods = cotton
+life_rating = 32

@@ -1,0 +1,14 @@
+owner= MYR
+controller= MYR
+add_core= MYR
+trade_goods = coal
+life_rating = 32
+naval_base = 1
+
+1701.9.1 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

@@ -1,0 +1,26 @@
+owner= POR
+controller= POR
+add_core= MBA
+add_core= MLI
+add_core= POR
+trade_goods = grain
+life_rating = 15
+colonial = 2
+
+1701.9.1 = {
+
+owner= OMA
+controller= OMA
+add_core= OMA
+remove_core= POR
+colonial = no
+
+}
+
+1756.5.15 = {
+
+owner= MBA
+controller= MBA
+add_core= MBA
+
+}

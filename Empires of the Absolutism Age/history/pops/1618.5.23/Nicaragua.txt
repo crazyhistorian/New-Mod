@@ -1,0 +1,218 @@
+2197 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1128
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=3720
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=77
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=470
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=42077
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=235
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=775
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=16
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=98
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=8766
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=306
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=1008
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=21
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=127
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=11395
+	}
+
+}
+2200 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size=15
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size=25
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size=10
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size=900
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=50
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size=1800
+	}
+
+}

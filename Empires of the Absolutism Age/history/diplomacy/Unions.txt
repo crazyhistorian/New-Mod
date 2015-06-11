@@ -1,0 +1,39 @@
+union=
+{
+	first="ENL"
+	second="SCO"
+	start_date="1603.3.24"
+	end_date="1718.12.16"
+}
+
+union=
+{
+	first="SPA"
+	second="POR"
+	start_date="1580.8.26"
+	end_date="1701.8.31"
+}
+
+union=
+{
+	first="ENL"
+	second="NET"
+	start_date="1689.2.13"
+	end_date="1718.12.16"
+}
+
+union=
+{
+	first="SAX"
+	second="PLC"
+	start_date="1697.1.1"
+	end_date="1756.5.14"
+}
+
+union=
+{
+	first="ENG"
+	second="HAN"
+	start_date="1714.8.1"
+	end_date="1776.7.3"
+}

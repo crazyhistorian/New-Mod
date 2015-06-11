@@ -1,0 +1,400 @@
+alliance=
+{
+	first="ENG"
+	second="HES"
+	start_date="1740.5.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENG"
+	second="IRO"
+	start_date="1756.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENG"
+	second="PRU"
+	start_date="1756.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="BAV"
+	start_date="1701.3.9"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="FRA"
+	second="KOL"
+	start_date="1701.3.9"
+	end_date="1718.12.17"
+}
+
+alliance=
+{
+	first="FRA"
+	second="ENG"
+	start_date="1717.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="DEN"
+	second="BRE"
+	start_date="1618.5.22"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="DEN"
+	second="LUN"
+	start_date="1618.5.22"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="DEN"
+	second="BRA"
+	start_date="1618.5.22"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="DEN"
+	second="ANH"
+	start_date="1618.5.22"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="DEN"
+	second="BRD"
+	start_date="1715.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="DEN"
+	second="HAN"
+	start_date="1715.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="PRU"
+	second="HAN"
+	start_date="1715.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="PRU"
+	second="BRA"
+	start_date="1756.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ENL"
+	second="POR"
+	start_date="1373.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="AUS"
+	second="SPA"
+	start_date="1521.4.28"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="AUS"
+	second="BAV"
+	start_date="1521.4.28"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="AUS"
+	second="NET"
+	start_date="1689.5.12"
+	end_date="1718.12.17"
+}
+
+alliance=
+{
+	first="AUS"
+	second="ENL"
+	start_date="1689.5.12"
+	end_date="1718.12.17"
+}
+
+alliance=
+{
+	first="AUS"
+	second="TUS"
+	start_date="1736.2.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AUS"
+	second="RUS"
+	start_date="1746.5.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPA"
+	second="PAR"
+	start_date="1748.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DEC"
+	second="FRA"
+	start_date="1750.12.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SAX"
+	second="PLC"
+	start_date="1709.9.8"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="RUS"
+	second="PLC"
+	start_date="1699.11.21"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="RUS"
+	second="SAX"
+	start_date="1699.11.21"
+	end_date="1718.12.17"
+}
+
+alliance=
+{
+	first="RUS"
+	second="DEN"
+	start_date="1709.10.11"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="RUS"
+	second="PRU"
+	start_date="1713.9.18"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="RUS"
+	second="HAN"
+	start_date="1715.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="PAL"
+	second="ANH"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="PAL"
+	second="WUR"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="PAL"
+	second="BAD"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="PAL"
+	second="ANS"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="PAL"
+	second="HES"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="PAL"
+	second="BRD"
+	start_date="1608.5.4"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="AMD"
+	second="GOC"
+	start_date="1615.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="AMD"
+	second="BIJ"
+	start_date="1615.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="LUB"
+	second="OLD"
+	start_date="1380.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="LUB"
+	second="MAG"
+	start_date="1380.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="LUB"
+	second="LUN"
+	start_date="1380.1.1"
+	end_date="1701.8.31"
+}
+
+alliance=
+{
+	first="LUB"
+	second="BRE"
+	start_date="1380.1.1"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="MUG"
+	second="MYS"
+	start_date="1684.1.1"
+	end_date="1718.12.17"
+}
+
+alliance=
+{
+	first="MEW"
+	second="RAJ"
+	start_date="1707.3.15"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="MEW"
+	second="JAS"
+	start_date="1707.3.15"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="MEW"
+	second="JAN"
+	start_date="1707.3.15"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="RAJ"
+	second="JAN"
+	start_date="1707.3.15"
+	end_date="1756.5.14"
+}
+
+alliance=
+{
+	first="MAR"
+	second="BER"
+	start_date="1721.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MAR"
+	second="GWA"
+	start_date="1721.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MAR"
+	second="NAG"
+	start_date="1741.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GWA"
+	second="BER"
+	start_date="1741.1.1"
+	end_date="1936.1.1"
+}
+

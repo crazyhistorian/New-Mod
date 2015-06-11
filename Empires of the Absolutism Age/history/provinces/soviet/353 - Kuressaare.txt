@@ -1,0 +1,23 @@
+owner= DEN
+controller= DEN
+add_core= DEN
+add_core= UBD
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+
+1701.9.1 = {
+
+owner= SWE
+controller= SWE
+add_core= SWE
+
+}
+
+1756.5.15 = {
+
+owner= RUS
+controller= RUS
+add_core= RUS
+
+}

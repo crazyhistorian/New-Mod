@@ -1,0 +1,21 @@
+owner= MUG
+controller= MUG
+add_core= GDW
+add_core= MUG
+trade_goods = grain
+life_rating = 32
+
+1718.12.17 = {
+
+owner= GDW
+controller= GDW
+
+}
+
+1756.5.15 = {
+
+owner= NAG
+controller= NAG
+add_core= NAG
+
+}

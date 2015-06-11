@@ -1,0 +1,11 @@
+trade_goods = fish
+life_rating = 30
+
+1701.9.1 = {
+
+owner= NET
+controller= NET
+add_core= NET
+colonial=2
+
+}

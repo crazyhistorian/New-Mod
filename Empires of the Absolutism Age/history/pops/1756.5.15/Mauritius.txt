@@ -1,0 +1,158 @@
+2125 = {
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=116
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=381
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=49
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=11
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = animist
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=48
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=4305
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=49
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=161
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=21
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=5
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=20
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1824
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=413
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=1360
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=176
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=40
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=172
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=15374
+	}
+
+}
+2128 = {
+	farmers=
+	{
+		culture = african_minor
+		religion = catholic
+		size=175
+	}
+
+}

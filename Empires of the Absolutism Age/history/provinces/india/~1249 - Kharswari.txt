@@ -1,0 +1,5 @@
+owner= NGP
+controller= NGP
+add_core= NGP
+trade_goods = coal
+life_rating = 28

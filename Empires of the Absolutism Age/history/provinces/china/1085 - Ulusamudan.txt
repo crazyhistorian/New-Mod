@@ -1,0 +1,13 @@
+owner= MYR
+controller= MYR
+add_core= MYR
+trade_goods = grain
+life_rating = 32
+
+1701.9.1 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

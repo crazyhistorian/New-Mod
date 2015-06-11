@@ -1,0 +1,23 @@
+owner= JOD
+controller= JOD
+add_core= NGA
+add_core= JOD
+add_core= MEW
+add_core= HND
+trade_goods = tea
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+
+}
+
+1718.12.17 = {
+
+owner= JOD
+controller= JOD
+
+}

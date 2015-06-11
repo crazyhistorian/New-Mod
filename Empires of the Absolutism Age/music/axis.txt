@@ -1,0 +1,38 @@
+####################
+# Axis Songs
+####################
+song = {
+	name = "Germany1.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			
+			tag = GER
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = GER }
+		}
+	}
+}
+
+song = {
+	name = "Germany2.mp3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			tag = GER
+		}
+
+		modifier = {
+			factor = 0
+
+			NOT = { tag = GER }
+		}
+	}	
+}

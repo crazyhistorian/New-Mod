@@ -1,0 +1,6 @@
+owner= DTE
+controller= DTE
+add_core= HSK
+add_core= DTE
+trade_goods = timber
+life_rating = 35

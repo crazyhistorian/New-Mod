@@ -1,0 +1,10 @@
+trade_goods = tobacco
+life_rating = 35
+
+1756.5.15 = {
+
+owner= SHA
+controller= SHA
+add_core= SHA
+
+}

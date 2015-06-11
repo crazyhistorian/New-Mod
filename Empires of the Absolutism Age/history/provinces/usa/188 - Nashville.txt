@@ -1,0 +1,18 @@
+trade_goods = grain
+life_rating = 35
+
+1701.9.1 = {
+
+owner= SHA
+controller= SHA
+add_core= SHA
+
+}
+
+1718.12.17 = {
+
+owner= CHE
+controller= CHE
+add_core= CHE
+
+}

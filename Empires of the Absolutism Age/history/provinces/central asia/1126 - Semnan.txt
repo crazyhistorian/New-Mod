@@ -1,0 +1,13 @@
+owner= PER
+controller= PER
+add_core= PER
+add_core= KHO
+trade_goods = coal
+life_rating = 35
+
+1756.5.15 = {
+
+owner= KHO
+controller= KHO
+
+}

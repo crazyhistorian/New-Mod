@@ -1,0 +1,267 @@
+2197 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1128
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=3720
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=77
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=470
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=42077
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=235
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=775
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=16
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=98
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=8766
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=306
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=1008
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=21
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=127
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=11395
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=1017
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=15
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=61
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=15
+	}
+
+	bureaucrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=12
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size=403
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=982
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size=35
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size=114
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size=15
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=2
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size=14
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size=311
+	}
+
+}

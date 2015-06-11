@@ -1,0 +1,13 @@
+owner= HUR
+controller= HUR
+add_core= HUR
+trade_goods = grain
+life_rating = 35
+
+1701.9.1 = {
+
+owner= OJI
+controller= OJI
+add_core= OJI
+
+}
