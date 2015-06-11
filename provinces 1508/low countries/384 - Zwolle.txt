@@ -1,0 +1,7 @@
+owner= GEL
+controller= GEL
+add_core= GEL
+add_core= UTR
+add_core= AUS
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,13 @@
+owner= FRA
+controller= FRA
+add_core= LOR
+add_core= FRA
+trade_goods = coal
+life_rating = 40
+fort = 1
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

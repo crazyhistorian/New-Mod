@@ -1,0 +1,6 @@
+owner= BGA
+controller= BGA
+add_core= BGA
+add_core= HND
+trade_goods = grain
+life_rating = 32

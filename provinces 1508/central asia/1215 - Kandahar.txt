@@ -1,0 +1,6 @@
+owner= BUK
+controller= BUK
+add_core= AFG
+add_core= KHO
+trade_goods = wool
+life_rating = 35

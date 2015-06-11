@@ -1,0 +1,6 @@
+owner= TRT
+controller= TRT
+add_core= TRT
+add_core= HND
+trade_goods = opium
+life_rating = 32

@@ -1,0 +1,6 @@
+owner= OTM
+controller= OTM
+add_core= OTM
+add_core= SMZ
+trade_goods = coal
+life_rating = 35

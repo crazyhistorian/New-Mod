@@ -1,0 +1,6 @@
+owner= MHX
+controller= MHX
+add_core= KRC
+add_core= MHX
+trade_goods = cattle
+life_rating = 35

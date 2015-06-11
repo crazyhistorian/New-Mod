@@ -1,0 +1,11 @@
+owner= PLC
+controller= PLC
+add_core= DZG
+add_core= POL
+add_core= PRU
+add_core= PLC
+add_core= LUB
+
+
+trade_goods = fish
+life_rating = 40

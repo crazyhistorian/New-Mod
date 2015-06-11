@@ -1,0 +1,4 @@
+owner= KHA
+controller= KHA
+trade_goods = timber
+life_rating = 32

@@ -1,0 +1,7 @@
+owner= HJO
+controller= HJO
+add_core= JAP
+add_core= UES
+add_core= HJO
+trade_goods = grain
+life_rating = 35

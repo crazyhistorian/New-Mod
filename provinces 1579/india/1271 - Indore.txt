@@ -1,0 +1,8 @@
+owner= MUG
+controller= MUG
+add_core= CMP
+add_core= GUJ
+add_core= MUG
+add_core= MLW
+trade_goods = cotton
+life_rating = 32

@@ -1,0 +1,6 @@
+owner= HSK
+controller= HSK
+add_core= HSK
+add_core= CSK
+trade_goods = tobacco
+life_rating = 35

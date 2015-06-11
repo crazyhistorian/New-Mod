@@ -1,0 +1,6 @@
+owner= MHX
+controller= MHX
+add_core= KRC
+add_core= MHX
+trade_goods = coal
+life_rating = 32

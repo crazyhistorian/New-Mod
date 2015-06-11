@@ -1,0 +1,6 @@
+owner= OTM
+controller= OTM
+add_core= OUC
+add_core= OTM
+trade_goods = coal
+life_rating = 35

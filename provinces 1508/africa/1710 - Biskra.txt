@@ -1,0 +1,5 @@
+owner= TGT
+controller= TGT
+add_core= TGT
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,5 @@
+owner= NAX
+controller= NAX
+add_core= NAX
+trade_goods = fish
+life_rating = 35

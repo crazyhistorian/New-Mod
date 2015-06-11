@@ -1,0 +1,6 @@
+owner= MLW
+controller= MLW
+add_core= GDW
+add_core= MLW
+trade_goods = dye
+life_rating = 32

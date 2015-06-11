@@ -1,0 +1,7 @@
+owner= KRC
+controller= KRC
+add_core= KRC
+add_core= YAN
+add_core= JIN
+trade_goods = tea
+life_rating = 32

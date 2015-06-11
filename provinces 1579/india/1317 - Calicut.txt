@@ -1,0 +1,8 @@
+owner= MAB
+controller= MAB
+add_core= MAB
+add_core= VIJ
+add_core= KLN
+add_core= HND
+trade_goods = tea
+life_rating = 32

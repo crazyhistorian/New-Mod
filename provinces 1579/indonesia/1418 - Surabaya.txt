@@ -1,0 +1,5 @@
+owner= DMK
+controller= DMK
+add_core= DMK
+trade_goods = sulphur
+life_rating = 30

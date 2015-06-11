@@ -1,0 +1,6 @@
+owner= MLC
+controller= MLC
+add_core= MLC
+add_core= PRK
+trade_goods = timber
+life_rating = 30

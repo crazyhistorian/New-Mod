@@ -1,0 +1,6 @@
+owner= MLW
+controller= MLW
+add_core= CMP
+add_core= MLW
+trade_goods = cotton
+life_rating = 32

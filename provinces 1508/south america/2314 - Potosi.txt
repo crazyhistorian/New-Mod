@@ -1,0 +1,7 @@
+owner= INC
+controller= INC
+add_core= CRA
+add_core= INC
+add_core= PCJ
+trade_goods = grain
+life_rating = 30

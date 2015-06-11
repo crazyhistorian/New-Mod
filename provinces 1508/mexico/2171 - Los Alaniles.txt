@@ -1,0 +1,5 @@
+owner= CMA
+controller= CMA
+add_core= CMA
+trade_goods = grain
+life_rating = 35

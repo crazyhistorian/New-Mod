@@ -1,0 +1,8 @@
+owner= SPA
+controller= SPA
+add_core= INC
+add_core= X06
+add_core= SPA
+trade_goods = iron
+life_rating = 35
+colonial=2

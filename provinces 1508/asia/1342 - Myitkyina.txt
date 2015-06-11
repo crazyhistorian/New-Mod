@@ -1,0 +1,6 @@
+owner= SST
+controller= SST
+add_core= CDL
+add_core= SST
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,5 @@
+owner= MDI
+controller= MDI
+add_core= MDI
+trade_goods = cattle
+life_rating = 35

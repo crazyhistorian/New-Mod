@@ -1,0 +1,8 @@
+owner= POR
+controller= POR
+add_core= POR
+add_core= AMD
+trade_goods = grain
+life_rating = 32
+colonial=2
+fort = 1

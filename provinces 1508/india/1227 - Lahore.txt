@@ -1,0 +1,7 @@
+owner= DLH
+controller= DLH
+add_core= MUL
+add_core= PAN
+add_core= DLH
+trade_goods = cotton
+life_rating = 32

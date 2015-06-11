@@ -1,0 +1,6 @@
+owner= NEV
+controller= NEV
+add_core= BRG
+add_core= NEV
+trade_goods = coal
+life_rating = 30

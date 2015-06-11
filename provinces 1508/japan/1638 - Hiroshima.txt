@@ -1,0 +1,7 @@
+owner= OUC
+controller= OUC
+add_core= HSK
+add_core= OUC
+add_core= MRI
+trade_goods = cotton
+life_rating = 35

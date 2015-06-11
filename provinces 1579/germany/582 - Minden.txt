@@ -1,0 +1,8 @@
+owner= KOL
+controller= KOL
+add_core= KOL
+add_core= MUN
+
+
+trade_goods = cattle
+life_rating = 40

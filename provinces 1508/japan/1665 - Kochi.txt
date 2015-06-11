@@ -1,0 +1,6 @@
+owner= HSK
+controller= HSK
+add_core= HSK
+add_core= CSK
+trade_goods = fish
+life_rating = 35
