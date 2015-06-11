@@ -1,5 +1,5 @@
 owner = CHI
-controller = JAP
+controller = CHI
 add_core = CHI
 trade_goods = tropical_wood
 life_rating = 35
