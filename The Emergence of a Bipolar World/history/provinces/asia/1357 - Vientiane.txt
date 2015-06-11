@@ -1,5 +1,5 @@
 owner = FRA
-controller = JAP
+controller = FRA
 
 add_core = WIA
 add_core = LUA
