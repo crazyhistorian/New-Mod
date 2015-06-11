@@ -1,0 +1,15 @@
+owner= CNN
+controller= CNN
+add_core= CNN
+add_core= ENG
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= IRE
+
+}

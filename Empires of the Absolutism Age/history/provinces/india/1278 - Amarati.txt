@@ -1,0 +1,17 @@
+owner= MUG
+controller= MUG
+add_core= BRR
+add_core= AMD
+add_core= MUG
+trade_goods = tea
+life_rating = 32
+
+1756.5.15 = {
+
+owner= MAR
+controller= MAR
+add_core= MAR
+add_core= DEC
+add_core= HND
+
+}

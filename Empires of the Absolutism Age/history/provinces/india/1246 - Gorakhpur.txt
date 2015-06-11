@@ -1,0 +1,13 @@
+owner= MUG
+controller= MUG
+add_core= MUG
+trade_goods = fruit
+life_rating = 32
+
+1756.5.15 = {
+
+owner= AWA
+controller= AWA
+add_core= AWA
+
+}

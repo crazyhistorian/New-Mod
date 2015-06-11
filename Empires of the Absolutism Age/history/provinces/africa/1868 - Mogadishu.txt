@@ -1,0 +1,21 @@
+owner= AJU
+controller= AJU
+add_core= AJU
+add_core= MDI
+trade_goods = cattle
+life_rating = 35
+
+1701.9.1 = {
+
+owner= MDI
+controller= MDI
+
+}
+
+1718.12.17 = {
+
+owner= OMA
+controller= OMA
+add_core= OMA
+
+}

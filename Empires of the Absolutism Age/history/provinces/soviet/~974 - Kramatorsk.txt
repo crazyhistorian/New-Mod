@@ -1,0 +1,4 @@
+owner= ZAZ
+controller= ZAZ
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,7 @@
+owner= MUG
+controller= MUG
+add_core= MLW
+add_core= MUG
+add_core= GDW
+trade_goods = dye
+life_rating = 32

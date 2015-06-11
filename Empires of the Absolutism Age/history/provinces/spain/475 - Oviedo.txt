@@ -1,0 +1,7 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X06
+add_core= SPA
+trade_goods = coal
+life_rating = 35

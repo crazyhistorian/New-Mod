@@ -1,0 +1,13 @@
+owner= SWA
+controller= SWA
+add_core= SWA
+trade_goods = fish
+life_rating = 35
+
+1756.5.15 = {
+
+owner= OMA
+controller= OMA
+add_core= OMA
+
+}

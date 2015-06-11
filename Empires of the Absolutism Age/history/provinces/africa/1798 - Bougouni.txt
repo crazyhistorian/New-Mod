@@ -1,0 +1,13 @@
+owner= MAL
+controller= MAL
+add_core= MAL
+trade_goods = cattle
+life_rating = 15
+
+1701.9.1 = {
+
+owner= SGU
+controller= SGU
+add_core= SGU
+
+}

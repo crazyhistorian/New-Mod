@@ -1,0 +1,6 @@
+owner= ANU
+controller= ANU
+add_core= ANU
+trade_goods = coal
+life_rating = 20
+naval_base = 1

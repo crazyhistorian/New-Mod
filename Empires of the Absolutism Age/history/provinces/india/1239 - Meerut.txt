@@ -1,0 +1,14 @@
+owner= MUG
+controller= MUG
+add_core= DLH
+add_core= MUG
+trade_goods = grain
+life_rating = 32
+
+1756.5.15 = {
+
+owner= RMP
+controller= RMP
+add_core= RMP
+
+}

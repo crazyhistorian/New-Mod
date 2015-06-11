@@ -1,0 +1,22 @@
+owner= AMD
+controller= AMD
+add_core= AMD
+trade_goods = cotton
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+add_core= MAR
+
+}
+
+1756.5.15 = {
+
+owner= DEC
+controller= DEC
+add_core= DEC
+
+}

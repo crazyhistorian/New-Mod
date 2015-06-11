@@ -1,0 +1,8 @@
+owner= IKE
+controller= IKE
+add_core= HSK
+add_core= AMA
+add_core= IKE
+trade_goods = tea
+life_rating = 35
+naval_base = 1

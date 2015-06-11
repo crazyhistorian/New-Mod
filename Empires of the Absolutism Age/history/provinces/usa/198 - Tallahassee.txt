@@ -1,0 +1,26 @@
+trade_goods = cotton
+life_rating = 35
+
+
+1701.9.1 = {
+
+owner= SPA
+controller= SPA
+add_core= X03
+add_core= SPA
+is_slave = yes
+colonial=2
+naval_base = 1
+
+}
+
+1718.12.17 = {
+
+owner= CRK
+controller= CRK
+add_core= CRK
+remove_core= X03
+remove_core= SPA
+colonial=no
+
+}

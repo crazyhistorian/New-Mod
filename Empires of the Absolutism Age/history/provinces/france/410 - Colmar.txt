@@ -1,0 +1,15 @@
+owner= AUS
+controller= AUS
+add_core= AUS
+add_core= SGF
+add_core= GER
+trade_goods = sulphur
+life_rating = 30
+
+1701.9.1 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+
+}

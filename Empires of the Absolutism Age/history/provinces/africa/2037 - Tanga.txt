@@ -1,0 +1,13 @@
+owner= SWA
+controller= SWA
+add_core= MBA
+add_core= SWA
+trade_goods = grain
+life_rating = 35
+
+1756.5.15 = {
+
+owner= MBA
+controller= MBA
+
+}

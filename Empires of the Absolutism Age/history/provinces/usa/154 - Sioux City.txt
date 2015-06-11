@@ -1,0 +1,10 @@
+trade_goods = grain
+life_rating = 35
+
+1756.5.15 = {
+
+owner= SIO
+controller= SIO
+add_core= SIO
+
+}

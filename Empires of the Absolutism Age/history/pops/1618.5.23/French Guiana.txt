@@ -1,0 +1,102 @@
+2241 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3600
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=43
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=170
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=43
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=4
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=33
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=355
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=8
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=30
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=8
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=6
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=697
+	}
+
+}

@@ -1,0 +1,14 @@
+owner= TUR
+controller= TUR
+add_core= ALH
+add_core= TUR
+add_core= ARA
+trade_goods = grain
+life_rating = 35
+
+1756.5.15 = {
+
+owner= ALH
+controller= ALH
+
+}

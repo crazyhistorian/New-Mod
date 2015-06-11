@@ -1,0 +1,25 @@
+owner= SPA
+controller= SPA
+add_core= X02
+add_core= SPA
+trade_goods = cotton
+life_rating = 35
+colonial=2
+
+1701.9.1 = {
+
+owner= ENL
+controller= ENL
+remove_core= X02
+remove_core= SPA
+
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}

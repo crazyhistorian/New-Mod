@@ -1,0 +1,13 @@
+owner= PER
+controller= PER
+add_core= GEO
+add_core= PER
+trade_goods = wool
+life_rating = 35
+
+1756.5.15 = {
+
+owner= GEO
+controller= GEO
+
+}

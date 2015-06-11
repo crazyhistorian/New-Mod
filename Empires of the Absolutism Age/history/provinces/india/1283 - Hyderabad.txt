@@ -1,0 +1,21 @@
+owner= GOC
+controller= GOC
+add_core= GOC
+trade_goods = cotton
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+
+}
+
+1756.5.15 = {
+
+owner= DEC
+controller= DEC
+add_core= DEC
+
+}

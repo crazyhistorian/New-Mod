@@ -1,0 +1,13 @@
+trade_goods = tropical_wood
+life_rating = 35
+
+1701.9.1 = {
+
+owner= POR
+controller= POR
+add_core= X02
+add_core= POR
+colonial=2
+naval_base = 1
+
+}

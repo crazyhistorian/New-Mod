@@ -1,0 +1,16 @@
+owner= JFN
+controller= JFN
+add_core= JFN
+add_core= HND
+trade_goods = tea
+life_rating = 32
+naval_base = 1
+
+1701.9.1 = {
+
+owner= NET
+controller= NET
+add_core= NET
+colonial=2
+
+}

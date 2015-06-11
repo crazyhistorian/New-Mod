@@ -1,0 +1,6 @@
+owner= CHD
+controller= CHD
+add_core= CHD
+add_core= BRR
+trade_goods = dye
+life_rating = 32

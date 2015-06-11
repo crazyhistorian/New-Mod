@@ -1,0 +1,109 @@
+2219 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=4250
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=118
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=388
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=50
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=8
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=49
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=132
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=750
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=18
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=58
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=8
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=7
+	}
+
+}

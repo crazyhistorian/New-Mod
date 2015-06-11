@@ -1,0 +1,25 @@
+owner= SPA
+controller= SPA
+add_core= SPA
+add_core= ITA
+trade_goods = sulphur
+life_rating = 35
+naval_base = 1
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = SPA
+
+}
+
+1756.5.15 = {
+
+owner= SAR
+controller= SAR
+add_core= SAR
+remove_core = AUS
+
+}

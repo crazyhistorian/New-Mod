@@ -1,0 +1,14 @@
+owner= ENL
+controller= ENL
+add_core= ENL
+trade_goods = coal
+life_rating = 40
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}

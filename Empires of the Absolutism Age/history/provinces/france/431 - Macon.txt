@@ -1,0 +1,16 @@
+owner= SPA
+controller= SPA
+add_core= BRG
+add_core= SPA
+add_core= FRA
+trade_goods = coal
+life_rating = 30
+
+1701.9.1 = {
+
+owner= FRA
+controller= FRA
+remove_core= SPA
+fort = 1
+
+}

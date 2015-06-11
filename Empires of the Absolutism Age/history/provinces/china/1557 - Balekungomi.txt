@@ -1,0 +1,30 @@
+owner= KAM
+controller= KAM
+add_core= KAM
+add_core= SYG
+trade_goods = coal
+life_rating = 32
+
+1701.9.1 = {
+
+owner= KSD
+controller= KSD
+add_core= YRK
+add_core= KSD
+
+}
+
+1718.12.17 = {
+
+owner= ZUN
+controller= ZUN
+
+}
+
+1756.5.15 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

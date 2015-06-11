@@ -1,0 +1,13 @@
+owner= MUG
+controller= MUG
+add_core= BCS
+trade_goods = tea
+life_rating = 35
+
+1701.9.1 = {
+
+owner= BCS
+controller= BCS
+add_core= BCS
+
+}

@@ -1,0 +1,12 @@
+trade_goods = cattle
+life_rating = 30
+
+1756.5.15 = {
+
+owner= FRA
+controller= FRA
+add_core= X03
+add_core= FRA
+colonial=2
+
+}

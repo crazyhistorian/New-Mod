@@ -1,0 +1,8 @@
+owner= MUG
+controller= MUG
+add_core= MUL
+add_core= MUG
+add_core= PAN
+add_core= HND
+trade_goods = tea
+life_rating = 32

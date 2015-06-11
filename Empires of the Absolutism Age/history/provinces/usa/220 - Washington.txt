@@ -1,0 +1,26 @@
+trade_goods = grain
+life_rating = 35
+
+1701.9.1 = {
+
+owner= ENL
+controller= ENL
+add_core= SUS
+add_core= X00
+add_core= ENL
+colonial=2
+naval_base = 1
+fort = 1
+
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= X01
+add_core= ENG
+remove_core= ENL
+remove_core= X00
+
+}

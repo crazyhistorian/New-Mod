@@ -1,0 +1,568 @@
+1455 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=4585
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=15120
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=1951
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=312
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=195
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1912
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=171025
+	}
+
+}
+1456 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=3574
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=11788
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=1521
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=243
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=152
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1491
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=133331
+	}
+
+}
+1457 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=3316
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=10935
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=1411
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=226
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=141
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1383
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=123688
+	}
+
+}
+1458 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=1269
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=4185
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=540
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=86
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=529
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=47337
+	}
+
+}
+1459 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size=470
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size=1550
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size=200
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=22
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=196
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size=17542
+	}
+
+}
+1460 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=1833
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=6045
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=780
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=125
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=764
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=68375
+	}
+
+}
+1461 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=2035
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=6712
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=866
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=139
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=849
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=75912
+	}
+
+}
+2565 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=1786
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=5890
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=760
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=122
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=745
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=66621
+	}
+
+}
+1463 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size=2961
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size=382
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=42
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=374
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size=30270
+	}
+
+}
+1462 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=4000
+	}
+
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size=5820
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size=751
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=83
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=736
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size=59502
+	}
+
+}
+1464 = {
+	soldiers=
+	{
+		culture = filipino
+		religion = sunni
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = filipino
+		religion = sunni
+		size=853
+	}
+
+	clergymen=
+	{
+		culture = filipino
+		religion = sunni
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=12
+	}
+
+	officers=
+	{
+		culture = filipino
+		religion = sunni
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = filipino
+		religion = sunni
+		size=108
+	}
+
+	farmers=
+	{
+		culture = filipino
+		religion = sunni
+		size=5773
+	}
+
+}

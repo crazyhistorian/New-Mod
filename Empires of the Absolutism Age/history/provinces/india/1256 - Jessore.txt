@@ -1,0 +1,14 @@
+owner= MUG
+controller= MUG
+add_core= BNG
+add_core= MUG
+trade_goods = dye
+life_rating = 32
+naval_base = 1
+
+1718.12.17 = {
+
+owner= BNG
+controller= BNG
+
+}

@@ -1,0 +1,13 @@
+owner= KZH
+controller= KZH
+add_core= KZH
+trade_goods = opium
+life_rating = 25
+
+1701.9.1 = {
+
+owner= KHI
+controller= KHI
+add_core= KHI
+
+}

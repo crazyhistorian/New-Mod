@@ -1,0 +1,13 @@
+owner= KHA
+controller= KHA
+add_core= KHA
+trade_goods = coal
+life_rating = 32
+
+1701.9.1 = {
+
+owner= CHI
+controller= CHI
+add_core= CHI
+
+}

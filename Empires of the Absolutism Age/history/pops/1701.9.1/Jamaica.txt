@@ -1,0 +1,137 @@
+2217 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=7488
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=186
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=613
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=79
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=18
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=78
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=80611
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=2002
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=6602
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=852
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=196
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=85
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=835
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size=300
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size=7
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size=23
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size=3
+	}
+
+}

@@ -1,0 +1,6 @@
+owner= BLM
+controller= BLM
+add_core= BLM
+trade_goods = sulphur
+life_rating = 30
+naval_base = 1

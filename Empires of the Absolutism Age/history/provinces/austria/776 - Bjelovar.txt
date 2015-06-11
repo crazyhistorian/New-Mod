@@ -1,0 +1,16 @@
+owner= TUR
+controller= TUR
+add_core= CRO
+add_core= TUR
+trade_goods = grain
+life_rating = 35
+
+1701.9.1 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+add_core= YUG
+remove_core= TUR
+
+}

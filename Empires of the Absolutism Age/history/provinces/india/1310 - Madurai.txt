@@ -1,0 +1,18 @@
+owner= MDR
+controller= MDR
+add_core= MDR
+add_core= VIJ
+add_core= HND
+trade_goods = dye
+life_rating = 32
+naval_base = 1
+
+1756.5.15 = {
+
+owner= MYS
+controller= MYS
+add_core= KRK
+add_core= MAR
+add_core= MYS
+
+}

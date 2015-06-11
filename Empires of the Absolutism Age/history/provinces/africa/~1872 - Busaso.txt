@@ -1,0 +1,6 @@
+owner= MRE
+controller= MRE
+add_core= MRE
+trade_goods = grain
+life_rating = 15
+naval_base = 1

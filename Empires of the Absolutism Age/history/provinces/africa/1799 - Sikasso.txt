@@ -1,0 +1,14 @@
+owner= JNN
+controller= JNN
+add_core= MAL
+add_core= JNN
+trade_goods = cotton
+life_rating = 15
+
+1756.5.15 = {
+
+owner= KNG
+controller= KNG
+add_core= KNG
+
+}

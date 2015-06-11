@@ -1,0 +1,22 @@
+owner= SAV
+controller= SAV
+add_core= SAV
+add_core= ITA
+trade_goods = fruit
+life_rating = 35
+
+1718.12.17 = {
+
+owner= SII
+controller= SII
+add_core= SII
+
+}
+
+1756.5.15 = {
+
+owner= SAR
+controller= SAR
+add_core= SAR
+
+}

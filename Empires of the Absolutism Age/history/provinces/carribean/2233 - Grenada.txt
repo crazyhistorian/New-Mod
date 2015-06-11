@@ -1,0 +1,12 @@
+trade_goods = cotton
+life_rating = 35
+
+1756.5.15 = {
+
+owner= FRA
+controller= FRA
+add_core= X05
+add_core= FRA
+colonial=2
+
+}

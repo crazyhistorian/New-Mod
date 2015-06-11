@@ -1,0 +1,10 @@
+trade_goods = fruit
+life_rating = 35
+
+1756.5.15 = {
+
+owner= NET
+controller= NET
+colonial=2
+
+}

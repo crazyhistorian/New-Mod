@@ -1,0 +1,7 @@
+owner= YAT
+controller= YAT
+add_core= SON
+add_core= YAT
+add_core= MSI
+trade_goods = grain
+life_rating = 15

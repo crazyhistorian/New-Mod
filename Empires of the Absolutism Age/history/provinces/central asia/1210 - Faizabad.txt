@@ -1,0 +1,14 @@
+owner= BUK
+controller= BUK
+add_core= AFG
+add_core= KHO
+add_core= BUK
+trade_goods = wool
+life_rating = 35
+
+1756.5.15 = {
+
+owner= AFG
+controller= AFG
+
+}

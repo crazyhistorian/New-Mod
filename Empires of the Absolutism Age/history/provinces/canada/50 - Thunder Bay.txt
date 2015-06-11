@@ -1,0 +1,15 @@
+owner= OJI
+controller= OJI
+add_core= OJI
+trade_goods = cattle
+life_rating = 35
+
+1701.9.1 = {
+
+owner= FRA
+controller= FRA
+add_core= X01
+add_core= FRA
+colonial=2
+
+}

@@ -1,0 +1,21 @@
+trade_goods = fish
+life_rating = 35
+colonial=2
+
+1701.9.1 = {
+
+owner= ENL
+controller= ENL
+add_core= ENL
+colonial=2
+
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}

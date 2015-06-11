@@ -1,0 +1,35 @@
+owner= POR
+controller= POR
+add_core= POR
+trade_goods = grain
+life_rating = 32
+colonial=2
+fort = 1
+
+1701.9.1 = {
+
+owner= ENL
+controller= ENL
+add_core= MAR
+add_core= ENL
+remove_core = POR
+
+}
+
+1718.12.17 = {
+
+owner= ENG
+controller= ENG
+add_core= ENG
+remove_core= ENL
+
+}
+
+1756.5.15 = {
+
+owner= MAR
+controller= MAR
+add_core= MAR
+add_core= HND
+
+}

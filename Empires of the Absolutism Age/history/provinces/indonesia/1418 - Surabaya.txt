@@ -1,0 +1,13 @@
+owner= BLM
+controller= BLM
+add_core= BLM
+trade_goods = sulphur
+life_rating = 30
+
+1701.9.1 = {
+
+owner= MTR
+controller= MTR
+add_core= MTR
+
+}

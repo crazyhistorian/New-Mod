@@ -1,0 +1,12 @@
+trade_goods = cattle
+life_rating = 35
+
+1701.9.1 = {
+
+owner= SPA
+controller= SPA
+add_core= X08
+add_core= SPA
+colonial=2
+
+}

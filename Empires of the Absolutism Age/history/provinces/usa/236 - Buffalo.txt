@@ -1,0 +1,19 @@
+trade_goods = timber
+life_rating = 35
+
+1701.9.1 = {
+
+owner= IRO
+controller= IRO
+add_core= IRO
+
+}
+
+1756.5.15 = {
+
+owner= FRA
+controller= FRA
+add_core= FRA
+colonial=2
+
+}

@@ -1,0 +1,13 @@
+owner= KMC
+controller= KMC
+add_core= KMC
+trade_goods = fish
+life_rating = 20
+naval_base = 1
+
+1756.5.15 = {
+
+owner= RUS
+controller= RUS
+
+}

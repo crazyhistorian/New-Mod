@@ -1,0 +1,14 @@
+owner= TUR
+controller= TUR
+add_core= TUR
+trade_goods = cattle
+life_rating = 35
+
+1701.9.1 = {
+
+owner= RUS
+controller= RUS
+add_core= ZAZ
+add_core= RUS
+
+}

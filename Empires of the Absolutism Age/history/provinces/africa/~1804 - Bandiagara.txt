@@ -1,0 +1,7 @@
+owner= JNN
+controller= JNN
+add_core= ZAF
+add_core= JNN
+trade_goods = cattle
+life_rating = 15
+colonial=2

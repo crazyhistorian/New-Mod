@@ -1,0 +1,13 @@
+trade_goods = wool
+life_rating = 35
+
+1756.5.15 = {
+
+owner= SPA
+controller= SPA
+add_core= X11
+add_core= SPA
+colonial=2
+naval_base = 1
+
+}

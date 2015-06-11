@@ -1,0 +1,15 @@
+owner= PIM
+controller= PIM
+add_core= PIM
+trade_goods = cattle
+life_rating = 35
+
+1756.5.15 = {
+
+owner= SPA
+controller= SPA
+add_core= X07
+add_core= SPA
+colonial=2
+
+}

@@ -1,0 +1,15 @@
+owner= MTA
+controller= MTA
+add_core= MTA
+add_core= ITA
+trade_goods = silk
+life_rating = 35
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = SPA
+
+}

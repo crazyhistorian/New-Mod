@@ -1,0 +1,22 @@
+owner= KOL
+controller= KOL
+add_core= KOL
+add_core= MUN
+add_core= SGF
+add_core= GER
+trade_goods = coal
+life_rating = 40
+
+1701.9.1 = {
+
+owner= MUN
+controller= MUN
+
+}
+
+1756.5.15 = {
+
+owner= KOL
+controller= KOL
+
+}

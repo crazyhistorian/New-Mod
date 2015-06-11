@@ -1,0 +1,25 @@
+owner= GOC
+controller= GOC
+add_core= ORI
+add_core= GOC
+trade_goods = tobacco
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MUG
+controller= MUG
+add_core= MUG
+
+}
+
+1756.5.15 = {
+
+owner= NAG
+controller= NAG
+add_core= DEC
+add_core= BAS
+add_core= NAG
+add_core= GRJ
+
+}

@@ -1,0 +1,190 @@
+2239 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=14000
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=344
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=1135
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=147
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=34
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=144
+	}
+
+}
+2242 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=9000
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=217
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=717
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=93
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=21
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=91
+	}
+
+}
+1979 = {
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=24
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=78
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=10
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=2
+	}
+
+	officers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=10
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=875
+	}
+
+}

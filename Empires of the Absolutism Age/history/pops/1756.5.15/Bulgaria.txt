@@ -1,0 +1,617 @@
+808 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2275
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=3751
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=484
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=111
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=48
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=474
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=41257
+	}
+
+}
+809 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=3102
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=4140
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=635
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=152
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=647
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=56258
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=975
+	}
+
+}
+810 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1434
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2119
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=70
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=299
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=25997
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+811 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2209
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2903
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=460
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=108
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=47
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=461
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=40062
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=740
+	}
+
+}
+812 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2303
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=3798
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=490
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=113
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=480
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=41767
+	}
+
+}
+813 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1697
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2798
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=361
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=83
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=354
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=30771
+	}
+
+}
+814 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2632
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=4340
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=560
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=129
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=56
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=549
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=47734
+	}
+
+}
+815 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1415
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1593
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=69
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=295
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=25657
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=740
+	}
+
+}
+816 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=940
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1550
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=200
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=46
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=196
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=17048
+	}
+
+}
+817 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=2298
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=3790
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=489
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=112
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=479
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=41683
+	}
+
+}
+818 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=992
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=1635
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=211
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=49
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=207
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = orthodox
+		size=17985
+	}
+
+}

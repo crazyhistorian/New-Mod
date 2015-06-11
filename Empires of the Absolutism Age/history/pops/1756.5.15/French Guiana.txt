@@ -1,0 +1,179 @@
+2241 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3379
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=94
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=309
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=9
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=39
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=116
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=220
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=6
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=20
+	}
+
+	clergymen=
+	{
+		culture = dutch
+		religion = protestant
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = dutch
+		religion = protestant
+		size=3
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=7
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=17
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=55
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=7
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=2
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=7
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=615
+	}
+
+	soldiers=
+	{
+		culture = dutch
+		religion = protestant
+		size=1
+	}
+
+	artisans=
+	{
+		culture = dutch
+		religion = protestant
+		size=4
+	}
+
+	farmers=
+	{
+		culture = dutch
+		religion = protestant
+		size=41
+	}
+
+}

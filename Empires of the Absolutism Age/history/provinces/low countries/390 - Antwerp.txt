@@ -1,0 +1,18 @@
+owner= SPA
+controller= SPA
+add_core= FLA
+add_core= SPA
+add_core= NET
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = SPA
+fort = 1
+
+}

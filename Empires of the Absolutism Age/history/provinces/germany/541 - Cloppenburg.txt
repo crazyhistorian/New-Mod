@@ -1,0 +1,15 @@
+owner= BRA
+controller= BRA
+add_core= BRA
+add_core= NGF
+add_core= GER
+trade_goods = coal
+life_rating = 40
+
+1701.9.1 = {
+
+owner= HAN
+controller= HAN
+add_core= HAN
+
+}

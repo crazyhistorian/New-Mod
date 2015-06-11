@@ -1,0 +1,14 @@
+owner= SIE
+controller= SIE
+add_core= HUN
+add_core= SIE
+trade_goods = fruit
+life_rating = 35
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+
+}

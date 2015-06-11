@@ -1,0 +1,15 @@
+owner= MUG
+controller= MUG
+add_core= GUJ
+add_core= MUG
+trade_goods = cotton
+life_rating = 32
+
+1756.5.15 = {
+
+owner= BER
+controller= BER
+add_core= BER
+add_core= HND
+
+}

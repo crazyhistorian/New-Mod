@@ -1,0 +1,15 @@
+owner= TUR
+controller= TUR
+add_core= TUR
+trade_goods = coal
+life_rating = 35
+naval_base = 1
+
+1701.9.1 = {
+
+owner= RUS
+controller= RUS
+add_core= ZAZ
+add_core= RUS
+
+}

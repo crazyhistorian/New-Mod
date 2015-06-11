@@ -1,0 +1,17 @@
+owner= SPA
+controller= SPA
+add_core= SPA
+trade_goods = cotton
+life_rating = 35
+colonial=2
+naval_base = 1
+
+1718.12.17 = {
+
+owner= CRK
+controller= CRK
+add_core= CRK
+remove_core= SPA
+colonial=no
+
+}

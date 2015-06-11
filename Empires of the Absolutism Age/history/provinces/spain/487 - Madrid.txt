@@ -1,0 +1,12 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= SPA
+trade_goods = cattle
+life_rating = 40
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

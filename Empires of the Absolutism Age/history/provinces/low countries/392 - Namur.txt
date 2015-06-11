@@ -1,0 +1,16 @@
+owner= SPA
+controller= SPA
+add_core= HAT
+add_core= SPA
+trade_goods = iron
+life_rating = 35
+
+1718.12.17 = {
+
+owner= AUS
+controller= AUS
+add_core= AUS
+remove_core = SPA
+fort = 1
+
+}

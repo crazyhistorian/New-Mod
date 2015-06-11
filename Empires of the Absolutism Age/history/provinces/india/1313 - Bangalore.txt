@@ -1,0 +1,14 @@
+owner= VIJ
+controller= VIJ
+add_core= VIJ
+add_core= MYS
+add_core= HND
+trade_goods = wool
+life_rating = 32
+
+1701.9.1 = {
+
+owner= MYS
+controller= MYS
+
+}

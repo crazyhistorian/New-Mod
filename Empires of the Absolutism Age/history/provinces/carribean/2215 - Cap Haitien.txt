@@ -1,0 +1,17 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X02
+add_core= SPA
+trade_goods = tobacco
+life_rating = 35
+colonial=2
+
+1701.9.1 = {
+
+owner= FRA
+controller= FRA
+remove_core= X02
+remove_core= SPA
+
+}

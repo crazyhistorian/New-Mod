@@ -1,0 +1,14 @@
+owner= MUG
+controller= MUG
+add_core= AFG
+add_core= MUG
+add_core= KHO
+trade_goods = wool
+life_rating = 35
+
+1756.5.15 = {
+
+owner= AFG
+controller= AFG
+
+}
