@@ -1,0 +1,6 @@
+owner= TFL
+controller= TFL
+add_core= MOR
+add_core= TFL
+trade_goods = grain
+life_rating = 35

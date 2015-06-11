@@ -1,0 +1,7 @@
+owner= MAG
+controller= MAG
+add_core= MAG
+
+
+trade_goods = grain
+life_rating = 40

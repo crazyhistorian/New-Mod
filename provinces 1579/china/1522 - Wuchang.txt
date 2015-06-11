@@ -1,0 +1,7 @@
+owner= MNG
+controller= MNG
+add_core= MNG
+add_core= CHC
+add_core= XIA
+trade_goods = iron
+life_rating = 32

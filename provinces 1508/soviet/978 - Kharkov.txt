@@ -1,0 +1,6 @@
+owner= LIT
+controller= LIT
+add_core= CHR
+add_core= LIT
+trade_goods = coal
+life_rating = 35

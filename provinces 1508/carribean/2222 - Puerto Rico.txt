@@ -1,0 +1,7 @@
+owner= CAS
+controller= CAS
+add_core= X01
+add_core= CAS
+trade_goods = cotton
+life_rating = 35
+colonial=2

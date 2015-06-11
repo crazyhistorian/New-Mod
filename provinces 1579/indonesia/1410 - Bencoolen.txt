@@ -1,0 +1,5 @@
+owner= BAN
+controller= BAN
+add_core= BAN
+trade_goods = tobacco
+life_rating = 30

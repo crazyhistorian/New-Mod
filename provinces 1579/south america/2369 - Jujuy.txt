@@ -1,0 +1,9 @@
+owner= SPA
+controller= SPA
+add_core= CCQ
+add_core= INC
+add_core= X06
+add_core= SPA
+trade_goods = wool
+life_rating = 30
+colonial=2

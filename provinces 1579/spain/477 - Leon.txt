@@ -1,0 +1,25 @@
+owner= SPA
+controller= SPA
+add_core= CAS
+add_core= X07
+add_core= SPA
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

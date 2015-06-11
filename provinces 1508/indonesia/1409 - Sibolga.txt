@@ -1,0 +1,6 @@
+owner= PSA
+controller= PSA
+add_core= PSA
+add_core= ATJ
+trade_goods = coffee
+life_rating = 30

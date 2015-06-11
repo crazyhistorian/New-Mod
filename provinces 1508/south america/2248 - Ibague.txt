@@ -1,0 +1,5 @@
+owner= MCA
+controller= MCA
+add_core= MCA
+trade_goods = grain
+life_rating = 30

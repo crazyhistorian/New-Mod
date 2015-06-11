@@ -1,0 +1,7 @@
+owner= MAB
+controller= MAB
+add_core= MAB
+add_core= KLN
+add_core= HND
+trade_goods = fruit
+life_rating = 32

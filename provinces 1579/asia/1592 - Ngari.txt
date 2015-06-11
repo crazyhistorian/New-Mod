@@ -1,0 +1,5 @@
+owner= GUG
+controller= GUG
+add_core= GUG
+trade_goods = cattle
+life_rating = 30

@@ -1,0 +1,7 @@
+owner= DLH
+controller= DLH
+add_core= PAN
+add_core= KAS
+add_core= DLH
+trade_goods = wool
+life_rating = 32

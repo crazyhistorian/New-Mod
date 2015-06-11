@@ -1,0 +1,7 @@
+owner= BUK
+controller= BUK
+add_core= KOK
+add_core= YRK
+add_core= BUK
+trade_goods = grain
+life_rating = 35

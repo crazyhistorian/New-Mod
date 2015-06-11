@@ -1,0 +1,5 @@
+owner= POW
+controller= POW
+add_core= POW
+trade_goods = tobacco
+life_rating = 35

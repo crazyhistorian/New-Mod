@@ -1,0 +1,5 @@
+owner= COC
+controller= COC
+add_core= COC
+trade_goods = timber
+life_rating = 30

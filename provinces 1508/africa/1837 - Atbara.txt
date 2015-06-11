@@ -1,0 +1,7 @@
+owner= NUB
+controller= NUB
+add_core= MKA
+add_core= NUB
+add_core= ALO
+trade_goods = tropical_wood
+life_rating = 30

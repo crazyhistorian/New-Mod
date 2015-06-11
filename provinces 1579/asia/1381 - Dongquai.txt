@@ -1,0 +1,6 @@
+owner= ANN
+controller= ANN
+add_core= ANN
+trade_goods = cotton
+life_rating = 30
+colonial=2

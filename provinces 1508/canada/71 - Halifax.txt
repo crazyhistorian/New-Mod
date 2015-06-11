@@ -1,0 +1,6 @@
+owner= MIK
+controller= MIK
+add_core= MIK
+trade_goods = fish
+life_rating = 35
+fort = 1

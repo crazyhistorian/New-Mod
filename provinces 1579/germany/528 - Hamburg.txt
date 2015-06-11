@@ -1,0 +1,9 @@
+owner= LUB
+controller= LUB
+add_core= LUB
+add_core= HAM
+
+
+trade_goods = fruit
+life_rating = 40
+naval_base = 1

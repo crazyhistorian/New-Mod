@@ -1,0 +1,5 @@
+owner= KNI
+controller= KNI
+add_core= KNI
+trade_goods = grain
+life_rating = 35

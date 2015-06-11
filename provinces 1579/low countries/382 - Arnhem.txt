@@ -1,0 +1,7 @@
+owner= NET
+controller= NET
+add_core= GEL
+add_core= UTR
+add_core= NET
+trade_goods = cattle
+life_rating = 35

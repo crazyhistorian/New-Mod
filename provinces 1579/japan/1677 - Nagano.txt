@@ -1,0 +1,5 @@
+owner= TKD
+controller= TKD
+add_core= TKD
+trade_goods = fish
+life_rating = 35

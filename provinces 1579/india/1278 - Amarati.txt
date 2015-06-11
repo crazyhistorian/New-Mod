@@ -1,0 +1,6 @@
+owner= AMD
+controller= AMD
+add_core= BRR
+add_core= AMD
+trade_goods = tea
+life_rating = 32

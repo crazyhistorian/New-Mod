@@ -1,0 +1,8 @@
+owner= EGY
+controller= EGY
+add_core= LEB
+add_core= SYR
+add_core= EGY
+add_core= ARA
+trade_goods = grain
+life_rating = 35

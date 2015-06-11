@@ -1,0 +1,6 @@
+owner= KLN
+controller= KLN
+add_core= KLN
+add_core= HND
+trade_goods = tea
+life_rating = 32

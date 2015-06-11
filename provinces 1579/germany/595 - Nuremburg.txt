@@ -1,0 +1,8 @@
+owner= ANS
+controller= ANS
+add_core= ANS
+
+
+trade_goods = grain
+life_rating = 40
+railroad = 1

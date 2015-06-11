@@ -1,0 +1,5 @@
+owner= MRI
+controller= MRI
+add_core= MRI
+trade_goods = grain
+life_rating = 35

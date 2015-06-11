@@ -1,0 +1,5 @@
+owner= OUC
+controller= OUC
+add_core= OUC
+trade_goods = tea
+life_rating = 35
