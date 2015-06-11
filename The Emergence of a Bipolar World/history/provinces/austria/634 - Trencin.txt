@@ -1,8 +1,15 @@
-owner = CZH
-controller = CZH
+owner = SLV
+controller = SLV
 
 add_core = SLV
 add_core = HUN
 add_core = CZH
 trade_goods = grain
 life_rating = 35
+
+1949.1.1 = {
+
+owner = CZH
+controller = CZH
+
+}

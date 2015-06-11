@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = GER
+controller = GER
 
 add_core = GER
 add_core = DZG
@@ -12,3 +12,13 @@ naval_base = 1
 #	building = canned_food_factory
 #	upgrade = yes
 #}
+
+
+1949.1.1 = {
+
+owner = POL
+controller = POL
+remove_core = GER
+remove_core = DZG
+
+}

@@ -1,4 +1,4 @@
-owner = JAP
+owner = CHI
 controller = JAP
 add_core = CHI
 trade_goods = tea
