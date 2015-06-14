@@ -1,0 +1,12 @@
+owner= KAZ
+controller= KAZ
+add_core= AKH
+add_core= KAZ
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = RUS
+controller = RUS
+add_core = RUS
+}

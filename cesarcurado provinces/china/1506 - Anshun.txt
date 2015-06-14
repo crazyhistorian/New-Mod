@@ -1,0 +1,8 @@
+owner= MNG
+controller= MNG
+add_core= MNG
+add_core= CYI
+add_core= CDL
+trade_goods = tea
+life_rating = 32
+colonial=2

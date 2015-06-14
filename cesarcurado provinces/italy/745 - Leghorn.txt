@@ -1,0 +1,12 @@
+owner= PIS
+controller= PIS
+add_core= PIS
+add_core= TUS
+add_core= ITA
+trade_goods = fish
+life_rating = 35
+
+1579.1.23 = {
+owner = TUS
+controller = TUS
+ }

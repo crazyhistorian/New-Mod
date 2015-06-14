@@ -1,0 +1,12 @@
+owner= DEN
+controller= DEN
+add_core= SWE
+add_core= SCA
+trade_goods = timber
+life_rating = 35
+
+
+1579.1.23 = {
+owner = SWE
+controller = SWE
+}

@@ -1,0 +1,12 @@
+owner= FRA
+controller= FRA
+add_core= FRA
+add_core= AUV
+trade_goods = fish
+life_rating = 32
+state_building=
+{
+	level=2
+	building = canned_food_factory
+	upgrade = yes
+}

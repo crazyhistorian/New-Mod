@@ -1,0 +1,11 @@
+owner= TFL
+controller= TFL
+add_core= MOR
+add_core= TFL
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = MOR
+controller = MOR
+}

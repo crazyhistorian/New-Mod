@@ -1,0 +1,9 @@
+owner= NAV
+controller= NAV
+add_core= FOI
+add_core= GUY
+add_core= FRA
+add_core= AMG
+add_core= NAV
+trade_goods = grain
+life_rating = 32

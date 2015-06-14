@@ -1,0 +1,5 @@
+owner= SMZ
+controller= SMZ
+add_core= SMZ
+trade_goods = grain
+life_rating = 35

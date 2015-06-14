@@ -1,0 +1,11 @@
+owner= UTR
+controller= UTR
+add_core= UTR
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = NET
+controller = NET
+add_core = NET
+remove_core = AUS }
