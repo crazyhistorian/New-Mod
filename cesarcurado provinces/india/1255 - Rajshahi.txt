@@ -1,0 +1,11 @@
+owner= BNG
+controller= BNG
+add_core= BNG
+trade_goods = grain
+life_rating = 32
+
+1579.1.23 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+}

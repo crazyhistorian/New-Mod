@@ -1,0 +1,11 @@
+owner= LIG
+controller= LIG
+add_core= LIG
+add_core= SIA
+trade_goods = timber
+life_rating = 30
+
+1579.1.23 = {
+owner = SIA
+controller = SIA
+}

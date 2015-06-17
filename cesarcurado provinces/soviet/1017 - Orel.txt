@@ -1,0 +1,12 @@
+owner= TUR
+controller= TUR
+add_core= CRI
+add_core= TUR
+trade_goods = timber
+life_rating = 35
+
+1579.1.23 = {
+owner = RUS
+controller = RUS
+add_core = RUS
+}

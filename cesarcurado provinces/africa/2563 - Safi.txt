@@ -1,0 +1,12 @@
+owner= POR
+controller= POR
+add_core= MOR
+trade_goods = grain
+life_rating = 35
+colonial=2
+
+1579.1.23 = {
+owner = MOR
+controller = MOR
+colonial = no
+}

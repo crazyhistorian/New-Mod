@@ -1,0 +1,6 @@
+owner= URB
+controller= URB
+add_core= URB
+add_core= ITA
+trade_goods = fruit
+life_rating = 35

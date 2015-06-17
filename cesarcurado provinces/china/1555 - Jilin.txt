@@ -1,0 +1,5 @@
+owner= MHX
+controller= MHX
+add_core= MHX
+trade_goods = iron
+life_rating = 32

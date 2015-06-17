@@ -1,0 +1,11 @@
+owner= TLC
+controller= TLC
+add_core= TLC
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = SPA
+controller = SPA
+colonial = 2
+ }

@@ -1,0 +1,6 @@
+owner= JFN
+controller= JFN
+add_core= JFN
+add_core= HND
+trade_goods = tea
+life_rating = 32

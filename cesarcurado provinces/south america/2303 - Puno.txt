@@ -1,0 +1,13 @@
+owner= INC
+controller= INC
+add_core= CLA
+add_core= INC
+add_core= CSU
+trade_goods = wool
+life_rating = 30
+
+1579.1.23 = {
+owner = SPA
+controller = SPA
+add_core = SPA
+colonial = 2 }

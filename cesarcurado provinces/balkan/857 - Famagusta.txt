@@ -1,0 +1,12 @@
+owner= VEN
+controller= VEN
+add_core= CYP
+add_core= VEN
+trade_goods = fruit
+life_rating = 35
+
+1579.1.23 = {
+owner = TUR
+controller = TUR
+add_core = TUR
+}

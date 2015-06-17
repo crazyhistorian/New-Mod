@@ -1,0 +1,11 @@
+owner= KAS
+controller= KAS
+add_core= LDK
+add_core= KAS
+trade_goods = tea
+life_rating = 35
+
+1579.1.23 = {
+owner = LDK
+controller = LDK
+}

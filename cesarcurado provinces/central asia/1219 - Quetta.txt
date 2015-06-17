@@ -1,0 +1,11 @@
+owner= BCS
+controller= BCS
+add_core= BCS
+trade_goods = wool
+life_rating = 35
+
+1579.1.23 = {
+owner = PER
+controller = PER
+add_core = PER
+}
