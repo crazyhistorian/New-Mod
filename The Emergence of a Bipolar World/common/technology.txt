@@ -5,7 +5,6 @@ folders = {
 
 	army_tech =	{
 		
-		jacobean_era
 		army_doctrine
 		light_armament
 		heavy_armament
@@ -15,7 +14,6 @@ folders = {
 
 	navy_tech =   	{
 		
-		caroline_era
 		naval_doctrine
 		ship_construction
 		naval_engineering
@@ -25,7 +23,6 @@ folders = {
 	
 	commerce_tech = {
 
-		georgian_era
 		financial_institutions
 		monetary_system
 		economic_thought_and_critique
@@ -35,7 +32,6 @@ folders = {
 	
 	culture_tech = {
 
-		edwardian_era
 		aesthetics
 		philosophy
 		social_thought
@@ -45,7 +41,6 @@ folders = {
 	
 	industry_tech = {
 
-		elizabethan_era
 		tech_power
 		mechanization
 		metallurgy

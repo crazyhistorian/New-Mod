@@ -504,7 +504,7 @@ impressionist_music = {
 		}
 		modifier = {
 			factor = 2
-			empiricism = 1
+			utilitarinism = 1
 		}
 	}
 	effect = {
@@ -771,9 +771,9 @@ proto_existentialism = {
 		shared_prestige = 5 
 	}
 }
-#empiricism
+#utilitarinism
 pragmatism = {
-	limit = { empiricism = 1 }
+	limit = { utilitarinism = 1 }
 	news = no
 	chance = {
 		base = 2
@@ -791,7 +791,7 @@ pragmatism = {
 	}
 }
 i_empiricism = {
-	limit = { empiricism = 1 }
+	limit = { utilitarinism = 1 }
 	news = no
 	chance = {
 		base = 2
