@@ -1,11 +1,11 @@
 #Dawn of the Industrial Revolution#
 first_steam_engine = {
-	limit = { dawn_of_industrial_revolution_tech = 1 }
+	limit = { early_industialization = 1 }
 	chance = {
 		base = 2
 		modifier = {
 			factor = 2
-			first_industrial_revolution_tech = 1
+			industrial_revolution = 1
 		}
 		modifier = {
 			factor = 3
@@ -17,12 +17,12 @@ first_steam_engine = {
 	}
 }
 spinning_mule = {
-	limit = { dawn_of_industrial_revolution_tech = 1 }
+	limit = { early_industialization = 1 }
 	chance = {
 		base = 2
 		modifier = {
 			factor = 2
-			first_industrial_revolution_tech = 1
+			industrial_revolution = 1
 		}
 		modifier = {
 			factor = 3
@@ -36,12 +36,12 @@ spinning_mule = {
 	}
 }
 vertical_spinning_loom = {
-	limit = { dawn_of_industrial_revolution_tech = 1 }
+	limit = { early_industialization = 1 }
 	chance = {
 		base = 2
 		modifier = {
 			factor = 2
-			first_industrial_revolution_tech = 1
+			industrial_revolution = 1
 		}
 		modifier = {
 			factor = 3
@@ -56,7 +56,7 @@ vertical_spinning_loom = {
 }
 #First Industrial Revolution#
 modern_cement_factory = {
-	limit = { first_industrial_revolution_tech = 1 }
+	limit = { industrial_revolution = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -71,7 +71,7 @@ modern_cement_factory = {
 	}
 }
 sheet_glass = {
-	limit = { first_industrial_revolution_tech = 1 }
+	limit = { industrial_revolution = 1 }
 	chance = {
 		base = 2
 		modifier = {
@@ -86,7 +86,7 @@ sheet_glass = {
 	}
 }
 early_telegraph_invention = {
-	limit = { first_industrial_revolution_tech = 1 }
+	limit = { industrial_revolution = 1 }
 	chance = {
 		base = 2
 		modifier = {
