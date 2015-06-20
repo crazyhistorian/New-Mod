@@ -23,8 +23,8 @@ foreign_weapons = yes_foreign_weapons
 land_reform = yes_land_reform
 
 # Technology
-flintlock_rifles = 1
-post_nelsonian_thought = 1
+early_muskets = 1
+colombus_voyage = 1
 
 # Starting Consciousness
 consciousness = 0
@@ -65,6 +65,6 @@ school_reforms = no_schools
 	foreign_weapons = yes_foreign_weapons
 
 	#Technology
-	private_banks = 1
+	medieval_quasi_banks = 1
 
 }

@@ -54,6 +54,6 @@ school_reforms = no_schools
 	foreign_officers = yes_foreign_officers
 	
 	#Technologies
-	freedom_of_trade = 1
-	military_staff_system = 1
+	medieval_trade_policies = 1
+	army_direct_command = 1
 }

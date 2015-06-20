@@ -43,10 +43,10 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # Technologies
-no_standard = 1
+no_standard_minting = 1
 guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
+feudalism = 1
+renaissance_psychology = 1
 water_wheel_power = 1
 
 # Inventions
