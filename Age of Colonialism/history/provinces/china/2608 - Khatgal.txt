@@ -1,0 +1,11 @@
+owner= OIR
+controller= OIR
+add_core= OIR
+trade_goods = iron
+life_rating = 32
+
+1579.1.23 = {
+owner = KHA
+controller = KHA
+add_core = KHA
+}

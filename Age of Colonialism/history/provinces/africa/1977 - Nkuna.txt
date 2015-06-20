@@ -1,0 +1,11 @@
+owner= KON
+controller= KON
+add_core= KON
+trade_goods = fruit
+life_rating = 15
+
+1579.1.23 = {
+owner = LOA
+controller = LOA
+add_core = LOA
+}

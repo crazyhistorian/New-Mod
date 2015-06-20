@@ -1,0 +1,8 @@
+owner= VIJ
+controller= VIJ
+add_core= VIJ
+add_core= KLN
+add_core= KRK
+add_core= HND
+trade_goods = tea
+life_rating = 32

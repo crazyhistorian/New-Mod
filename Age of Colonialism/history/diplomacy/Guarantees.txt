@@ -1,0 +1,32 @@
+guarantee=
+{
+	first="FRA"
+	second="SCO"
+	start_date="1508.12.10"
+	end_date="1618.5.22"
+}
+
+guarantee=
+{
+	first="VEN"
+	second="KNI"
+	start_date="1508.12.10"
+	end_date="1618.5.22"
+}
+
+guarantee=
+{
+	first="TUN"
+	second="FZA"
+	start_date="1508.12.10"
+	end_date="1618.5.22"
+}
+
+guarantee=
+{
+	first="VIJ"
+	second="MAB"
+	start_date="1508.12.10"
+	end_date="1618.5.22"
+}
+

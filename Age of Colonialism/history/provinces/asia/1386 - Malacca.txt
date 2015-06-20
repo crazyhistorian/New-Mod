@@ -1,0 +1,12 @@
+owner= MLC
+controller= MLC
+add_core= MLC
+trade_goods = tropical_wood
+life_rating = 30
+
+1579.1.23 = {
+owner = POR
+controller = POR
+add_core = POR
+colonial = 2
+}

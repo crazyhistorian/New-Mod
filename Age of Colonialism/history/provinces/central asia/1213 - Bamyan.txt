@@ -1,0 +1,13 @@
+owner= TIM
+controller= TIM
+add_core= AFG
+add_core= KHO
+add_core= TIM
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = AFG
+controller = AFG
+remove_core = TIM
+}

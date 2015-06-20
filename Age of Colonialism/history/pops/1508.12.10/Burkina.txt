@@ -1,0 +1,544 @@
+1901 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=32000
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=1596
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=5780
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=1101
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=77
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=66
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=925
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=68555
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=17998
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=86
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=311
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=59
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=4
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=50
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=4130
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = animist
+		size=86
+	}
+
+	artisans=
+	{
+		culture = songhai
+		religion = animist
+		size=311
+	}
+
+	clergymen=
+	{
+		culture = songhai
+		religion = animist
+		size=59
+	}
+
+	bureaucrats=
+	{
+		culture = songhai
+		religion = animist
+		size=4
+	}
+
+	officers=
+	{
+		culture = songhai
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = songhai
+		religion = animist
+		size=50
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = animist
+		size=4130
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size=3735
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size=711
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size=50
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size=598
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size=49545
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=14999
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=70
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=255
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=49
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=3
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=41
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=3365
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = animist
+		size=70
+	}
+
+	artisans=
+	{
+		culture = songhai
+		religion = animist
+		size=255
+	}
+
+	clergymen=
+	{
+		culture = songhai
+		religion = animist
+		size=49
+	}
+
+	bureaucrats=
+	{
+		culture = songhai
+		religion = animist
+		size=3
+	}
+
+	officers=
+	{
+		culture = songhai
+		religion = animist
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = songhai
+		religion = animist
+		size=41
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = animist
+		size=3365
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size=845
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size=3060
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size=583
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size=41
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size=490
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size=40375
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=7000
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=2258
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=430
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=30
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=26
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=361
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=31862
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5000
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = animist
+		size=516
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = animist
+		size=1869
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = animist
+		size=356
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = animist
+		size=25
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = animist
+		size=299
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = animist
+		size=27514
+	}
+
+}
+1906 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=5999
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = animist
+		size=2368
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = animist
+		size=451
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = animist
+		size=32
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = animist
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = animist
+		size=379
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = animist
+		size=34811
+	}
+
+}

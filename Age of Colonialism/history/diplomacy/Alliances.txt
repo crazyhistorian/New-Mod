@@ -1,0 +1,144 @@
+alliance=
+{
+	first="TUR"
+	second="GUJ"
+	start_date="1507.1.1"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="TUR"
+	second="EGY"
+	start_date="1507.1.1"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="ENL"
+	second="POR"
+	start_date="1373.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="FRA"
+	second="AUS"
+	start_date="1508.12.10"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="FRA"
+	second="ARO"
+	start_date="1508.12.10"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="FRA"
+	second="MOD"
+	start_date="1508.12.10"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="AUS"
+	second="ARO"
+	start_date="1508.12.10"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="AUS"
+	second="SPA"
+	start_date="1521.4.28"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="AUS"
+	second="BAV"
+	start_date="1521.4.28"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="AMD"
+	second="GOC"
+	start_date="1500.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="EGY"
+	second="GUJ"
+	start_date="1507.1.1"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="GUJ"
+	second="BAH"
+	start_date="1450.1.1"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="MEW"
+	second="JAS"
+	start_date="1490.1.1"
+	end_date="1579.1.22"
+}
+
+alliance=
+{
+	first="LUB"
+	second="RIG"
+	start_date="1380.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="LUB"
+	second="OLD"
+	start_date="1380.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="LUB"
+	second="MAG"
+	start_date="1380.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="LUB"
+	second="LUN"
+	start_date="1380.1.1"
+	end_date="1618.5.22"
+}
+
+alliance=
+{
+	first="LUB"
+	second="BRE"
+	start_date="1380.1.1"
+	end_date="1618.5.22"
+}
+

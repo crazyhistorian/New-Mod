@@ -1,0 +1,5 @@
+owner= MAH
+controller= MAH
+add_core= MAH
+trade_goods = timber
+life_rating = 35

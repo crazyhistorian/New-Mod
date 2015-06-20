@@ -1,0 +1,18 @@
+
+bookmark =
+{
+	name = "The Leage of Cambrai"
+	desc = "GC_DESC"
+	date = 1508.12.10
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "Eighty Years War"
+	desc = "GC_DESC"
+	date = 1579.1.23
+	cameraX = 2950 
+	cameraY = 1550
+}

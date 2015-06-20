@@ -1,0 +1,5 @@
+owner= MJZ
+controller= MJZ
+add_core= MJZ
+trade_goods = coal
+life_rating = 32

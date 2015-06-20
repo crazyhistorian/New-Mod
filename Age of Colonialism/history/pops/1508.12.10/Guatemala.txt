@@ -1,0 +1,204 @@
+2186 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size=690
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size=2760
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size=690
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=35
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=531
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size=64266
+	}
+
+}
+2187 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size=1124
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size=281
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=20
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=216
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size=25415
+	}
+
+}
+2188 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size=180
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size=720
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size=180
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=9
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=151
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size=16753
+	}
+
+}
+2189 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size=40
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size=160
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size=31
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size=3725
+	}
+
+}

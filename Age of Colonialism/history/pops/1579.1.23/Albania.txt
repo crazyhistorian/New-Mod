@@ -1,0 +1,255 @@
+849 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size=1739
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size=5735
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size=740
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=118
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size=74
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=725
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size=64869
+	}
+
+}
+850 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size=2397
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size=7905
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size=1020
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=163
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size=102
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=1000
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size=89413
+	}
+
+}
+851 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size=705
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size=2325
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size=300
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=48
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=294
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size=26298
+	}
+
+}
+852 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size=1593
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size=5255
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size=678
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=108
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size=68
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=664
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size=59434
+	}
+
+}
+853 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size=987
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size=3255
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size=420
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=67
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size=412
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size=36817
+	}
+
+}

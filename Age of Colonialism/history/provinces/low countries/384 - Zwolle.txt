@@ -1,0 +1,13 @@
+owner= GEL
+controller= GEL
+add_core= GEL
+add_core= UTR
+add_core= AUS
+trade_goods = fish
+life_rating = 35
+
+1579.1.23 = {
+owner = NET
+controller = NET
+add_core = NET
+remove_core = AUS }

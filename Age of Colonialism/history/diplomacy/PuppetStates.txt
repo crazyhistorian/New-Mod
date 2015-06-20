@@ -1,0 +1,537 @@
+vassal=
+{
+	first="TUR"
+	second="WAL"
+	start_date="1462.11.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="TUR"
+	second="MOL"
+	start_date="1512.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="TUR"
+	second="SIE"
+	start_date="1528.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="TUR"
+	second="RAG"
+	start_date="1528.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="PLC"
+	second="PRU"
+	start_date="1569.7.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="PLC"
+	second="ZAZ"
+	start_date="1569.7.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="PLC"
+	second="KUR"
+	start_date="1569.7.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="POL"
+	second="MAZ"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="POL"
+	second="TEU"
+	start_date="1466.10.19"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="FRA"
+	second="AUV"
+	start_date="1399.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="FRA"
+	second="ORL"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="FRA"
+	second="AMG"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="FRA"
+	second="BOU"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="FRA"
+	second="NEV"
+	start_date="1465.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="AUS"
+	second="SIL"
+	start_date="1526.8.30"
+	end_date="1618.5.22"
+}
+
+
+vassal=
+{
+	first="BOH"
+	second="SIL"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="VEN"
+	second="NAX"
+	start_date="1399.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="SAX"
+	second="THU"
+	start_date="1573.3.2"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="RUS"
+	second="PSK"
+	start_date="1503.4.2"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="RUS"
+	second="QAS"
+	start_date="1503.4.2"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="RUS"
+	second="RYA"
+	start_date="1503.4.2"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="RUS"
+	second="NOG"
+	start_date="1557.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="TUN"
+	second="TLC"
+	start_date="1468.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="KON"
+	second="LOA"
+	start_date="1444.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="KON"
+	second="NDO"
+	start_date="1444.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="AJU"
+	second="MDI"
+	start_date="1444.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="SIA"
+	second="LIG"
+	start_date="1400.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="SIA"
+	second="SUK"
+	start_date="1438.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="SIA"
+	second="PAT"
+	start_date="1500.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="AMA"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="ASA"
+	start_date="1444.11.11"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="CSK"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="DTE"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="HSK"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="HTK"
+	start_date="1444.11.11"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="IMG"
+	start_date="1444.11.11"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="MRI"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="ODA"
+	start_date="1444.11.11"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="OTM"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="OUC"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="SBA"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="SMZ"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="TKD"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="TKG"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="UES"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JAP"
+	second="YMN"
+	start_date="1444.11.11"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="BAH"
+	second="BIJ"
+	start_date="1490.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="BAH"
+	second="GOC"
+	start_date="1490.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="BUR"
+	second="LNA"
+	start_date="1558.4.2"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="BUR"
+	second="MLB"
+	start_date="1560.2.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="BUR"
+	second="SIA"
+	start_date="1569.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="DLH"
+	second="BGL"
+	start_date="1495.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="DLH"
+	second="TRT"
+	start_date="1498.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="GUJ"
+	second="BGA"
+	start_date="1507.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="MLW"
+	second="GDW"
+	start_date="1441.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="MLW"
+	second="BUN"
+	start_date="1443.1.1"
+	end_date="1579.1.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="JAN"
+	start_date="1555.7.23"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="RAJ"
+	start_date="1561.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="JOD"
+	start_date="1562.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="JAS"
+	start_date="1562.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="BGL"
+	start_date="1563.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="HAD"
+	start_date="1569.3.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="KHD"
+	start_date="1577.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="MUG"
+	second="BUN"
+	start_date="1577.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="VIJ"
+	second="MYS"
+	start_date="1529.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="ORI"
+	second="GRJ"
+	start_date="1576.1.1"
+	end_date="1618.5.22"
+}
+
+vassal=
+{
+	first="JOD"
+	second="NGA"
+	start_date="1465.1.1"
+	end_date="1579.1.22"
+}
+

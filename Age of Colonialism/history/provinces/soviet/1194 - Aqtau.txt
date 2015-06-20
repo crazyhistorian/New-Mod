@@ -1,0 +1,11 @@
+owner= NOG
+controller= NOG
+add_core= NOG
+trade_goods = opium
+life_rating = 25
+
+1579.1.23 = {
+owner = KZH
+controller = KZH
+add_core = KZH
+}

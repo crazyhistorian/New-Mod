@@ -1,0 +1,197 @@
+2239 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = british
+		religion = protestant
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size=25
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size=350
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size=25
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size=100
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=75
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=700
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=150
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size=13075
+	}
+
+}
+2242 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=9000
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=93
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=370
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=93
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=5
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=71
+	}
+
+}
+1979 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}

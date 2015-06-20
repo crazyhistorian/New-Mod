@@ -1,0 +1,5 @@
+owner= WAR
+controller= WAR
+add_core= WAR
+trade_goods = cotton
+life_rating = 15
