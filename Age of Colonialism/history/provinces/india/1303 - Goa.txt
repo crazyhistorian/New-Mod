@@ -1,0 +1,12 @@
+owner= BIJ
+controller= BIJ
+add_core= BIJ
+add_core= VIJ
+trade_goods = fruit
+life_rating = 32
+
+1579.1.23 = {
+owner = POR
+controller = POR
+add_core = POR
+}

@@ -1,0 +1,306 @@
+1356 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=864
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=3128
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=596
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=42
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=36
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=501
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=54423
+	}
+
+}
+1357 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=319
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=1155
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=15
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=185
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=20093
+	}
+
+}
+1361 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=1050
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=200
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=14
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=168
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=17523
+	}
+
+}
+1362 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=610
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=2210
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=421
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=29
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=354
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=38447
+	}
+
+}
+1360 = {
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size=232
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size=840
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size=160
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size=11
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size=134
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size=14613
+	}
+
+}
+1363 = {
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size=218
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size=788
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size=150
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size=11
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size=126
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size=13698
+	}
+
+}

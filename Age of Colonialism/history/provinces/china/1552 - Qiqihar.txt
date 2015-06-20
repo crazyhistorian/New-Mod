@@ -1,0 +1,11 @@
+owner= KRC
+controller= KRC
+add_core= KRC
+trade_goods = coal
+life_rating = 32
+
+1579.1.23 = {
+owner = MHX
+controller = MHX
+add_core = MHX
+}

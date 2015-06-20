@@ -1,0 +1,2417 @@
+1108 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=2929
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=10115
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=2010
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=141
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1697
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=184487
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=490
+	}
+
+}
+1109 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=608
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=2202
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=420
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=29
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=352
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=38314
+	}
+
+}
+1110 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=696
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=2520
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=480
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=34
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=403
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=43838
+	}
+
+}
+1111 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=726
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=2630
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=501
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=35
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=421
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=45757
+	}
+
+}
+1112 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=1016
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=3680
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=701
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=49
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=589
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=64023
+	}
+
+}
+1113 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=611
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=2213
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=422
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=30
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=354
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=38495
+	}
+
+}
+1114 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1208
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=16
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=193
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=20306
+	}
+
+}
+1115 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=683
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=130
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=9
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=109
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=11028
+	}
+
+}
+1116 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=509
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1843
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=351
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=25
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=295
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=32056
+	}
+
+}
+1117 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = shiite
+		size=857
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = shiite
+		size=2858
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = shiite
+		size=586
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = shiite
+		size=41
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = shiite
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = shiite
+		size=496
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = shiite
+		size=53977
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1118 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=334
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=1208
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=230
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=193
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=21005
+	}
+
+}
+1119 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=305
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1103
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=210
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=15
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=13
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=176
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=19178
+	}
+
+}
+1120 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=236
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=856
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=163
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=11
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=137
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=14887
+	}
+
+}
+1121 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=1227
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=3952
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=836
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=59
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=51
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=711
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=77264
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=490
+	}
+
+}
+1122 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=430
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1067
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=287
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=21
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=249
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=27078
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=490
+	}
+
+}
+1123 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=160
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=578
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=8
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=92
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size=10045
+	}
+
+}
+1124 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=509
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1843
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=351
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=25
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=295
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=32056
+	}
+
+}
+1125 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=726
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=2630
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=501
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=35
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=30
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=421
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=45757
+	}
+
+}
+1126 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=174
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=630
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=101
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=10960
+	}
+
+}
+1127 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=1407
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=4603
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=960
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=68
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=815
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=88589
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=490
+	}
+
+}
+1128 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=218
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=788
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=150
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=11
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=126
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=13698
+	}
+
+}
+1129 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=407
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1475
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=281
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=20
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=236
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=25664
+	}
+
+}
+1130 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=509
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1598
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=346
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=25
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=295
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=32056
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1131 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=203
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=490
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=135
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=10
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=118
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=12786
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1132 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=160
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=578
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=92
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=10045
+	}
+
+}
+1133 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=116
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=420
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=80
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=67
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=7306
+	}
+
+}
+1134 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=116
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=419
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=80
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=67
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=7282
+	}
+
+}
+1135 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=581
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1860
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=396
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=28
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=24
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=337
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=36624
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1136 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=363
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1313
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=250
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=18
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=210
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=22831
+	}
+
+}
+1137 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=523
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1895
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=361
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=25
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=303
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=32971
+	}
+
+}
+1138 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=174
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=630
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=101
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=10960
+	}
+
+}
+1139 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=58
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=210
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=3
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=34
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=3653
+	}
+
+}
+1140 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=291
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1055
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=201
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=14
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=169
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=18358
+	}
+
+}
+1141 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=277
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1003
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=191
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=13
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=160
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=17445
+	}
+
+}
+1142 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1265
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=241
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=17
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=202
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=21328
+	}
+
+}
+1143 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=290
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1050
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=200
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=14
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=168
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=18266
+	}
+
+}
+1144 = {
+	soldiers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=131
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = sunni
+		size=473
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = sunni
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size=76
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=8219
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size=131
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size=473
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size=76
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size=8219
+	}
+
+}
+1145 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=343
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=1243
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=237
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=17
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=199
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=21622
+	}
+
+}
+1146 = {
+	soldiers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = baluchi
+		religion = sunni
+		size=1260
+	}
+
+	clergymen=
+	{
+		culture = baluchi
+		religion = sunni
+		size=240
+	}
+
+	bureaucrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size=17
+	}
+
+	officers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = baluchi
+		religion = sunni
+		size=202
+	}
+
+	farmers=
+	{
+		culture = baluchi
+		religion = sunni
+		size=21234
+	}
+
+}
+1147 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size=1379
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size=4748
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size=946
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size=67
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size=57
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size=799
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size=86854
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+1148 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size=336
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size=1217
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size=232
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size=195
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size=21165
+	}
+
+}
+1149 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size=131
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size=473
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size=6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size=76
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size=8219
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=131
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=473
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=90
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=76
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=8219
+	}
+
+}
+1150 = {
+	soldiers=
+	{
+		culture = persian
+		religion = shiite
+		size=203
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = shiite
+		size=735
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = shiite
+		size=140
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = shiite
+		size=10
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = shiite
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = shiite
+		size=118
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = shiite
+		size=12786
+	}
+
+}

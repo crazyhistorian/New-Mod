@@ -1,0 +1,137 @@
+806 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=1537
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=4865
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=1035
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=127
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=64
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=890
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=96482
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=700
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size=275
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size=989
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size=2607
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size=657
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=82
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size=573
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size=62276
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=975
+	}
+
+}

@@ -1,0 +1,4 @@
+owner= SIB
+controller= SIB
+trade_goods = timber
+life_rating = 15

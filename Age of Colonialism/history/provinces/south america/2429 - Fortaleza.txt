@@ -1,0 +1,5 @@
+owner= PTG
+controller= PTG
+add_core= PTG
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,174 @@
+767 = {
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size=2696
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size=514
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size=62
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size=31
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size=431
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size=46583
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size=1033
+	}
+
+	craftsmen=
+	{
+		culture = south_german
+		religion = catholic
+		size=5278
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size=3680
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size=701
+	}
+
+	clerks=
+	{
+		culture = south_german
+		religion = catholic
+		size=362
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size=84
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size=42
+	}
+
+	capitalists=
+	{
+		culture = south_german
+		religion = catholic
+		size=1716
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size=589
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size=56615
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size=653
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size=2364
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size=450
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size=54
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size=378
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size=41099
+	}
+
+}

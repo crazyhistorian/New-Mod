@@ -1,0 +1,5 @@
+owner= AMD
+controller= AMD
+add_core= AMD
+trade_goods = cotton
+life_rating = 32

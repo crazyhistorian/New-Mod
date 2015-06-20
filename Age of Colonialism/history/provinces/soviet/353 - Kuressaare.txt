@@ -1,0 +1,12 @@
+owner= LIV
+controller= LIV
+add_core= LIV
+add_core= UBD
+trade_goods = grain
+life_rating = 35
+
+1579.1.23 = {
+owner = DEN
+controller = DEN
+add_core = DEN
+}

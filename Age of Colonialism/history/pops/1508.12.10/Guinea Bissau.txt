@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=2000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=117
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=424
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=81
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=6
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = animist
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=68
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=5374
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=3000
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=277
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=1003
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=191
+	}
+
+	bureaucrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=13
+	}
+
+	officers=
+	{
+		culture = african_minor
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=160
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=14445
+	}
+
+}

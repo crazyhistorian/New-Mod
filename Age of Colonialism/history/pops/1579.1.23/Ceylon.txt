@@ -1,0 +1,241 @@
+1321 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=1921
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size=6572
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size=1011
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=91
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=81
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=920
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=90504
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = tamil
+		religion = hindu
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = tamil
+		religion = hindu
+		size=4680
+	}
+
+	clergymen=
+	{
+		culture = tamil
+		religion = hindu
+		size=720
+	}
+
+	bureaucrats=
+	{
+		culture = tamil
+		religion = hindu
+		size=65
+	}
+
+	officers=
+	{
+		culture = tamil
+		religion = hindu
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = tamil
+		religion = hindu
+		size=655
+	}
+
+	farmers=
+	{
+		culture = tamil
+		religion = hindu
+		size=61689
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=1435
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size=4908
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size=755
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=68
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=687
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=67587
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=989
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = theravada
+		size=3383
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = theravada
+		size=521
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=47
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = theravada
+		size=474
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = theravada
+		size=46594
+	}
+
+}
+1325 = {
+	aristocrats=
+	{
+		culture = asian_minor
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = asian_minor
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = asian_minor
+		religion = sunni
+		size=500
+	}
+
+	soldiers=
+	{
+		culture = asian_minor
+		religion = sunni
+		size=75
+	}
+
+	farmers=
+	{
+		culture = asian_minor
+		religion = sunni
+		size=5325
+	}
+
+}

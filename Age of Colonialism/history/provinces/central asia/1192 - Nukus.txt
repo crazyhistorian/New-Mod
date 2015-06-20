@@ -1,0 +1,11 @@
+owner= BUK
+controller= BUK
+add_core= KHI
+add_core= BUK
+trade_goods = opium
+life_rating = 35
+
+1579.1.23 = {
+owner = KHI
+controller = KHI
+}

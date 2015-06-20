@@ -1,0 +1,442 @@
+1919 = {
+	aristocrats=
+	{
+		culture = fon
+		religion = animist
+		size=975
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = animist
+		size=500
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = animist
+		size=2050
+	}
+
+	soldiers=
+	{
+		culture = fon
+		religion = animist
+		size=500
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = animist
+		size=29975
+	}
+
+	slaves=
+	{
+		culture = fon
+		religion = animist
+		size=2000
+	}
+
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=275
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=150
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=750
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=150
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=13675
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=13000
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size=50
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size=25
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size=1800
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = animist
+		size=2000
+	}
+
+}
+1920 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=6199
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=163
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=559
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=86
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=8
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=78
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=6814
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size=980
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size=3354
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size=516
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=46
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = animist
+		size=41
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=470
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size=40879
+	}
+
+}
+1921 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=1099
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=33
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=112
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=17
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=16
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=1391
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size=197
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size=674
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size=104
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=9
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = animist
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=94
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size=8343
+	}
+
+}
+1922 = {
+	soldiers=
+	{
+		culture = mossi
+		religion = animist
+		size=19
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = animist
+		size=65
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = animist
+		size=10
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = animist
+		size=1
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = animist
+		size=9
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = animist
+		size=895
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = animist
+		size=114
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = animist
+		size=390
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = animist
+		size=60
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=5
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = animist
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = animist
+		size=55
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = animist
+		size=5371
+	}
+
+}

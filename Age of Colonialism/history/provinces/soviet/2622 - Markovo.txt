@@ -1,0 +1,5 @@
+owner= HOD
+controller= HOD
+add_core= HOD
+trade_goods = grain
+life_rating = 15

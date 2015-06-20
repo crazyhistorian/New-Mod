@@ -1,0 +1,12 @@
+owner= HSK
+controller= HSK
+add_core= HSK
+add_core= CSK
+trade_goods = fish
+life_rating = 35
+
+1579.1.23 = {
+owner = OTM
+controller = OTM
+add_core = OTM
+}

@@ -1,0 +1,12 @@
+owner= SWA
+controller= SWA
+add_core= SWA
+trade_goods = cotton
+life_rating = 35
+
+1579.1.23 = {
+owner = POR
+controller = POR
+add_core = POR
+colonial = 2
+}

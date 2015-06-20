@@ -1,0 +1,7 @@
+owner= BRD
+controller= BRD
+add_core= BRD
+add_core= NGF
+add_core= GER
+trade_goods = grain
+life_rating = 40

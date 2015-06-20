@@ -1,0 +1,5 @@
+owner= JOL
+controller= JOL
+add_core= JOL
+trade_goods = fruit
+life_rating = 30

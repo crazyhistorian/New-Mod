@@ -1,0 +1,8 @@
+owner= AUV
+controller= AUV
+add_core= AUV
+add_core= FRA
+add_core= BOU
+trade_goods = coal
+life_rating = 32
+

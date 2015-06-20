@@ -1,0 +1,11 @@
+owner= TAR
+controller= TAR
+add_core= TAR
+trade_goods = fruit
+life_rating = 35
+
+1579.1.23 = {
+owner = SPA
+controller = SPA
+add_core = SPA
+colonial = 2 }

@@ -1,0 +1,11 @@
+owner= YAO
+controller= YAO
+add_core= YAO
+trade_goods = grain
+life_rating = 15
+
+
+1579.1.23 = {
+owner = KBO
+controller = KBO
+add_core = KBO}
