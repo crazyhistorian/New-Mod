@@ -218,29 +218,29 @@ high_temperature_superconductivity;High Temperature Superconductivity;x;;;;;;;;;
 high_temperature_superconductivity_desc;High Temperature Superconductivity;x;;;;;;;;;;;;
 large_hadron_collider;The Large Hadron Collider;x;;;;;;;;;;;;
 large_hadron_collider_desc;The Large Hadron Collider;x;;;;;;;;;;;;
-army_doctrine;1700 - 1799;Doctrine militaire;Armeedoktrin;;Doctrina ejército;;;;;;;;;x
-light_armament;1800 - 1870;Armement léger;Leichte Bewaffnung;;Armamento ligero;;;;;;;;;x
-heavy_armament;1871 - 1918;Armement lourd ;Schwere Bewaffnung;;Armamento pesado;;;;;;;;;x
-military_science;1919 - 1949;Science militaire;Wehrwissenschaft;;Ciencia militar;;;;;;;;;x
-army_leadership;1950 - Today;Commandement ;Armeeführung;;Mando militar;;;;;;;;;x
-naval_doctrine;1700 - 1799;Doctrine navale;Marinedoktrin;;Doctrina naval;;;;;;;;;x
-ship_construction;1800 - 1870;Construction navale;Schiffsbau;;Construcción de barcos;;;;;;;;;x
-naval_engineering;1871 - 1918;Ingénierie navale;Marine-Ingenieurswesen;;Ingeniería naval;;;;;;;;;x
-naval_science;1919 - 1949;Science navale;Marinewissenschaft;;Ciencia naval;;;;;;;;;x
-naval_leadership;1950 - Today;Commandement ;Marineführung;;Mando naval;;;;;;;;;x
-financial_institutions;1700 - 1799;Institutions financières;Finanzinstitutionen;;Instituciones financieras;;;;;;;;;x
-monetary_system;1800 - 1870;Système monétaire;Währungssystem;;Sistema monetario;;;;;;;;;x
-economic_thought_and_critique;1871 - 1918;Pensée et critique économique;Wirtschaftsgedanken und -kritik;;Pensamiento y crítica económicas;;;;;;;;;x
-market_functionality;1919 - 1949;Fonctionnement du marché;Marktfunktionalität;;Funcionalidad de mercado;;;;;;;;;x
-tech_organization;1950 - Today;Organisation;Organisation;;Organización;;;;;;;;;x
-aesthetics;1700 - 1799;Arts;Ästhetik;;Estética;;;;;;;;;x
-philosophy;1800 - 1870;Philosophie;Philosophie;;Filosofía;;;;;;;;;x
-social_thought;1871 - 1918;Pensée sociale;Sozialer Gedanke;;Pensamiento social;;;;;;;;;x
-political_thought;1919 - 1949;Pensée politique;Politische Gedanken;;Pensamiento político;;;;;;;;;x
-psychology;1950 - Today;Psychologie;Psychologie;;Psicología;;;;;;;;;x
-tech_power;1700 - 1799;Énergie;Antriebskraft;;Energía;;;;;;;;;x
-mechanization;1800 - 1870;Mécanisation;Mechanisierung;;Mecanización;;;;;;;;;x
-metallurgy;1871 - 1918;Métallurgie;Metallurgie;;Metalurgia;;;;;;;;;x
-tech_infrastructure;1919 - 1949;Infrastructures ferroviaires;Infrastruktur;;Infraestructura;;;;;;;;;x
-chemistry_and_electricity;1950 - Today;Chimie et électricité;Chemie und Elektrizität;;Química y electricidad;;;;;;;;;x
+army_doctrine;Army Doctrine;Doctrine militaire;Armeedoktrin;;Doctrina ejército;;;;;;;;;x
+light_armament;Light Armament;Armement léger;Leichte Bewaffnung;;Armamento ligero;;;;;;;;;x
+heavy_armament;Heavy Armament;Armement lourd ;Schwere Bewaffnung;;Armamento pesado;;;;;;;;;x
+military_science;Military Science;Science militaire;Wehrwissenschaft;;Ciencia militar;;;;;;;;;x
+army_leadership;Army Leadership;Commandement ;Armeeführung;;Mando militar;;;;;;;;;x
+naval_doctrine;Naval Doctrine;Doctrine navale;Marinedoktrin;;Doctrina naval;;;;;;;;;x
+ship_construction;Ship Construction;Construction navale;Schiffsbau;;Construcción de barcos;;;;;;;;;x
+naval_engineering;Naval Engineering;Ingénierie navale;Marine-Ingenieurswesen;;Ingeniería naval;;;;;;;;;x
+naval_science;Naval Science;Science navale;Marinewissenschaft;;Ciencia naval;;;;;;;;;x
+naval_leadership;Naval Leadership;Commandement ;Marineführung;;Mando naval;;;;;;;;;x
+financial_institutions;Financial Institutions;Institutions financières;Finanzinstitutionen;;Instituciones financieras;;;;;;;;;x
+monetary_system;Monetary System;Système monétaire;Währungssystem;;Sistema monetario;;;;;;;;;x
+economic_thought_and_critique;Economic Thought and Critique;Pensée et critique économique;Wirtschaftsgedanken und -kritik;;Pensamiento y crítica económicas;;;;;;;;;x
+market_functionality;Market Functionality;Fonctionnement du marché;Marktfunktionalität;;Funcionalidad de mercado;;;;;;;;;x
+tech_organization;Tech Organization;Organisation;Organisation;;Organización;;;;;;;;;x
+aesthetics;Aesthetics;Arts;Ästhetik;;Estética;;;;;;;;;x
+philosophy;Philisophy;Philosophie;Philosophie;;Filosofía;;;;;;;;;x
+social_thought;Social Thought;Pensée sociale;Sozialer Gedanke;;Pensamiento social;;;;;;;;;x
+political_thought;Political Thought;Pensée politique;Politische Gedanken;;Pensamiento político;;;;;;;;;x
+psychology;Psychology;Psychologie;Psychologie;;Psicología;;;;;;;;;x
+tech_power;Tech Power;Énergie;Antriebskraft;;Energía;;;;;;;;;x
+mechanization;Mechanization;Mécanisation;Mechanisierung;;Mecanización;;;;;;;;;x
+metallurgy;Metallurgy;Métallurgie;Metallurgie;;Metalurgia;;;;;;;;;x
+tech_infrastructure;Tech Infrastructure;Infrastructures ferroviaires;Infrastruktur;;Infraestructura;;;;;;;;;x
+chemistry_and_electricity;Chemistry and Electricity;Chimie et électricité;Chemie und Elektrizität;;Química y electricidad;;;;;;;;;x
 ;;;;;;;;;;;;;;x
