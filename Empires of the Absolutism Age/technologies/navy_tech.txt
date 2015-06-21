@@ -3654,8 +3654,8 @@ early_weapon_platforms = {
 
 fixed_gun_armament = {
 	area = naval_engineering
-	year = 1830
-	cost = 20000
+	year = 1800
+	cost = 18000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	navy_base = { gun_power = 1.5 }
@@ -3747,8 +3747,8 @@ fixed_gun_armament = {
 
 balanced_naval_design = {
 	area = naval_engineering
-	year = 1850
-	cost = 22000
+	year = 1830
+	cost = 20000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -3834,8 +3834,8 @@ balanced_naval_design = {
 
 napoleonic_naval_design = {
 	area = naval_engineering
-	year = 1870
-	cost = 24000
+	year = 1830
+	cost = 20000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -3916,8 +3916,8 @@ napoleonic_naval_design = {
 
 fire_control_systems = {
 	area = naval_engineering
-	year = 1890
-	cost = 26000
+	year = 1850
+	cost = 22000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4001,8 +4001,8 @@ fire_control_systems = {
 
 weapon_platforms = {
 	area = naval_engineering
-	year = 1910
-	cost = 28000
+	year = 1870
+	cost = 24000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4088,8 +4088,8 @@ weapon_platforms = {
 
 premodern_naval_design_bureaus = {
 	area = naval_engineering
-	year = 1930
-	cost = 30000
+	year = 1890
+	cost = 26000
 	navy_base = { build_time = -10 }
 	unciv_military = yes
 	ai_chance = {
@@ -4175,8 +4175,8 @@ premodern_naval_design_bureaus = {
 
 main_armament = {
 	area = naval_engineering
-	year = 1940
-	cost = 32000
+	year = 1910
+	cost = 28000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4273,8 +4273,8 @@ main_armament = {
 
 naval_design_bureaus = {
 	area = naval_engineering
-	year = 1950
-	cost = 34000
+	year = 1930
+	cost = 30000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
     navy_base = { attack = 2.5 }
@@ -4363,8 +4363,8 @@ naval_design_bureaus = {
 
 advanced_naval_design = {
 	area = naval_engineering
-	year = 1960
-	cost = 36000
+	year = 1940
+	cost = 32000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4450,8 +4450,8 @@ advanced_naval_design = {
 
 modern_naval_design = {
 	area = naval_engineering
-	year = 1970
-	cost = 38000
+	year = 1950
+	cost = 34000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4532,8 +4532,8 @@ modern_naval_design = {
 
 naval_power_projection = {
 	area = naval_engineering
-	year = 1980
-	cost = 40000
+	year = 1960
+	cost = 36000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4614,8 +4614,8 @@ naval_power_projection = {
 
 nuclear_marine_propulsion = {
 	area = naval_engineering
-	year = 1990
-	cost = 42000
+	year = 1970
+	cost = 38000
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 }
     	navy_base = { build_time = -10 }
@@ -4693,8 +4693,8 @@ nuclear_marine_propulsion = {
 
 modern_naval_architect = {
 	area = naval_engineering
-	year = 2000
-	cost = 44000
+	year = 1980
+	cost = 40000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
     navy_base = { attack = 2.5 }
@@ -4778,8 +4778,8 @@ modern_naval_architect = {
 
 naval_superstructures = {
 	area = naval_engineering
-	year = 2000
-	cost = 44000
+	year = 1990
+	cost = 42000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
