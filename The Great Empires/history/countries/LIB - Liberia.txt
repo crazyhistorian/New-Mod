@@ -88,6 +88,6 @@ oob = "LIB_oob.txt"
 	school_reforms = no_schools
 
 	#Technologies
-	flintlock_rifles = 1
-	post_nelsonian_thought = 1
+	early_muskets = 1
+	colombus_voyage = 1
 }

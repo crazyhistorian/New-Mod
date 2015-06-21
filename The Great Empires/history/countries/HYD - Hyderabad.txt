@@ -58,6 +58,6 @@ school_reforms = no_schools
 	foreign_officers = yes_foreign_officers
 
 	#Technologies
-	flintlock_rifles = 1
-	military_staff_system = 1
+	early_muskets = 1
+	army_direct_command = 1
 }
