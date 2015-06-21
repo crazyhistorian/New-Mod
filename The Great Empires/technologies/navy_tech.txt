@@ -3125,8 +3125,8 @@ nuclear_submarines = {
 
 15th_century_cannons = {
 	area = naval_engineering
-	year = 1453
-	cost = 4000
+	year = 1450
+	cost = 5600
 	unciv_military = yes
 	navy_base = {
 			gun_power = 1
@@ -3214,8 +3214,8 @@ nuclear_submarines = {
 
 16th_century_cannons = {
 	area = naval_engineering
-	year = 1530
-	cost = 5600
+	year = 1550
+	cost = 8000
 	unciv_military = yes
 	navy_base = {
 			gun_power = 0.5
@@ -3303,8 +3303,8 @@ nuclear_submarines = {
 
 17th_century_cannons = {
 	area = naval_engineering
-	year = 1630
-	cost = 8400
+	year = 1650
+	cost = 12000
 	unciv_military = yes
 	navy_base = {
 			gun_power = 0.5
@@ -3393,7 +3393,7 @@ nuclear_submarines = {
 early_naval_design_bureaus = {
 	area = naval_engineering
 	year = 1700
-	cost = 10400
+	cost = 14000
 	navy_base = { build_time = -10 }
 	unciv_military = yes
 	ai_chance = {
@@ -3479,8 +3479,8 @@ early_naval_design_bureaus = {
 
 fixed_ship_design = {
 	area = naval_engineering
-	year = 1700
-	cost = 11200
+	year = 1750
+	cost = 16000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	navy_base = { gun_power = 1.5 } 
@@ -3567,8 +3567,8 @@ fixed_ship_design = {
 
 early_weapon_platforms = {
 	area = naval_engineering
-	year = 1730
-	cost = 13200
+	year = 1800
+	cost = 18000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -3654,8 +3654,8 @@ early_weapon_platforms = {
 
 fixed_gun_armament = {
 	area = naval_engineering
-	year = 1750
-	cost = 14000
+	year = 1830
+	cost = 20000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	navy_base = { gun_power = 1.5 }
@@ -3747,8 +3747,8 @@ fixed_gun_armament = {
 
 balanced_naval_design = {
 	area = naval_engineering
-	year = 1780
-	cost = 15200
+	year = 1850
+	cost = 22000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -3834,8 +3834,8 @@ balanced_naval_design = {
 
 napoleonic_naval_design = {
 	area = naval_engineering
-	year = 1809
-	cost = 16800
+	year = 1870
+	cost = 24000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -3916,8 +3916,8 @@ napoleonic_naval_design = {
 
 fire_control_systems = {
 	area = naval_engineering
-	year = 1840
-	cost = 19600
+	year = 1890
+	cost = 26000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4001,8 +4001,8 @@ fire_control_systems = {
 
 weapon_platforms = {
 	area = naval_engineering
-	year = 1879
-	cost = 24000
+	year = 1910
+	cost = 28000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4088,8 +4088,8 @@ weapon_platforms = {
 
 premodern_naval_design_bureaus = {
 	area = naval_engineering
-	year = 1894
-	cost = 26000
+	year = 1930
+	cost = 30000
 	navy_base = { build_time = -10 }
 	unciv_military = yes
 	ai_chance = {
@@ -4175,8 +4175,8 @@ premodern_naval_design_bureaus = {
 
 main_armament = {
 	area = naval_engineering
-	year = 99999
-	cost = 29200
+	year = 1940
+	cost = 32000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4273,8 +4273,8 @@ main_armament = {
 
 naval_design_bureaus = {
 	area = naval_engineering
-	year = 1922
-	cost = 30000
+	year = 1950
+	cost = 34000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
     navy_base = { attack = 2.5 }
@@ -4363,8 +4363,8 @@ naval_design_bureaus = {
 
 advanced_naval_design = {
 	area = naval_engineering
-	year = 1928
-	cost = 31200
+	year = 1960
+	cost = 36000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4450,8 +4450,8 @@ advanced_naval_design = {
 
 modern_naval_design = {
 	area = naval_engineering
-	year = 1938
-	cost = 33200
+	year = 1970
+	cost = 38000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4532,8 +4532,8 @@ modern_naval_design = {
 
 naval_power_projection = {
 	area = naval_engineering
-	year = 1959
-	cost = 36800
+	year = 1980
+	cost = 40000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4614,8 +4614,8 @@ naval_power_projection = {
 
 nuclear_marine_propulsion = {
 	area = naval_engineering
-	year = 1971
-	cost = 38400
+	year = 1990
+	cost = 42000
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 }
     	navy_base = { build_time = -10 }
@@ -4693,8 +4693,8 @@ nuclear_marine_propulsion = {
 
 modern_naval_architect = {
 	area = naval_engineering
-	year = 1977
-	cost = 39200
+	year = 2000
+	cost = 44000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
     navy_base = { attack = 2.5 }
@@ -4778,8 +4778,8 @@ modern_naval_architect = {
 
 naval_superstructures = {
 	area = naval_engineering
-	year = 1990
-	cost = 40800
+	year = 2000
+	cost = 44000
 	unciv_military = yes
 	navy_base = { build_time = -10 }
 	ai_chance = {
@@ -4862,8 +4862,8 @@ naval_superstructures = {
 
 spanish_armada = {
 	area = naval_science
-	year = 1585
-	cost = 7200
+	year = 1550
+	cost = 8000
 	unciv_military = yes
 	supply_range = 0.10
 	ai_chance = {
@@ -4905,8 +4905,8 @@ spanish_armada = {
 
 naval_flag_signaling = {
 	area = naval_science
-	year = 1620
-	cost = 8000
+	year = 1600
+	cost = 10000
 	unciv_military = yes
 	supply_range = 0.10
 	
@@ -4949,8 +4949,8 @@ naval_flag_signaling = {
 
 early_naval_plans = {
 	area = naval_science
-	year = 1660
-	cost = 19600
+	year = 1650
+	cost = 12000
 	unciv_military = yes
 	supply_range = 0.10
 	
@@ -4994,7 +4994,7 @@ early_naval_plans = {
 early_naval_statistics = {
 	area = naval_science
 	year = 1700
-	cost = 11600
+	cost = 14000
 	unciv_military = yes
 	supply_range = 0.25
 		ai_chance = {
@@ -5036,8 +5036,8 @@ early_naval_statistics = {
 
 alphabetic_flag_signaling = {
 	area = naval_science
-	year = 1830
-	cost = 18800
+	year = 1750
+	cost = 16000
 	unciv_military = yes
     navy_base = { attack = 2.5 }
     navy_base = { hull = 2.5 }
@@ -5082,8 +5082,8 @@ alphabetic_flag_signaling = {
 
 early_naval_directionism = {
 	area = naval_science
-	year = 1860
-	cost = 21200
+	year = 1800
+	cost = 18000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5125,8 +5125,8 @@ early_naval_directionism = {
 
 early_naval_logistics = {
 	area = naval_science
-	year = 1865
-	cost = 21600
+	year = 1830
+	cost = 20000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5168,8 +5168,8 @@ early_naval_logistics = {
 
 early_naval_integration = {
 	area = naval_science
-	year = 1869
-	cost = 45200
+	year = 1850
+	cost = 22000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5219,8 +5219,8 @@ early_naval_integration = {
 
 naval_plans = {
 	area = naval_science
-	year = 1873
-	cost = 23200
+	year = 1870
+	cost = 24000
 	unciv_military = yes
 	supply_range = 0.10
 	
@@ -5263,8 +5263,8 @@ naval_plans = {
 
 numeral_flag_signaling = {
 	area = naval_science
-	year = 1891
-	cost = 25600
+	year = 1890
+	cost = 26000
 	unciv_military = yes
 	supply_range = 0.10
 	
@@ -5307,8 +5307,8 @@ numeral_flag_signaling = {
 
 pre_modern_naval_plans = {
 	area = naval_science
-	year = 1897
-	cost = 26400
+	year = 1910
+	cost = 28000
 	unciv_military = yes
 	supply_range = 0.10
 	
@@ -5351,8 +5351,8 @@ pre_modern_naval_plans = {
 
 pre_modern_naval_statistics = {
 	area = naval_science
-	year = 1900
-	cost = 26800
+	year = 1930
+	cost = 30000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5394,8 +5394,8 @@ pre_modern_naval_statistics = {
 
 pre_modern_naval_logistics = {
 	area = naval_science
-	year = 1909
-	cost = 28000
+	year = 1940
+	cost = 32000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5437,8 +5437,8 @@ pre_modern_naval_logistics = {
 
 pre_modern_naval_directionism = {
 	area = naval_science
-	year = 1920
-	cost = 29600
+	year = 1950
+	cost = 34000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5480,8 +5480,8 @@ pre_modern_naval_directionism = {
 
 pre_modern_naval_integration = {
 	area = naval_science
-	year = 1932
-	cost = 32000
+	year = 1960
+	cost = 36000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5531,8 +5531,8 @@ pre_modern_naval_integration = {
 
 naval_statistics = {
 	area = naval_science
-	year = 1948
-	cost = 70800
+	year = 1970
+	cost = 38000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5574,8 +5574,8 @@ naval_statistics = {
 
 naval_logistics = {
 	area = naval_science
-	year = 1962
-	cost = 37200
+	year = 1980
+	cost = 40000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5617,8 +5617,8 @@ naval_logistics = {
 
 naval_directionism = {
 	area = naval_science
-	year = 1974
-	cost = 38800
+	year = 1990
+	cost = 42000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5660,8 +5660,8 @@ naval_directionism = {
 
 naval_integration = {
 	area = naval_science
-	year = 1986
-	cost = 40400
+	year = 2000
+	cost = 44000
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
@@ -5711,8 +5711,8 @@ naval_integration = {
 
 satellite_communications = {
 	area = naval_science
-	year = 2000
-	cost = 41200	
+	year = 2010
+	cost = 46000	
 	unciv_military = yes
 	supply_range = 0.10
 		ai_chance = {
