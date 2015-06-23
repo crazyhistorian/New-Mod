@@ -89,7 +89,6 @@ oob = "ANH_oob.txt"
 	breech_loaded_rifles = 1
 	bronze_muzzle_loaded_artillery = 1
 	iron_muzzle_loaded_artillery = 1
-	iron_breech_loaded_artillery = 1
 	military_staff_system = 1
 	military_plans = 1
 	military_statistics = 1

@@ -1,6 +1,5 @@
 owner = POL
 controller = POL
-add_core = RUS
 add_core = LIT
 add_core = POL
 trade_goods = grain
@@ -11,5 +10,6 @@ railroad = 3
 
 owner = RUS
 controller = RUS
+add_core = RUS
 
 }

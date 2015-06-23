@@ -1,6 +1,5 @@
 owner = ROM
 controller = ROM
-add_core = RUS
 add_core = MOL
 add_core = ROM
 trade_goods = fish
@@ -11,5 +10,7 @@ life_rating = 35
 owner = RUS
 controller = RUS
 add_core = UKR
+add_core = RUS
+remove_core = ROM
 
 }

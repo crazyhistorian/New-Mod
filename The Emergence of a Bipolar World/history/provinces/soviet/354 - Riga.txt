@@ -1,6 +1,5 @@
 owner = LAT
 controller = LAT
-add_core = RUS
 add_core = LAT
 trade_goods = fish
 life_rating = 35
@@ -17,5 +16,6 @@ state_building = {
 
 owner = RUS
 controller = RUS
+add_core = RUS
 
 }

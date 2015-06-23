@@ -85,6 +85,7 @@ napoleonic_cannons = 1
 post_napoleonic_cannons = 1
 bronze_muzzle_loaded_artillery = 1
 iron_muzzle_loaded_artillery = 1
+iron_breech_loaded_artillery = 1
 steel_breech_loaded_artillery = 1
 
 late_medieval_warfare = 1
