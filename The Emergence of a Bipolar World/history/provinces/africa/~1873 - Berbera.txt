@@ -1,5 +1,0 @@
-colonial = yes
-owner = ITA
-controller = ITA
-trade_goods = cITAon
-life_rating = 15

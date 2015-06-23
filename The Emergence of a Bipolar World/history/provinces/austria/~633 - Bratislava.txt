@@ -1,0 +1,16 @@
+owner = SLV
+controller = SLV
+
+add_core = SLV
+add_core = HUN
+add_core = CZH
+trade_goods = cattle
+life_rating = 35
+railroad = 3
+
+1949.1.1 = {
+
+owner = CZH
+controller = CZH
+
+}

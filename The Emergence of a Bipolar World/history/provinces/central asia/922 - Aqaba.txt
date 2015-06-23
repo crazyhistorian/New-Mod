@@ -1,15 +1,13 @@
 colonial = 2
 owner = ENG
 controller = ENG
-add_core = TUR
+
 trade_goods = wool
 life_rating = 35
 
 1949.1.1 = {
 
 colonial = no
-remove_core = ENG
-remove_core = TUR
 owner = JOR
 controller = JOR
 add_core = JOR

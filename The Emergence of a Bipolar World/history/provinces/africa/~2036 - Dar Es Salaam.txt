@@ -1,5 +1,0 @@
-colonial = yes
-owner = ENG
-controller = ENG
-trade_goods = fish
-life_rating = 35

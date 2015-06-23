@@ -1,0 +1,23 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = MEX
+trade_goods = oil
+life_rating = 35
+railroad = 3
+state_building = {
+	level = 3
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = synthetic_oil_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = fuel_refinery
+	upgrade = yes
+}
+

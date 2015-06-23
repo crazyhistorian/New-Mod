@@ -1,17 +1,8 @@
-colonial = 2
-owner = FRA
-controller = FRA
+owner = TUR
+controller = TUR
 add_core = TUR
 trade_goods = fruit
 life_rating = 35
 
-1949.1.1 = {
 
-remove_core = FRA
-owner = TUR
-controller = TUR
-add_core = TUR
-colonial = no
-
-}
 

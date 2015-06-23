@@ -1,18 +1,15 @@
 colonial = 2
 owner = FRA
 controller = FRA
-add_core = TUR
 trade_goods = fruit
 life_rating = 35
 
 1949.1.1 = {
 
-remove_core = FRA
-remove_core = TUR
+
 owner = LEB
 controller = LEB
 add_core = LEB
-add_core = SYR
 colonial = no
 
 }
