@@ -1,6 +1,6 @@
 owner = GER
 controller = GER
-
+add_core = GER
 add_core = BOH
 add_core = CZH
 add_core = POL
@@ -11,5 +11,6 @@ life_rating = 35
 
 owner = CZH
 controller = CZH
-
+remove_core = GER
+remove_core = POL
 }

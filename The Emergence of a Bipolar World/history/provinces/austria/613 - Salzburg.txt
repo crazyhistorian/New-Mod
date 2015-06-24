@@ -1,6 +1,7 @@
 owner = GER
 controller = GER
 add_core = AUS
+add_core = GER
 trade_goods = grain
 life_rating = 35
 railroad = 2
@@ -14,6 +15,7 @@ state_building = {
 
 owner = USA
 controller = USA
-add_core = EGR
+remove_core = GER
+remove_core = EGR
 
 }

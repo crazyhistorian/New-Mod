@@ -8,8 +8,8 @@ life_rating = 35
 
 owner = ENG
 controller = ENG
-add_core = WGR
-add_core = EGR
+remove_core = GER
+add_core = DEN
 
 
 }

@@ -11,5 +11,5 @@ owner = RUS
 controller = RUS
 add_core = RUS
 add_core = UKR
-
+remove_core = POL
 }

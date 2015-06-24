@@ -4,3 +4,9 @@ add_core = FRA
 add_core = GER
 trade_goods = sulphur
 life_rating = 35
+
+1949.1.1 = {
+
+remove_core = GER
+
+}

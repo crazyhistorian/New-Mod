@@ -11,6 +11,6 @@ railroad = 3
 
 owner = POL
 controller = POL
-add_core = EGR
+remove_core = GER
 
 }

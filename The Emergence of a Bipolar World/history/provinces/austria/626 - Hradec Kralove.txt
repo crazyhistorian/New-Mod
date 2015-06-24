@@ -1,6 +1,6 @@
 owner = GER
 controller = GER
-
+add_core = GER
 add_core = BOH
 add_core = CZH
 trade_goods = coal
@@ -10,5 +10,5 @@ life_rating = 35
 
 owner = CZH
 controller = CZH
-
+remove_core = GER
 }

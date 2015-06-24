@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
+owner = FRA
+controller = FRA
 trade_goods = fish
 life_rating = 35
-colonial = yes
+colonial = 2

@@ -6,3 +6,10 @@ add_core = YUG
 trade_goods = grain
 life_rating = 35
 naval_base = 1
+
+1949.1.1 = {
+
+owner = YUG
+controller = YUG
+remove_core = ITA
+}

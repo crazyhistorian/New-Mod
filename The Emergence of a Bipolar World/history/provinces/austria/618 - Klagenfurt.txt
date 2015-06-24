@@ -1,6 +1,7 @@
 owner = GER
 controller = GER
 add_core = AUS
+add_core = GER
 trade_goods = coal
 life_rating = 35
 
@@ -8,5 +9,6 @@ life_rating = 35
 
 owner = ENG
 controller = ENG
+remove_core = GER
 
 }

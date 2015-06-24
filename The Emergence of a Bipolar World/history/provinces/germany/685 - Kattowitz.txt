@@ -1,7 +1,12 @@
 owner = POL
 controller = POL
-
-add_core = GER
 add_core = POL
+add_core = GER
 trade_goods = coal
 life_rating = 35
+
+1949.1.1 = {
+
+remove_core = GER
+
+}

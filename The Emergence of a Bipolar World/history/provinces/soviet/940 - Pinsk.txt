@@ -9,7 +9,8 @@ railroad = 3
 
 owner = RUS
 controller = RUS
-add_core = BLR
+add_core = BYE
 add_core = RUS
+remove_core = POL
 
 }

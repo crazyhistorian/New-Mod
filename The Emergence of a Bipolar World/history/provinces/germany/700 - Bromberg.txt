@@ -5,3 +5,9 @@ add_core = GER
 add_core = POL
 trade_goods = grain
 life_rating = 35
+
+1949.1.1 = {
+
+remove_core = GER
+
+}

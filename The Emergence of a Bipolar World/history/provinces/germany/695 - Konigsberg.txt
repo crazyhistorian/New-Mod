@@ -18,5 +18,7 @@ state_building = {
 owner = RUS
 controller = RUS
 add_core = RUS
+remove_core = GER
+remove_core = EGR
 
 }
